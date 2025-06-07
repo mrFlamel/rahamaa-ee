@@ -2,12 +2,12 @@
   "speak_b_timemachine_welcome": {
     "contenttype": "sound",
     "content": "estonian/ee_ajamasin_tervitus.mp3",
-    "subtitle": "Tere tulemast ajamasinasse! Sellega saad reisida ajas tagasi ning proovida igasuguseid toredaid ja p\u00f5nevaid asju, aga ainult siis, kui sul on piisavalt raha. Iga reis maksab ühe kuldm\u00fcndi, puuduta rohelist nuppu ja vali, kuhu sa tahaksid minna."
+    "subtitle": "Tere tulemast ajamasinasse! Sellega saad reisida ajas tagasi ning proovida igasuguseid toredaid ja põnevaid asju, aga ainult siis, kui sul on piisavalt raha. Iga reis maksab ühe kuldmündi, puuduta rohelist nuppu ja vali, kuhu sa tahaksid minna."
   },
   "speak_timemachine_nocash": {
     "contenttype": "sound",
     "content": "dk_ikke_raad.mp3",
-    "subtitle": "Det har du desv\u00e6rre ikke r\u00e5d til, s\u00e5 du m\u00e5 ud og tjene nogle penge!"
+    "subtitle": "Kahjuks ei saa sa praegu endale seda reisi lubada! Sa pead minema tagasi Rahamaale ja teenima natuke raha juurde."
   },
   "speak_timemachine_travel": {
     "contenttype": "sound",
@@ -17,22 +17,22 @@
   "speak_timemachine_rome": {
     "contenttype": "sound",
     "content": "dk_forklaring_paa_rom.mp3",
-    "subtitle": "Det her er rejsen til det gamle Rom. Her kan du hj\u00e6lpe med at bygge flotte og store bygninger."
+    "subtitle": "See reis viib sind ajas tagasi Vana-Roomasse. Sa saad aidata ehitada suuri ja ilusaid hooneid."
   },
   "speak_timemachine_dino": {
     "contenttype": "sound",
     "content": "dk_forklaring_paa_dinosaur.mp3",
-    "subtitle": "Her kan du rejse tilbage til dengang, hvor der fandtes dinosaurusser og hj\u00e6lpe med at finde dinosaurus \u00e6g."
+    "subtitle": "Her kan du rejse tilbage til dengang, hvor der fandtes dinosaurusser og hjælpe med at finde dinosaurus æg."
   },
   "speak_timemachine_ridder": {
     "contenttype": "sound",
     "content": "dk_forklaringp_paa_riddertiden.mp3",
-    "subtitle": "Her kan du rejse tilbage til Riddertiden og pr\u00f8ve at k\u00e6mpe som en ridder."
+    "subtitle": "Siin saad sa reisida tagasi keskaegsete rüütlite juurde."
   },
   "speak_timemachine_egypt": {
     "contenttype": "sound",
-    "content": "dk_forklaring_paa_aegypten.mp3",
-    "subtitle": "Det her er rejsen til det gamle Egypten. Her er de i gang med at bygge verdens st\u00f8rste pyramide, og du kan hj\u00e6lpe med at indrette den."
+    "content": "estonian/row25.mp3",
+    "subtitle": "See reis viib sind ajas tagasi Vana-Egiptusesse. Egiptlased ehitavad maailma suurimat püramiidi ning sina saad olla abiks selle kaunistamisel."
   },
   "timemachine_ambient_sound1": {
     "contenttype": "sound",

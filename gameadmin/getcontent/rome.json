@@ -2,17 +2,17 @@
   "speak_b_rome_complete": {
     "contenttype": "sound",
     "content": "dk_afslutning.mp3",
-    "subtitle": "Det var du god til! Synes du ikke, at den er blevet flot? Det synes jeg, den er."
+    "subtitle": "Sellega said sa küll hästi hakkama! Eks ole, et see hoone näeb uhke välja? Minu meelest küll!"
   },
   "speak_b_rome_startPuzzle": {
     "contenttype": "sound",
-    "content": "dk_velkomst_og_forklaring_rom_0.mp3",
-    "subtitle": "Du skal tr\u00e6kke brikkerne med musen over p\u00e5 det rigtige sted p\u00e5 tegningen. N\u00e5r du har sat alle brikkerne rigtig, er du f\u00e6rdig. Tryk p\u00e5 den gr\u00f8nne knap, n\u00e5r du er klar til at bygge."
+    "content": "estonian/row28.mp3",
+    "subtitle": "Lohista tellised joonisel õigesse kohta. Kui oled kõik tellised õigesse kohta pannud, siis on ehitustöö valmis. Puuduta rohelist nuppu, kui oled ehitamiseks valmis."
   },
   "speak_b_rome_welcome": {
     "contenttype": "sound",
-    "content": "dk_velkomst_og_forklaring_rom.mp3",
-    "subtitle": "Velkommen tilbage til det gamle Rom. Her skal du hj\u00e6lpe med at bygge flotte bygninger! Du kan v\u00e6lge imellem tre forskellige bygninger - den f\u00f8rste er den nemmeste, og den sidste er den sv\u00e6reste."
+    "content": "estonian/row27.mp3",
+    "subtitle": "Tere tulemast iidsesse Rooma linna! Siin pead aitama ilusaid hooneid ehitada. Saad valida kolme hoone vahel, millest esimene on kõige lihtsam ja viimane kõige keerulisem. Lohista tellised joonisel õigesse kohta. Kui oled kõik tellised õigesse kohta pannud, siis on ehitustöö valmis. Puuduta rohelist nuppu, kui oled ehitamiseks valmis."
   },
   "rome_ambient": {
     "contenttype": "sound",
