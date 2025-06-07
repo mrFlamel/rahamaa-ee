@@ -1,8 +1,8 @@
 {
   "speak_b_apple_done": {
     "contenttype": "sound",
-    "content": "dk_afslutning_game_over.mp3",
-    "subtitle": "Sikke en masse god juice du fik lavet! Men du tabte tre æbler på jorden. Du kan prøve igen, hvis du gerne vil tjene flere penge! Har du penge nok, kan du rejse en tur med Tidsmaskinen. Det kan også være, at der er kommet nogle flere ting i Karens butik, du kunne tænke dig?"
+    "content": "estonian/row53.mp3",
+    "subtitle": "Nüüd oled sa küll palju maitsvat mahla valmistanud! Aga sa pillasid kolm õuna ka maha. Kui soovid veel raha teenida, siis proovi uuesti. Kui sul on piisavalt raha, võid minna  reisile ajamasinas. Aga äkki on tädi Anni poodi saabunud mingeid uusi asju, mida sa tahaksid osta."
   },
   "speak_b_apple_done_no_money": {
     "contenttype": "sound",

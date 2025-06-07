@@ -6,7 +6,7 @@
   },
   "speak_wizard_not_complete": {
     "contenttype": "sound",
-    "content": "dk_man_klarer_ikke_testen.mp3",
+    "content": "estonian/row55.mp3",
     "subtitle": "Sa ei vastanud kõigile küsimustele õigesti, nii et pead veel ootama, enne kui saladust kuuled. Äkki oleks hea mõte, kui sa külastaksid mõnda Rahamaa paika uuesti?"
   },
   "speak_wizard_secret": {
@@ -16,8 +16,8 @@
   },
   "speak_wizard_welcome": {
     "contenttype": "sound",
-    "content": "dk_velkomst_og_forklaring_troldmanden.mp3",
-    "subtitle": "Jeg kan se på mit kort, at du har besøgt alle stederne, så nu er du klar til at høre min hemmelighed! Men før jeg fortæller dig hemmeligheden, skal du svare på nogle spørgsmål. Du kan eventuelt få en voksen til at hjælpe dig med spørgsmålene. Tryk på den grønne knap, når du er klar."
+    "content": "estonian/row54.mp3",
+    "subtitle": "Näen oma kaardilt, et  oled kõigis kohtades käinud. Nüüd oled valmis mu saladust kuulma. Aga enne pead vastama mõnele küsimusele. Kui vaja, võid paluda täiskasvanu appi küsimustele vastama. Puuduta rohelist nuppu, kui oled valmis."
   },
   "wizard_completed_header": {
     "contenttype": "label",

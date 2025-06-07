@@ -91,8 +91,8 @@
   },
   "speak_universe_wizard_not_ready": {
     "contenttype": "sound",
-    "content": "dk_roll_over_paa_troldmand_ikke_klar2.mp3",
-    "subtitle": "Jeg er troldmand - og jeg har en hemmelighed! Men du skal have besøgt alle stederne i Pengeby, før jeg vil fortælle dig den."
+    "content": "estonian/row15.mp3",
+    "subtitle": "Mina olen Võlur - ja mul on üks saladus! Aga enne, kui ma seda sulle räägin, pead sa ära käima kõigis Rahamaa paikades."
   },
   "monopolyAccess_calc_text": {
     "contenttype": "label",

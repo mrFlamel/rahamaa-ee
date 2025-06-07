@@ -6,23 +6,23 @@
   },
   "speak_b_farm_intro": {
     "contenttype": "sound",
-    "content": "farm_intro_59.mp3",
+    "content": "estonian/row59.mp3",
     "subtitle": "Tere tulemast! Siin on meie talu. Palun aita meil loomad kokku koguda, sest neil on söögiaeg.  Esmalt otsi loomad üles. Lohista õige arv loomi suure ringi keskele. Alustamiseks puuduta rohelist nuppu."
   },
   "speak_farm_feed_cow": {
     "contenttype": "sound",
-    "content": "farm_feed_cow_78.mp3",
-    "subtitle": "Nu er køerne samlet og nu skal de have mad. Hver sæk giver mad til 1 ko. Hvor mange sække skal du bruge? Tryk på den grønne knap når du har trukket det rigtige antal sække ind i cirklen"
+    "content": "estonian/row61.mp3",
+    "subtitle": "Oled kõik lehmad kokku kogunud ja võiksid neile nüüd süüa anda. Igas kotis on parasjagu toitu ühe lehma jaoks. Mitu kotti sul vaja läheb? Puuduta rohelist nuppu, kui oled õige arvu kotte ringi sisse lohistanud."
   },
   "speak_farm_feed_duck": {
     "contenttype": "sound",
-    "content": "farm_feed_ducks_67.mp3",
-    "subtitle": "Så er det spisetid for ænderne. Hver sæk giver mad til 4 ænder, så hvor mange sække skal du nu bruge? Tryk på den grønne knap når du har trukket det rigtige antal sække ind i cirklen"
+    "content": "estonian/row67.mp3",
+    "subtitle": "Ongi aeg parte toita. Igas kotis on toitu neljale pardile. Mitu kotti sul siis vaja läheb? Puuduta rohelist nuppu, kui oled õige arvu kotte ringi sisse lohistanud."
   },
   "speak_farm_feed_horse": {
     "contenttype": "sound",
-    "content": "farm_feed_horse_80.mp3",
-    "subtitle": "Nu skal hestene have mad. Hver sæk giver mad til 2 heste. Hvor mange sække skal du bruge? Tryk på den grønne knap når du har trukket det rigtige antal sække ind i cirklen"
+    "content": "estonian/row63.mp3",
+    "subtitle": "Hobustele on vaja süüa anda. Igas kotis on parasjagu toitu kahe hobuse jaoks. Mitu kotti sul vaja läheb? Puuduta rohelist nuppu, kui oled õige arvu kotte ringi sisse  lohistanud."
   },
   "speak_farm_feed_missing": {
     "contenttype": "sound",
@@ -46,7 +46,7 @@
   },
   "speak_farm_gather_duck": {
     "contenttype": "sound",
-    "content": "farm_gather_ducks_83.mp3",
+    "content": "estonian/row66.mp3",
     "subtitle": "Väga tubli! Töö on peaaegu tehtud. Lõpuks on vaja veel 12 parti üles leida. Suudad sa seda?"
   },
   "speak_farm_gather_horse": {
@@ -71,7 +71,7 @@
   },
   "speak_farm_intro": {
     "contenttype": "sound",
-    "content": "farm_intro_76.mp3",
+    "content": "estonian/row59.mp3",
     "subtitle": "Tere tulemast! Siin on meie talu. Palun aita meil loomad kokku koguda, sest neil on söögiaeg.  Esmalt otsi loomad üles. Lohista õige arv loomi suure ringi keskele. Alustamiseks puuduta rohelist nuppu."
   },
   "speak_farm_motivation_1": {

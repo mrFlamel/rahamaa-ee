@@ -27,12 +27,12 @@
   "speak_timemachine_ridder": {
     "contenttype": "sound",
     "content": "dk_forklaringp_paa_riddertiden.mp3",
-    "subtitle": "Her kan du rejse tilbage til Riddertiden og prøve at kæmpe som en ridder."
+    "subtitle": "Siin saad sa reisida tagasi keskaegsete rüütlite juurde."
   },
   "speak_timemachine_egypt": {
     "contenttype": "sound",
-    "content": "dk_forklaring_paa_aegypten.mp3",
-    "subtitle": "Det her er rejsen til det gamle Egypten. Her er de i gang med at bygge verdens største pyramide, og du kan hjælpe med at indrette den."
+    "content": "estonian/row25.mp3",
+    "subtitle": "See reis viib sind ajas tagasi Vana-Egiptusesse. Egiptlased ehitavad maailma suurimat püramiidi ning sina saad olla abiks selle kaunistamisel."
   },
   "timemachine_ambient_sound1": {
     "contenttype": "sound",

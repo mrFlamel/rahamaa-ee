@@ -26,8 +26,8 @@
   },
   "speak_b_monopoly_create_family": {
     "contenttype": "sound",
-    "content": "dk_sammensaet_familie.mp3",
-    "subtitle": "Her skal du vælge, hvem der skal være med i familien. Husk at give dem navne! Du bestemmer selv, om der skal være 1 eller 2 voksne. Og også hvor mange børn, der skal være. Du kan dog højst vælge 6 børn i én familie. Når du har valgt en familie, så klik på den grønne knap!"
+    "content": "estonian/fam08.mp3",
+    "subtitle": "Siin saad sa valida oma pereliikmed. Pea meeles, et kõigile on vaja panna nimi! Sina otsustad, kas peresse kuulub üks või kaks täiskasvanut ning kui palju on peres lapsi.  Ühes peres võib olla kuni neli last. Kui sa oled pereliikmed välja valinud, puuduta  rohelist nuppu."
   },
   "speak_b_monopoly_create_house": {
     "contenttype": "sound",
@@ -51,13 +51,13 @@
   },
   "speak_b_monopoly_gameOver": {
     "contenttype": "sound",
-    "content": "dk_slut_paa_spil.mp3",
-    "subtitle": "Så er spillet slut! Her kan du se, hvor mange point du fik! Hvordan synes du, at du klarede det? Du kan prøve igen, hvis du gerne vil se, om du kan gøre det endnu bedre"
+    "content": "estonian/fam39.mp3",
+    "subtitle": "See mäng on läbi saanud! Siit näed sa, kui palju punkte sa kokku kogusid! Mis sa arvad, kuidas sul läks? Kas tahad proovida uuesti, et äkki läheb veelgi paremini? Siis võid sa alati uut mängu alustada."
   },
   "speak_b_monopoly_leaveGame": {
     "contenttype": "sound",
-    "content": "dk_ved_luk_klik_paa_pengebyikon.mp3",
-    "subtitle": "Klik på den grønne knap, hvis du gerne vil gemme dit spil, så du kan spille videre på et andet tidspunkt. Hvis du ikke vil gemme dit spil, klikker du i stedet på den røde knap."
+    "content": "estonian/fam44.mp3",
+    "subtitle": "Puuduta rohelist nuppu, kui soovid oma mängu salvestada ja seda mõnel teisel korral edasi mängida. Kui sa ei taha oma mängu salvestada, puuduta selle asemel punast nuppu."
   },
   "speak_b_monopoly_newYearsEve_helptxt": {
     "contenttype": "sound",
@@ -101,23 +101,23 @@
   },
   "speak_b_monopoly_toolbar_point": {
     "contenttype": "sound",
-    "content": "dk_roll_over_speak_paa_point.mp3",
+    "content": "estonian/fam40.mp3",
     "subtitle": "See on sinu tulemus. Sa teenid punkte sellega, et aitad perel maksta kõigi asjade eest, mida nad aasta jooksul teevad. Punkte saad ka seeläbi, et hoolitsed pere lemmiklooma ja sõiduki eest."
   },
   "speak_b_monopoly_toolbar_savings": {
     "contenttype": "sound",
-    "content": "dk_revideret_speak_til_roll_over_paa_sparegrisen.mp3",
+    "content": "estonian/fam41.mp3",
     "subtitle": "See on hoiupõrsas. Siit näed sa, kui palju raha on pere oma suvepuhkuse ja aastalõpupeo jaoks kõrvale pannud."
   },
   "speak_b_monopoly_velkomst_og_forklaring": {
     "contenttype": "sound",
-    "content": "dk_velkomst_og_forklaring.mp3",
-    "subtitle": "Velkommen til Familiespillet! Her skal du hjælpe en familie med at betale for de ting, der vil ske i løbet af året. Du skal også sørge for, at give familiens kæledyr mad og du skal vaske og passe på familiens transportmiddel, så de altid kan komme rundt og besøge familie og venner. Du får point for begge dele, hvis du klarer det godt! Men husk, at det er også vigtigt at spare penge op, så familien har råd til at komme på en god sommerferie og til at holde en stor fest, når året er slut. Klik på den grønne knap for at gå i gang."
+    "content": "estonian/fam06.mp3",
+    "subtitle": "Tere tulemast Peremängu! Siin pead sa aitama ühel perel maksta kõigi asjade eest, mida nad aasta jooksul teevad. Sul peab meeles olema ka see, et tuleb hoolitseda   perekonna lemmiklooma ja sõiduki eest, et nad saaksid ringi sõita ning sugulasi ja sõpru külastada. Kui sa teed seda kõike hästi, teenid sa selle eest punkte! Aga pea meeles - oluline on ka raha kõrvale panna, et pere saaks minna suvel puhkusele ning pidada aasta lõpus ühe toreda peo. Alustamiseks puuduta rohelist nuppu."
   },
   "speak_b_monopoly_velkomst_og_forklaring_hentSpil": {
     "contenttype": "sound",
-    "content": "dk_velkomst_og_forklaring-savedGame.mp3",
-    "subtitle": "Velkommen til Familiespillet! Her skal du hjælpe en familie med at betale for de ting, der vil ske i løbet af året. Du skal også sørge for, at give familiens kæledyr mad og du skal vaske og passe på familiens transportmiddel, så de altid kan komme rundt og besøge familie og venner. Du får point for begge dele, hvis du klarer det godt! Men husk, at det er også vigtigt at spare penge op, så familien har råd til at komme på en god sommerferie og til at holde en stor fest, når året er slut. Hvis du har gemt et spil, kan du hente det nu. Ellers kan du også starte et helt nyt spil!"
+    "content": "estonian/fam07.mp3",
+    "subtitle": "Tere tulemast Peremängu! Siin pead sa aitama ühel perel maksta kõigi asjade eest, mida nad aasta jooksul teevad. Sul peab meeles olema ka see, et tuleb hoolitseda perekonna lemmiklooma ja sõiduki eest, et nad saaksid ringi sõita ning sugulasi ja sõpru külastada. Kui sa teed seda kõike hästi, teenid sa selle eest punkte! Aga pea meeles - oluline on ka raha kõrvale panna, et pere saaks minna suvel puhkusele ning pidada aasta lõpus ühe toreda peo. Alustamiseks puuduta rohelist nuppu!"
   },
   "monopoly_bank_change_items": {
     "contenttype": "label",

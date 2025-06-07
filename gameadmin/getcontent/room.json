@@ -1,7 +1,7 @@
 {
   "speak_b_room_welcome": {
     "contenttype": "sound",
-    "content": "dk_velkommen_til_vaerelse.mp3",
-    "subtitle": "Velkommen til dit værelse. Hvis du har lyst til at skifte tøj, skal du bare klikke på skabet. Husk, at du kan købe mere tøj og flere ting til dit værelse i Karens Butik. Hvis du har været ude at rejse med Tidsmaskinen, kan du ovre på hylden se de ting, du har fået. Og hvis Troldmanden har fortalt dig sin hemmelighed, hænger dit diplom på tavlen. Klik på kortet for at gå på opdagelse i Pengeby! "
+    "content": "estonian/row10.mp3",
+    "subtitle": "Tere tulemast! Siin on sinu tuba. Kui tahad riideid vahetada, puuduta lihtsalt riidekappi. Pea meeles, et tädi Anni poest saad riideid ja muid asju oma tuppa juurde osta. Kui oled reisinud ajamasinas, näed riiulil asju, mis sa oled reisidel saanud. Kui võlur on avaldanud sulle oma saladuse, siis ripub sul seinal diplom. Puuduta kaarti ja asu Rahamaad avastama."
   }
 }
