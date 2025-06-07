@@ -1,8 +1,8 @@
 {
   "speak_b_timemachine_welcome": {
     "contenttype": "sound",
-    "content": "dk_velkomst_og_forklaring_tidsmaskine.mp3",
-    "subtitle": "Velkommen til Tidsmaskinen. Her kan du rejse tilbage i tiden og pr\u00f8ve en masse sjove og sp\u00e6ndende ting - men kun, hvis du har penge nok. Det koster nemlig en guldm\u00f8nt, hver gang du rejser. Klik p\u00e5 den gr\u00f8nne knap for at v\u00e6lge, hvor du gerne vil rejse hen."
+    "content": "estonian/ee_ajamasin_tervitus.mp3",
+    "subtitle": "Tere tulemast ajamasinasse! Sellega saad reisida ajas tagasi ning proovida igasuguseid toredaid ja p\u00f5nevaid asju, aga ainult siis, kui sul on piisavalt raha. Iga reis maksab ühe kuldm\u00fcndi, puuduta rohelist nuppu ja vali, kuhu sa tahaksid minna."
   },
   "speak_timemachine_nocash": {
     "contenttype": "sound",
