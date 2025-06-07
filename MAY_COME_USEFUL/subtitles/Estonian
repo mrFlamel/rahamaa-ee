@@ -1,0 +1,1074 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<root>
+  <Ui>
+    <HollidaySummerEuropa>Euroopa</HollidaySummerEuropa>
+    <HollidaySummerAmericaN>Põhja-Ameerika</HollidaySummerAmericaN>
+    <HollidaySummerAmericaS>Lõuna-Ameerika</HollidaySummerAmericaS>
+    <HollidaySummerAsia>Aasia</HollidaySummerAsia>
+    <HollidaySummerAfrica>Aafrika</HollidaySummerAfrica>
+    <HollidaySummerAustralia>Austraalia</HollidaySummerAustralia>
+    <HollidaySummerAntarktika>Antarktika</HollidaySummerAntarktika>
+
+    <HollidaySummerCorrect>Õige vastus</HollidaySummerCorrect>
+    <HollidaySummerIncorrect>Vale vastus</HollidaySummerIncorrect>
+
+    <HollidaySummerTitle>Kuhu sa tahaksid reisida?</HollidaySummerTitle>
+    <HollidaySummerFinish>Rohkem küsimusi pole</HollidaySummerFinish>
+
+    <AntartikaQ0>Millal on Antarktikas talv?</AntartikaQ0>
+    <AntartikaA0>Antarktikas on talv juunikuus. Siis valitseb seal pilkane pimedus ööpäev läbi!</AntartikaA0>
+    <AntartikaQ0A1>Juunis</AntartikaQ0A1>
+    <AntartikaQ0A2>Detsembris</AntartikaQ0A2>
+    <AntartikaQ0A3>Talve pole kunagi</AntartikaQ0A3>
+
+    <AntartikaQ1>Kui palju tuleb Antarktikas sademeid?</AntartikaQ1>
+    <AntartikaA1>Suuremas osas Antarktikast ei tule kunagi sademeid. Seetõttu meenutab Antarktika kõrbe.</AntartikaA1>
+    <AntartikaQ1A1>Sama palju kui vihmametsas</AntartikaQ1A1>
+    <AntartikaQ1A2>Sama palju kui Eestis</AntartikaQ1A2>
+    <AntartikaQ1A3>Sademeid praktiliselt ei ole</AntartikaQ1A3>
+
+    <AntartikaQ2>Antarktikas on rohkesti jääd. Mis on jää keskmine paksus?</AntartikaQ2>
+    <AntartikaA2>Antarktika jää on keskmiselt 1,5 km paks.</AntartikaA2>
+    <AntartikaQ2A1>10 meetrit</AntartikaQ2A1>
+    <AntartikaQ2A2>1,5 km</AntartikaQ2A2>
+    <AntartikaQ2A3>10 km</AntartikaQ2A3>
+
+    <AntartikaQ3>Kuidas nimetatakse suurt jäämassi, mis aeglaselt liigub jäämäelt alla?</AntartikaQ3>
+    <AntartikaA3>Suuri jäämasse nimetatakse liustikeks. Need liiguvad väga aeglaselt jäämägedelt alla.</AntartikaA3>
+    <AntartikaQ3A1>Liustik</AntartikaQ3A1>
+    <AntartikaQ3A2>Külm front</AntartikaQ3A2>
+    <AntartikaQ3A3>Jäämüür</AntartikaQ3A3>
+
+    <AntartikaQ4>Milline loom elab Antarktikas?</AntartikaQ4>
+    <AntartikaA4>Antarktikas elavad pingviinid. Nad suudavad äärmiselt külmas kliimas väga hästi kehasooja hoida.</AntartikaA4>
+    <AntartikaQ4A1>Madu</AntartikaQ4A1>
+    <AntartikaQ4A2>Pingviin</AntartikaQ4A2>
+    <AntartikaQ4A3>Krokodill</AntartikaQ4A3>
+
+    <AustraliaQ0>Koaalakarud elavad Austraalias ja Tasmaanias. Millest nad toituvad?</AustraliaQ0>
+    <AustraliaA0>Koaalad söövad ainult eukalüptilehti.</AustraliaA0>
+    <AustraliaQ0A1>Teravili</AustraliaQ0A1>
+    <AustraliaQ0A2>Teised loomad</AustraliaQ0A2>
+    <AustraliaQ0A3>Eukalüptilehed</AustraliaQ0A3>
+
+    <AustraliaQ1>Millise muusikainstrumendi on leiutanud Austraalia pärismaalased?</AustraliaQ1>
+    <AustraliaA1>Aborigeenid on leiutanud didžeriduu. See on pikk puidust toru, mille sisse puhutakse.</AustraliaA1>
+    <AustraliaQ1A1>Didžeriduu</AustraliaQ1A1>
+    <AustraliaQ1A2>Trumm</AustraliaQ1A2>
+    <AustraliaQ1A3>Tuuba</AustraliaQ1A3>
+
+    <AustraliaQ2>Austraalias asub maailma suurim kivirahn. Mis on selle nimi?</AustraliaQ2>
+    <AustraliaA2>Maailma suurim kivirahn kannab nime Ayers Rock. See on suur nagu mägi ja punast värvi.</AustraliaA2>
+    <AustraliaQ2A1>Flintstone</AustraliaQ2A1>
+    <AustraliaQ2A2>Ayers Rock</AustraliaQ2A2>
+    <AustraliaQ2A3>Hard Rock</AustraliaQ2A3>
+
+    <AustraliaQ3>Milline iidne relv on pärit Austraaliast?</AustraliaQ3>
+    <AustraliaA3>Selleks on bumerang, mida aborigeenid kasutasid jahti pidades.</AustraliaA3>
+    <AustraliaQ3A1>Püstol</AustraliaQ3A1>
+    <AustraliaQ3A2>Saabel</AustraliaQ3A2>
+    <AustraliaQ3A3>Bumerang</AustraliaQ3A3>
+
+    <AustraliaQ4>Kuidas nimetatakse Austraalia pärismaalasi?</AustraliaQ4>
+    <AustraliaA4>Austraalia põlisrahvas ehk pärismaalased on aborigeenid. Nad on elanud Austraalias üle 30 000 aasta!</AustraliaA4>
+    <AustraliaQ4A1>Indiaanlased</AustraliaQ4A1>
+    <AustraliaQ4A2>Aborigeenid</AustraliaQ4A2>
+    <AustraliaQ4A3>Beduiinid</AustraliaQ4A3>
+
+    <AfricaQ0>Mis on Aafrika kõrgeim mägi?</AfricaQ0>
+    <AfricaA0>Aafrika kõrgeim mäetipp kannab Kilimanjaro nime. Selle kõrgus on üle 5800 meetri!</AfricaA0>
+    <AfricaQ0A1>Mont Blanc</AfricaQ0A1>
+    <AfricaQ0A2>Kilimanjaro</AfricaQ0A2>
+    <AfricaQ0A3>Mount Everest</AfricaQ0A3>
+
+    <AfricaQ1>Milline nendest maadest ei paikne Aafrikas?</AfricaQ1>
+    <AfricaA1>Tšiili ei paikne Aafrikas, vaid hoopis Lõuna-Ameerikas.</AfricaA1>
+    <AfricaQ1A1>Tšiili</AfricaQ1A1>
+    <AfricaQ1A2>Tansaania</AfricaQ1A2>
+    <AfricaQ1A3>Egiptus</AfricaQ1A3>
+
+    <AfricaQ2>Milline loom elab Aafrikas?</AfricaQ2>
+    <AfricaA2>Aafrikas elab elevant. Elevant elab ka Indias. Aafrika ja India elevandid erinevad üksteisest sellepoolest, et Aafrika elevandil on suuremad kõrvad.</AfricaA2>
+    <AfricaQ2A1>Elevant</AfricaQ2A1>
+    <AfricaQ2A2>Tiiger</AfricaQ2A2>
+    <AfricaQ2A3>Laama</AfricaQ2A3>
+
+    <AfricaQ3>Milline suur jõgi voolab Aafrikas?</AfricaQ3>
+    <AfricaA3>Aafrikas voolab Niilus. Selle pikkus on 6500 kilomeetrit.</AfricaA3>
+    <AfricaQ3A1>Mississippi</AfricaQ3A1>
+    <AfricaQ3A2>Amazonas</AfricaQ3A2>
+    <AfricaQ3A3>Niilus</AfricaQ3A3>
+
+    <AfricaQ4>Maailma suurim kõrb asub Aafrikas. Mis on selle nimi?</AfricaQ4>
+    <AfricaA4>Maailma suurima kõrbe nimi on Sahara. Seal võib olla lausa 55 kraadi sooja!</AfricaA4>
+    <AfricaQ4A1>Sarah</AfricaQ4A1>
+    <AfricaQ4A2>Sahara</AfricaQ4A2>
+    <AfricaQ4A3>Ohara</AfricaQ4A3>
+
+    <AsiaQ0>Mis on Jaapani pealinn?</AsiaQ0>
+    <AsiaA0>Jaapani pealinn on Tokyo. Peking on Hiina pealinn ja Berliin Saksamaa pealinn.</AsiaA0>
+    <AsiaQ0A1>Tokyo</AsiaQ0A1>
+    <AsiaQ0A2>Peking</AsiaQ0A2>
+    <AsiaQ0A3>Berliin</AsiaQ0A3>
+
+    <AsiaQ1>Millises nendest riikidest elab kõige rohkem inimesi?</AsiaQ1>
+    <AsiaA1>Indias. Kuid veel rohkem inimesi elab Hiinas! Nii Hiinas kui ka Indias elab üle miljardi inimese.</AsiaA1>
+    <AsiaQ1A1>Vietnam</AsiaQ1A1>
+    <AsiaQ1A2>India</AsiaQ1A2>
+    <AsiaQ1A3>Taiwan</AsiaQ1A3>
+
+    <AsiaQ2>Milline nendest maadest ei paikne Aasias?</AsiaQ2>
+    <AsiaA2>Peruu ei paikne Aasias, vaid Lõuna-Ameerikas.</AsiaA2>
+    <AsiaQ2A1>Jaapan</AsiaQ2A1>
+    <AsiaQ2A2>Vietnam</AsiaQ2A2>
+    <AsiaQ2A3>Peruu</AsiaQ2A3>
+
+    <AsiaQ3>Kust on pärit riis?</AsiaQ3>
+    <AsiaA3>Riis pärineb Hiinast, kuid seda süüakse ka teistes mainitud maades.</AsiaA3>
+    <AsiaQ3A1>India</AsiaQ3A1>
+    <AsiaQ3A2>Filipiinid</AsiaQ3A2>
+    <AsiaQ3A3>Hiina</AsiaQ3A3>
+
+    <AsiaQ4>Millist keelt ei räägita Aasias?</AsiaQ4>
+    <AsiaA4>Aasias ei räägita kreeka keelt. Seda räägitakse nimelt Kreekas.</AsiaA4>
+    <AsiaQ4A1>Kreeka</AsiaQ4A1>
+    <AsiaQ4A2>Hiina</AsiaQ4A2>
+    <AsiaQ4A3>Hindi</AsiaQ4A3>
+
+    <AmericaSQ0>Milline iidne rahvas elas Lõuna-Ameerikas?</AmericaSQ0>
+    <AmericaSA0>Lõuna-Ameerikas elasid inkad. Kunagi lõid inkad tohutu impeeriumi, mis oli omal ajal üks maailma suurimaid riike.</AmericaSA0>
+    <AmericaSQ0A1>Maoorid</AmericaSQ0A1>
+    <AmericaSQ0A2>Beduiinid</AmericaSQ0A2>
+    <AmericaSQ0A3>Inkad</AmericaSQ0A3>
+
+    <AmericaSQ1>Mis on Lõuna-Ameerika suurim ja tuntuim jõgi?</AmericaSQ1>
+    <AmericaSA1>Amazonas. Jõgi voolab Brasiilias ja selles leidub üle 2000 erineva kalaliigi.</AmericaSA1>
+    <AmericaSQ1A1>Amazonas</AmericaSQ1A1>
+    <AmericaSQ1A2>Niilus</AmericaSQ1A2>
+    <AmericaSQ1A3>Doonau</AmericaSQ1A3>
+
+    <AmericaSQ2>Kes on see Lõuna-Ameerikas elav loom, kes armastab sülitada?</AmericaSQ2>
+    <AmericaSA2>Laama elab Lõuna-Ameerikas. Laama sülitab, kui tunneb end ohustatuna.</AmericaSA2>
+    <AmericaSQ2A1>Lõvi</AmericaSQ2A1>
+    <AmericaSQ2A2>Laama</AmericaSQ2A2>
+    <AmericaSQ2A3>Jääkaru</AmericaSQ2A3>
+
+    <AmericaSQ3>Milline nendest maadest ei asu Lõuna-Ameerikas?</AmericaSQ3>
+    <AmericaSA3>Etioopia ei asu Lõuna-Ameerikas, vaid hoopis Aafrikas.</AmericaSA3>
+    <AmericaSQ3A1>Peruu</AmericaSQ3A1>
+    <AmericaSQ3A2>Etioopia</AmericaSQ3A2>
+    <AmericaSQ3A3>Uruguay</AmericaSQ3A3>
+
+    <AmericaSQ4>Milline maa on tuntud suure karnevali poolest, kus tantsitakse sambat?</AmericaSQ4>
+    <AmericaSA4>Brasiilia. Igal aastal peetakse Rio de Janeiros suurt sambakarnevali.</AmericaSA4>
+    <AmericaSQ4A1>Tšiili</AmericaSQ4A1>
+    <AmericaSQ4A2>Argentiina</AmericaSQ4A2>
+    <AmericaSQ4A3>Brasiilia</AmericaSQ4A3>
+
+    <AmericaNQ0>Milline loom ei ela Põhja-Ameerikas?</AmericaNQ0>
+    <AmericaNA0>Kängurud ei ela Põhja-Ameerikas, vaid hoopis Austraalias.</AmericaNA0>
+    <AmericaNQ0A1>Känguru</AmericaNQ0A1>
+    <AmericaNQ0A2>Lammas</AmericaNQ0A2>
+    <AmericaNQ0A3>Hobune</AmericaNQ0A3>
+
+    <AmericaNQ1>Mis on USA praeguse presidendi nimi?</AmericaNQ1>
+    <AmericaNA1>USA president on Barack Obama. Bush ja Clinton olid presidendid enne Obamat.</AmericaNA1>
+    <AmericaNQ1A1>George Bush</AmericaNQ1A1>
+    <AmericaNQ1A2>Bill Clinton</AmericaNQ1A2>
+    <AmericaNQ1A3>Barack Obama</AmericaNQ1A3>
+
+    <AmericaNQ2>Milline nendest maadest ei paikne Põhja-Ameerikas?</AmericaNQ2>
+    <AmericaNA2>Argentiina ei paikne Põhja-Ameerikas, vaid hoopis Lõuna-Ameerikas.</AmericaNA2>
+    <AmericaNQ2A1>Argentiina</AmericaNQ2A1>
+    <AmericaNQ2A2>Kanada</AmericaNQ2A2>
+    <AmericaNQ2A3>Mehhiko</AmericaNQ2A3>
+
+    <AmericaNQ3>Milliselt maalt on pärit reggaemuusika?</AmericaNQ3>
+    <AmericaNA3>Reggae on pärit Jamaicalt.</AmericaNA3>
+    <AmericaNQ3A1>Kuuba</AmericaNQ3A1>
+    <AmericaNQ3A2>USA</AmericaNQ3A2>
+    <AmericaNQ3A3>Jamaica</AmericaNQ3A3>
+
+    <AmericaNQ4>Milline valuuta on käibel Põhja-Ameerika suurimas riigis?</AmericaNQ4>
+    <AmericaNA4>Põhja-Ameerika suurimad riigid on Kanada ja USA. Kummagi riigi valuuta nimi on dollar.</AmericaNA4>
+    <AmericaNQ4A1>Euro</AmericaNQ4A1>
+    <AmericaNQ4A2>Dollar</AmericaNQ4A2>
+    <AmericaNQ4A3>Mark</AmericaNQ4A3>
+
+    <EuropeQ0>Millises riigis viibid, kui oled linnas nimega Rooma?</EuropeQ0>
+    <EuropeA0>Kui viibid Roomas, oled ühtlasi Itaalias. Rooma on Itaalia pealinn.</EuropeA0>
+    <EuropeQ0A1>Belgia</EuropeQ0A1>
+    <EuropeQ0A2>Hispaania</EuropeQ0A2>
+    <EuropeQ0A3>Itaalia</EuropeQ0A3>
+
+    <EuropeQ1>Milline loom ei ela Euroopas mujal kui loomaaias?</EuropeQ1>
+    <EuropeA1>Elevandid elavad Euroopas ainult loomaaedades. Looduslikult elavad nad Aafrikas ja Aasias.</EuropeA1>
+    <EuropeQ1A1>Lehm</EuropeQ1A1>
+    <EuropeQ1A2>Elevant</EuropeQ1A2>
+    <EuropeQ1A3>Karu</EuropeQ1A3>
+
+    <EuropeQ2>Milline valuuta on käibel paljudes Euroopa maades?</EuropeQ2>
+    <EuropeA2>Paljudes Euroopa maades, näiteks Saksamaal, Hispaanias, Soomes ja Kreekas, on käibel euro.</EuropeA2>
+    <EuropeQ2A1>Dollar</EuropeQ2A1>
+    <EuropeQ2A2>Mark</EuropeQ2A2>
+    <EuropeQ2A3>Euro</EuropeQ2A3>
+
+    <EuropeQ3>Milline riik ei asu Euroopas?</EuropeQ3>
+    <EuropeA3>Jaapan ei asu Euroopas, vaid hoopis Aasias.</EuropeA3>
+    <EuropeQ3A1>Jaapan</EuropeQ3A1>
+    <EuropeQ3A2>Austria</EuropeQ3A2>
+    <EuropeQ3A3>Soome</EuropeQ3A3>
+
+    <EuropeQ4>Millises riigis võib näha Eiffeli torni?</EuropeQ4>
+    <EuropeA4>Eiffeli torn asub Prantsusmaal, täpsemalt selle pealinnas Pariisis.</EuropeA4>
+    <EuropeQ4A1>Prantsusmaa</EuropeQ4A1>
+    <EuropeQ4A2>Eesti</EuropeQ4A2>
+    <EuropeQ4A3>Saksamaa</EuropeQ4A3>
+
+    <Score>Sinu punktisumma</Score>
+    <BestScore>Sinu parim tulemus</BestScore>
+    <PlayAgain>Mängi uuesti</PlayAgain>
+
+
+    <rules_t>Et tõkkepuud üles tõsta, pead sa leidma õige koodi!</rules_t>
+    <wronganswer_t>Proovi uuesti. Vale vastus.</wronganswer_t>
+
+    <newgame_t>Uus mäng</newgame_t>
+    <savedgame>Eelmine mäng</savedgame>
+
+    <family_title_t>LOO PEREKOND</family_title_t>
+    <createfamily_t>Peres peab olema vähemalt üks täiskasvanu ja üks laps. Kui oled mõne tegelase välja valinud, pead talle panema ka nime.</createfamily_t>
+    <adults_t>Täiskasvanud</adults_t>
+    <women_t>Naised</women_t>
+    <men_t>Mehed</men_t>
+    <children_t>Lapsed</children_t>
+    <girls_t>Tüdrukud</girls_t>
+    <boys_t>Poisid</boys_t>
+    <typename_t>Nimi</typename_t>
+
+    <family_expenses_title_t>PEREKONNA KULUTUSED</family_expenses_title_t>
+    <familyexpenses_t>Siin tuleb sul valida oma perele kodu, samuti sõiduk, millega nad sugulasi ja sõpru külastavad, ning  lemmikloomad. Paremal pool näed sa seda, kui palju see pere raha teenib  ja kui palju erinevad asjad maksavad.</familyexpenses_t>
+    <transportation_t>Transport</transportation_t>
+    <color_t>Värv</color_t>
+    <home_t>Kodu</home_t>
+    <house_t>Eramaja</house_t>
+    <terrased_t>Ridamaja</terrased_t>
+    <farm_t>Talu</farm_t>
+    <apartment_t>Korter</apartment_t>
+    <castle_t>Loss</castle_t>
+    <location_t>Asukoht</location_t>
+    <city_t>Maa</city_t>
+    <country_t>Linn</country_t>
+    <pet_t>Lemmikloomad</pet_t>
+    <name_t>Nimi</name_t>
+    <income_t>Sissetulekud</income_t>
+    <expenses_t>Kulutused</expenses_t>
+    <moneyleft_t>Ülejääk</moneyleft_t>
+    <fee_t>Teenustasu</fee_t>
+
+
+    <currentMonthTitle>Selle kuu sündmused</currentMonthTitle>
+    <currentMontTransfer>Varasemast järel</currentMontTransfer>
+    <сurrentMonthVet>Loomaarst</сurrentMonthVet>
+    <currentMonthMech>Mehaanik</currentMonthMech>
+    <currentMonthTotal>Kogusumma</currentMonthTotal>
+
+
+    <nextMonthEvents>Selle kuu sündmused</nextMonthEvents>
+    <nextMonthTitle>Järgmise kuu kindlad sissetulekud ja kulutused</nextMonthTitle>
+    <nextMonthIncome>Sissetulekud</nextMonthIncome>
+    <nextMonthTransportation>Transport</nextMonthTransportation>
+    <nextMonthHome>Kodu</nextMonthHome>
+    <nextMonthPet>Lemmikloomad</nextMonthPet>
+    <nextMonthTotal>Kogusumma</nextMonthTotal>
+
+
+    <pigtitle_t>Korja raha suvepuhkuseks ja aastalõpupeoks</pigtitle_t>
+
+
+    <vet_title_t>Loomaarst</vet_title_t>
+    <pet_text_t>Sa unustasid oma lemmiklooma toita</pet_text_t>
+
+
+    <mech_title_t>Mehaanik</mech_title_t>
+    <mechanic_text_t>Sa unustasid oma sõiduki eest hoolitseda</mechanic_text_t>
+
+    <housetitle_t>Vaheta kodu, autot või lemmiklooma</housetitle_t>
+    <total_text>Hind kokku</total_text>
+    <hudsmile>See on sinu tulemus. Sa teenid punkte sellega, et aitad perel maksta kõigi asjade eest, mida nad aasta jooksul teevad. Punkte saad ka seeläbi, et hoolitsed pere lemmiklooma ja sõiduki eest.</hudsmile>
+    <hudpig>See on hoiupõrsas. Siit näed sa, kui palju raha on pere oma suvepuhkuse ja aastalõpupeo jaoks kõrvale pannud.</hudpig>
+    <hudbank>Siit näed sa, kui palju raha on pere kõrvale pannud.</hudbank>
+    <savegametext>Puuduta rohelist nuppu, kui soovid oma mängu salvestada ja seda mõnel teisel korral edasi mängida. Kui sa ei taha oma mängu salvestada, puuduta selle asemel punast nuppu.</savegametext>
+
+    <are_you_sure>Kas oled kindel?</are_you_sure>
+    <car_text>Kui valid kalli sõiduvahendi jääb Sul igal kuul vähem raha ootamatute kulutuste, puhkuseplaanide ja pidude jaoks.</car_text>
+    <home_text>Kui valid perele kalli kodu, jääb Sul igal kuul vähem raha ootamatute kulutuste, puhkuseplaanide ja pidude jaoks.</home_text>
+
+    <savegame>Kas soovid mängu salvestada?</savegame>
+
+    <qrscan>Skaneeri kood</qrscan>
+    <photoscan>Tee foto</photoscan>
+    
+    <yourmoney>See on sinu raha. Kui palju raha sul on?</yourmoney>
+    <wishjar>Siin näed sa neid tädi Anni poe asju, mille jaoks sa tahaksid raha koguda.</wishjar>
+    <wishjar2>Siin näed kõike, mille jaoks sa raha kogud. Kui mingi asja jaoks on piisavalt raha, võid selle ära osta! Soovipurgis saab korraga olla ainult kolm asja. On seal midagi, mida saaksid juba osta?</wishjar2>
+    <help>Kas ma saan sind kuidagi aidata?</help>
+    <skipIntro>Kohe mängima</skipIntro>
+    <backButton>Logi välja</backButton>
+    <newCharacter>Uus kasutaja</newCharacter>
+    <boy>Poiss</boy>
+    <girl>Tüdruk</girl>
+    <name>Nimi</name>
+    <wizardLabel>Varandus on peidetud</wizardLabel>
+    <congratulations>Väga hea!</congratulations>
+    <wizardCorrect>Sa vastasid kõigile küsimustele õigesti! Puuduta rohelist nuppu, et kuulda minu saladust!</wizardCorrect>
+    <wizardIncorrect1>Sa ei vastanud kõigile küsimustele õigesti</wizardIncorrect1>
+    <wizardIncorrect2>Sa ei vastanud kõigile küsimustele õigesti. Äkki peaksid mõnda Rahamaa paika uuesti külastama?</wizardIncorrect2>
+
+    <wizardQ1>Millisesse kohta ei saa ajamasinaga reisida?</wizardQ1>
+    <wizardQ1A1>Gröönimaa</wizardQ1A1>
+    <wizardQ1A2>Vana-Rooma</wizardQ1A2>
+    <wizardQ1A3>Vana-Egiptus</wizardQ1A3>
+
+    <wizardQ2>Kus saab Rahamaal riideid vahetada?</wizardQ2>
+    <wizardQ2A1>Oma toas</wizardQ2A1>
+    <wizardQ2A2>Postkontoris</wizardQ2A2>
+    <wizardQ2A3>Ajamasinas</wizardQ2A3>
+
+    <wizardQ3>Kui mingi asi on kallis, siis see:</wizardQ3>
+    <wizardQ3A1>Maksab palju raha</wizardQ3A1>
+    <wizardQ3A2>Ei maksa palju raha</wizardQ3A2>
+    <wizardQ3A3>Other answer</wizardQ3A3>
+
+    <wizardQ4>Mis on neist kõige kallim asi?</wizardQ4>
+    <wizardQ4A1>Televiisor</wizardQ4A1>
+    <wizardQ4A2>Mobiiltelefon</wizardQ4A2>
+    <wizardQ4A3>Kümme banaani</wizardQ4A3>
+
+    <wizardQ5>Mida tuleb raha saamiseks teha?</wizardQ5>
+    <wizardQ5A1>Töötada</wizardQ5A1>
+    <wizardQ5A2>Mitte midagi teha</wizardQ5A2>
+    <wizardQ5A3>Koolis käia</wizardQ5A3>
+
+    <wizardQ6>Kuidas on veel võimalik raha saada?</wizardQ6>
+    <wizardQ6A1>Tuleb midagi müüa</wizardQ6A1>
+    <wizardQ6A2>Tuleb vaadata vaiba alla</wizardQ6A2>
+    <wizardQ6A3>Tuleb otsida aiast</wizardQ6A3>
+
+    <wizardQ7>Sa tahad osta midagi, mille jaoks sul pole raha. Mida sa siis teed?</wizardQ7>
+    <wizardQ7A1>Kogun selle asja jaoks raha</wizardQ7A1>
+    <wizardQ7A2>Ikka ostan selle asja</wizardQ7A2>
+    <wizardQ7A3>Viskan kukerpalli</wizardQ7A3>
+
+    <wizardQ8>Sa tahad kahte asja, aga sul on raha ainult ühe jaoks. Mida sa siis teed?</wizardQ8>
+    <wizardQ8A1>Ostan selle asja, mida ma rohkem tahan</wizardQ8A1>
+    <wizardQ8A2>Lihtsalt ostan mõlemad asjad</wizardQ8A2>
+    <wizardQ8A3>Other answer</wizardQ8A3>
+    
+  </Ui>
+  <Intro>
+    <mayor>
+      <slide1>Tere tulemast Rahamaale! Mina olen siin president ja ma tahaksin sulle natuke sellest maast rääkida.</slide1>
+      <slide2>Rahamaal saad sa teenida hõbedast ja kullast münte ning kasutada neid kõikvõimalike asjade ostmiseks.</slide2>
+      <slide3>Esmalt peaksid otsustama, milline sa tahad välja näha. Sul on siin ka oma tuba, kuhu saad osta palju toredaid asju.</slide3>
+      <slide4>Kõik, mida vajad, leiad tädi Anni imelisest poest.</slide4>
+      <slide5>Sa võid kasutada oma münte ka selleks, et reisida Pöörase Professori ajamasinas ning mängida mitut põnevat mängu. </slide5>
+      <slide6>Hõbedast ja kullast münte teenid näiteks nii, et aitad Postitädil pakke sorteerida. Või korjad õunu ja teed neist õunamahla ning müüd seda kõigile inimestele, kes Rahamaal elavad.</slide6>
+      <slide7>Samuti võid olla talus abiks loomade toitmisel. Ning kui  aitad mul Rahamaa peavärava ilusa värske värviga üle värvida, saad ühe kuldmündi.</slide7>
+      <slide8>Rahamaal elab ka Võlur, kellel on üks põnev saladus! Meie maal on kuhugi maetud suur varandus, kus on palju kuldmünte. Kui sul veab, siis avaldab Võlur sulle varanduse peidukoha.</slide8>
+    </mayor>
+  </Intro>
+  <Shop>
+    <mayor>
+      <welcome>Nüüd oled teel tädi Anni poodi. Seal saad oma raha eest  osta riideid ja mitmesuguseid asju oma tuppa. Hinna vaatamiseks puuduta üks kord ja ostmiseks kaks korda. Kui sul pole veel piisavalt raha, võid panna meeldima hakanud asjad soovipurki ja hakata nende jaoks raha koguma. Poodi minemiseks puuduta rohelist nuppu.</welcome>
+    </mayor>
+    <penny>
+      <intro>Kas leiad minu poest mõne asja, mida tahaksid osta?</intro>
+      <buy1>Kui sa ostad selle asja, kui palju raha sul siis alles jääb?</buy1>
+      <buy2>Väga hea! Kui palju raha sul järele jääb, kui sa selle asja ostad?</buy2>
+      <buy3>Väga hea! Kui palju raha sul järele jääb, kui sa selle asja ostad?</buy3>
+      <wishjar>Sul on juba kolm asja soovipurgis. Kui tahad sinna mingi asja lisada, pead enne midagi välja võtma. Vali soovipurk, kui soovid sealt midagi välja võtta.</wishjar>
+      <notenough>Selle ostmiseks läheb sul vaja veidi lisaraha. Kas sa näed, kui palju sul puudu on? Sa võid tõsta selle eseme soovide nõusse ja hakata selle jaoks raha koguma.</notenough>
+      <bought1>Nüüd sa ostsid selle asja!</bought1>
+      <bought2>Nii, nüüd kuulub see sulle!</bought2>
+      <done>Nägemiseni ja suur aitäh! Tule varsti jälle!</done> 
+    </penny>
+  </Shop>
+  <AppleTest>
+    <mayor>
+      <welcome>Tere tulemast! See on sinu õunalett. Siin saad teha raha teenimiseks õunamahla ja seda Rahamaa elanikele müüa. Püüa suure õunapuu otsast kukkuvad õunad kinni, enne kui need maha potsatavad. Üle kolme õuna ei tohi maha kukkuda. Edasi-tagasi jooksmiseks kalluta ekraani. Teenid mündi iga 10 õuna eest, mille oled kinni püüdnud. Oled valmis proovima, mitu õuna suudad kinni püüda? Puuduta siis rohelist nuppu.</welcome>
+      <done1>Sa olid selles töös väga tubli! Nüüd läheb see natuke kiiremaks.</done1>
+      <done2>Väga hea! Nüüd läheb see töö veel kiiremaks.</done2>
+      <done3>Suurepärane! Nüüd läheb see veelgi raskemaks.</done3>
+      <done4>Selles töös oled sa tõesti asjatundja! Mis sa arvad, kas saad ka järgmise ringiga hakkama?</done4>
+      <fail>Nüüd oled sa küll palju maitsvat mahla valmistanud! Aga sa pillasid kolm õuna ka maha. Kui soovid veel raha teenida, siis proovi uuesti. Kui sul on piisavalt raha, võid minna  reisile ajamasinas. Aga äkki on tädi Anni poodi saabunud mingeid uusi asju, mida sa tahaksid osta.</fail>
+    </mayor>  
+  </AppleTest>
+  <Wizard_game>
+    <wizard>
+      <welcome>Näen oma kaardilt, et  oled kõigis kohtades käinud. Nüüd oled valmis mu saladust kuulma. Aga enne pead vastama mõnele küsimusele. Kui vaja, võid paluda täiskasvanu appi küsimustele vastama. Puuduta rohelist nuppu, kui oled valmis.</welcome>
+      <wrong>Sa ei vastanud kõigile küsimustele õigesti, nii et pead veel ootama, enne kui saladust kuuled. Äkki oleks hea mõte, kui sa külastaksid mõnda Rahamaa paika uuesti?</wrong>
+      <correct>Väga tubli! Vastasid õigesti kõigile küsimustele! Puuduta rohelist nuppu ja siis kuuled mu saladust.</correct>
+      <secret>Minu aardekaardilt näed, kuhu see varandus on Rahamaal peidetud! Vaata, kas leiad üles – saad selle endale! Peale selle saad minult väga toreda diplomi. See ripub su toa seinal ja kui tahad, võid selle ka välja printida. Puuduta rohelist nuppu, et asuda varandust otsima!</secret>
+    </wizard>
+  </Wizard_game>
+  <PostOffice>
+    <mayor>
+      <welcome>Tere tulemast postkontorisse! Siin saad aidata postitädil Rahamaa elanikele saadetud pakke sorteerida. Kõige kallimad pakid peavad kohale jõudma esimesena ja kõige odavamad viimasena. Lohista pakid õigetesse    kastikestesse - kõige kallimad tuleb asetada vasakule ja kõige odavamad paremale. Kui oled kõik ära jaganud, puuduta rohelist nuppu.</welcome>
+    </mayor>
+    <postman>
+      <correct1>Väga hea! Nüüd läheb see töö pisut keerulisemaks - kas oled valmis?</correct1>
+      <correct2>Sa oled selles töös väga tubli! Nüüd läheb natuke raskemaks.</correct2>
+      <correct3>Väga hea! Nüüd läheb see töö pisut keerulisemaks.</correct3>
+      <done>Suur-suur tänu sulle abi eest - sa olid tõesti tubli! Tänuks töö eest annan sulle natuke raha, mida sa võid kulutada tädi Anni poes või ajamasinas. Kui soovid, võid mind ka uuesti aidata!</done>
+    </postman>
+  </PostOffice>
+  <BowGame>
+    <mayor>
+      <welcome>Liikusid ajas tagasi ja jõudsid keskaega, kus saad vibuga märki lasta. Suuna muutmiseks tõmba vibust ja lase lahti, et nool lendu lasta. Mida rohkem tõmbad, seda kaugemale nool lendab. Vaata, kui palju punkte suudad koguda! Alustamiseks puuduta rohelist nuppu.</welcome>
+      <done>Selles töös oled sa tõesti asjatundja! Aga proovi uuesti, äkki saad veelgi parema tulemuse!</done>   
+    </mayor>
+  </BowGame>
+  <EgyptGame>
+    <mayor>
+      <welcome>Oled nüüd vanas Egiptuses, kus parajasti ehitatakse maailma suurimat püramiidi, Cheopsi püramiidi. Sina pead aitama kaunistada suurt saali vaarao jaoks (nii nimetati Egiptuses kuningat). Saad seina värvida ja seda ilusate asjadega kaunistada. Puuduta rohelist nuppu, kui oled kõik valmis saanud.</welcome>
+    </mayor>
+  </EgyptGame>
+  <Rome_game>
+    <mayor>
+      <welcome>Tere tulemast iidsesse Rooma linna! Siin pead aitama ilusaid hooneid ehitada. Saad valida kolme hoone vahel, millest esimene on kõige lihtsam ja viimane kõige keerulisem. Lohista tellised joonisel õigesse kohta. Kui oled kõik tellised õigesse kohta pannud, siis on ehitustöö valmis. Puuduta rohelist nuppu, kui oled ehitamiseks valmis.</welcome>
+      <start>Lohista tellised joonisel õigesse kohta. Kui oled kõik tellised õigesse kohta pannud, siis on ehitustöö valmis. Puuduta rohelist nuppu, kui oled ehitamiseks valmis.</start>
+      <done>Sellega said sa küll hästi hakkama! Eks ole, et see hoone näeb uhke välja? Minu meelest küll!</done>
+    </mayor>
+  </Rome_game>
+  <TimeMachine>
+    <mayor>
+      <welcome>Tere tulemast ajamasinasse! Sellega saad reisida ajas  tagasi ning proovida igasuguseid toredaid ja põnevaid asju - aga ainult siis, kui sul on piisavalt raha. Iga reis maksab ühe kuldmündi. Puuduta rohelist nuppu ja vali, kuhu sa tahaksid minna.</welcome>
+    </mayor>
+    <professor>
+      <knight>Siin saad sa reisida tagasi keskaegsete rüütlite juurde.</knight>
+      <rome>See reis viib sind ajas tagasi Vana-Roomasse. Sa saad aidata ehitada suuri ja ilusaid hooneid.</rome>
+      <egypt>See reis viib sind ajas tagasi Vana-Egiptusesse. Egiptlased ehitavad maailma suurimat püramiidi ning sina saad olla abiks selle kaunistamisel.</egypt>
+      <notenough>Kahjuks ei saa sa praegu endale seda reisi lubada! Sa pead minema tagasi Rahamaale ja teenima natuke raha juurde.</notenough>
+    </professor>
+  </TimeMachine>
+  <Test_Universe>
+    <mayor>
+      <intro>Siin näed kogu Rahamaad. Puuduta üks kord, et näha kõiki eri asju, mida saad teha. Mängu alustamiseks puuduta kaks korda.</intro>
+      <applestall>See on sinu mahlalett. Siin saad sa teenida raha, kui korjad õunu ja müüd õunamahla kõigile Rahamaa elanikele!</applestall>
+      <ownhouse>See on sinu maja. Siin on sinu kodu.</ownhouse>
+      <help>Kas ma saan sind kuidagi aidata?</help>
+      <wishjar>Tekst mangler</wishjar>
+      <yourmoney>See on sinu raha. Kui palju raha sul on?</yourmoney>
+      <bridge>See on Peremäng, kus sa pead aitama ühte peret. Seda mängu saad sa mängida siis, kui oskad lugeda ja natuke ka arvutada.</bridge>
+      <entergame>Sa saad sillast üle minna nii, et leiad õige vastuse, mis tõkkepuu üles tõstab.</entergame>
+      <correct>See oli õige vastus!</correct>
+      <incorrect>See oli vale vastus. Proovi uuesti.</incorrect>
+    </mayor>
+    <penny>
+      <shop>Palun tule mu poodi vaatama! Mulle tuleb kogu aeg uut kaupa.</shop>
+    </penny>
+    <postman>
+      <postoffice>Postkontoris läheb mul väga sinu abi vaja! Kas sa tahaksid mulle appi tulla ja natuke raha teenida?</postoffice>
+    </postman>
+    <wizard>
+      <wizard1>Mina olen Võlur - ja mul on üks saladus! Aga enne, kui ma seda sulle räägin, pead sa ära käima kõigis Rahamaa paikades.</wizard1>
+      <wizard2>Mina olen Võlur - ja mul on üks saladus! Kas oled valmis seda kuulama?</wizard2>
+    </wizard>
+    <professor>
+      <timemachine>See on minu ajamasin. Kas sa tahaksid seda proovida?</timemachine>
+    </professor>
+    <farmer>
+      <farm>Aita mu loomi toita. Kas aitaksid mind ja teeniksid sellega veidi raha?</farm>
+    </farmer>
+  </Test_Universe>
+  <OwnRoom>
+    <mayor>
+      <welcome>Tere tulemast! Siin on sinu tuba. Kui tahad riideid vahetada, puuduta lihtsalt riidekappi. Pea meeles, et tädi Anni poest saad riideid ja muid asju oma tuppa juurde osta. Kui oled reisinud ajamasinas, näed riiulil asju, mis sa oled reisidel saanud. Kui võlur on avaldanud sulle oma saladuse, siis ripub sul seinal diplom. Puuduta kaarti ja asu Rahamaad avastama.</welcome>
+    </mayor>
+  </OwnRoom>
+  <FarmGame>
+    <mayor>
+      <welcome>Tere tulemast! Siin on meie talu. Palun aita meil loomad kokku koguda, sest neil on söögiaeg.  Esmalt otsi loomad üles. Lohista õige arv loomi suure ringi keskele. Alustamiseks puuduta rohelist nuppu.</welcome>
+    </mayor>
+    <farmer>
+      <level1cow>Aita mul 12 lehma üles leida. Lohista nad suure ringi sisse.</level1cow>
+      <level2cow>Oled kõik lehmad kokku kogunud ja võiksid neile nüüd süüa anda. Igas kotis on parasjagu toitu ühe lehma jaoks. Mitu kotti sul vaja läheb? Puuduta rohelist nuppu, kui oled õige arvu kotte ringi sisse lohistanud.</level2cow>
+      <level1horse>See tuli sul väga hästi välja! Nüüd on sul vaja leida 12 hobust.</level1horse>
+      <level2horse>Hobustele on vaja süüa anda. Igas kotis on parasjagu toitu kahe hobuse jaoks. Mitu kotti sul vaja läheb? Puuduta rohelist nuppu, kui oled õige arvu kotte ringi sisse  lohistanud.</level2horse>
+      <level1sheep>Nüüd on lammaste kord süüa saada. Kas leiad 12 lammast?</level1sheep>
+      <level2sheep>Seekord on igas kotis parasjagu toitu kolme lamba jaoks. Mitu kotti sul vaja läheb? Puuduta rohelist nuppu, kui oled õige arvu kotte ringi sisse lohistanud.</level2sheep>
+      <level1ducks>Väga tubli! Töö on peaaegu tehtud. Lõpuks on vaja veel 12 parti üles leida. Suudad sa seda?</level1ducks>
+      <level2ducks>Ongi aeg parte toita. Igas kotis on toitu neljale pardile. Mitu kotti sul siis vaja läheb? Puuduta rohelist nuppu, kui oled õige arvu kotte ringi sisse lohistanud.</level2ducks>
+      <done>See kõik õnnestus sul väga hästi! Kas soovid mind veel kord aidata?</done>
+      <motivation1>Seda oskad sa hästi!</motivation1>
+      <motivation2>See töö läheb sul kenasti – oled peaaegu kõik loomad kokku kogunud.</motivation2>
+      <motivation3>Tubli! Töö on peaaegu tehtud.</motivation3>
+      <toomany>Nüüd on ringis liiga palju loomi. Mitu looma oleks vaja välja lohistada?</toomany>
+      <notright1>Nüüd on ringis liiga palju kotte. Mitu kotti oleks vaja välja lohistada?</notright1>
+      <notright2>Kas oled kindel, et see on õige? Vaata ja loe.</notright2>
+      <notright3>Kas oled kindel, et see on õige arv?</notright3>
+    </farmer>
+  </FarmGame>
+<Test_Gate>
+  <mayor>
+    <welcome>Nüüd võid aidata mul Rahamaa väravat värvida. See on väga mustaks läinud ja vajab hädasti värsket värvi. Puuduta värvipotti, millega tahaksid värvida. Kui oled värvi välja valinud, võid valida, millist värava osa sellega värvida. Kui arvad, et said valmis, siis puuduta rohelist nuppu.</welcome>
+  <finished>Kui arvad, et oled valmis saanud, siis puuduta rohelist  nuppu.</finished>
+    <done>Väga tubli töö! Tänuks abi eest saad 10 hõbemünti. Need on väärt sama palju kui üks kuldmünt. Puuduta nüüd rohelist nuppu, et minna Rahamaale.</done>
+  </mayor>
+</Test_Gate>
+<ChosePlayer>
+  <mayor>
+    <welcome>Kui oled Rahamaal esimest korda, siis vali hall tegelaskuju. Kui oled juba varem mänginud, siis vali tegelane, kellena sooviksid mängu jätkata.</welcome>
+  </mayor>
+</ChosePlayer>
+  <CreateGender>
+    <mayor>
+      <welcome>Kui oled poiss, siis puuduta poissi. Kui oled tüdruk, siis puuduta tüdrukut.</welcome>
+    </mayor>
+  </CreateGender>
+  <CreatePlayer>
+    <mayor>
+        <welcome>Nüüd pead valima oma välimuse. Puuduta rohelist nuppu,  kui oled lõpetanud.</welcome>
+    </mayor>
+  </CreatePlayer>
+  <ChooseHouse>
+    <mayor>
+      <welcome>Rahamaal saad sa endale päris oma maja! Millises majas sa tahaksid elada?</welcome>
+    </mayor>
+  </ChooseHouse>
+
+  <FamilyIntro>
+    <mayor>
+      <intro>Tere tulemast Peremängu! Siin pead sa aitama ühel perel maksta kõigi asjade eest, mida nad aasta jooksul teevad. Sul peab meeles olema ka see, et tuleb hoolitseda   perekonna lemmiklooma ja sõiduki eest, et nad saaksid ringi sõita ning sugulasi ja sõpru külastada. Kui sa teed seda kõike hästi, teenid sa selle eest punkte! Aga pea meeles - oluline on ka raha kõrvale panna, et pere saaks minna suvel puhkusele ning pidada aasta lõpus ühe toreda peo. Alustamiseks puuduta rohelist nuppu.</intro>
+      <introload>Tere tulemast Peremängu! Siin pead sa aitama ühel perel maksta kõigi asjade eest, mida nad aasta jooksul teevad. Sul peab meeles olema ka see, et tuleb hoolitseda perekonna lemmiklooma ja sõiduki eest, et nad saaksid ringi sõita ning sugulasi ja sõpru külastada. Kui sa teed seda kõike hästi, teenid sa selle eest punkte! Aga pea meeles - oluline on ka raha kõrvale panna, et pere saaks minna suvel puhkusele ning pidada aasta lõpus ühe toreda peo. Alustamiseks puuduta rohelist nuppu!</introload>
+    </mayor>
+  </FamilyIntro>
+
+  <Main>
+    <mayor>
+      <start>Siin saad sa valida oma pereliikmed. Pea meeles, et kõigile on vaja panna nimi! Sina otsustad, kas peresse kuulub üks või kaks täiskasvanut ning kui palju on peres lapsi.  Ühes peres võib olla kuni neli last. Kui sa oled pereliikmed välja valinud, puuduta  rohelist nuppu.</start>
+      <adults>Nüüd on sul aeg valida oma perre täiskasvanud. Lohista üks või kaks täiskasvanut ringi sisse. Seejärel mõtle neile välja nimed. Kui sa oled lõpetanud, siis puuduta rohelist nuppu.</adults>
+      <children>Siin saad valida, mitu last peresse kuulub. Sa võid ringi sisse lohistada kuni neli last. Seejärel mõtle neile välja ka nimed. Kui su perekond on valmis, siis puuduta rohelist nuppu.</children>
+      <selection>Nüüd pead sa valima, kus see perekond elab, kuidas nad ringi sõidavad ja milline lemmikloom neil peaks olema. Alustamiseks puuduta rohelist nuppu.</selection>
+      <transportpopup>Pea meeles, et mida rohkem raha sa pere sõiduvahendile kulutad, seda vähem jääb perel raha alles ootamatuteks kulutusteks, näiteks puhkusteks ja pidudeks. Kui soovid oma valikut muuta, puuduta punast nuppu. Kui oled valmis edasi liikuma, puuduta rohelist nuppu.</transportpopup>
+      <transport>Alusta pere sõiduvahendi valimisest. Pea meeles, et asjadel on erinevad hinnad. Vasakul näed, kui palju su pere igal kuul raha saab ja kui palju raha neil peale sõiduvahendi valimist alles jääb. Lohista valitud sõiduvahend ringi sisse.</transport>
+      <transportdone>Kui oled lõpetanud, puuduta edasiliikumiseks rohelist nuppu.</transportdone>
+      <homepopup>Pea meeles, et mida rohkem raha sa üürile kulutad, seda vähem jääb perel raha alles ootamatuteks kulutusteks, nt puhkusteks ja pidudeks. Kui soovid oma valikut muuta, puuduta punast nuppu. Kui oled valmis saanud, puuduta rohelist nuppu.</homepopup>
+      <home>Nüüd on aeg valida perele kodu. Pane tähele, et erinevates majades ei ole üürihind ühesugune – kui palju raha sul pärast valiku tegemist alles jääb? Lohista valitud maja ringi sisse.</home>
+      <homedone>Kui oled lõpetanud, puuduta edasiliikumiseks rohelist nuppu.</homedone>
+      <pet>Töö on peaaegu valmis. Viimasena pead sa valima perele lemmiklooma. Millist looma sa soovid?  Lohista lemmikloom ringi sisse ja pane talle nimi.</pet>
+      <petdone>Kui oled valmis saanud, puuduta rohelist nuppu ja alusta mängu.</petdone>
+    </mayor>
+  </Main>
+
+  <FamilyScene>
+    <mayor>
+      <endofmonth1>Kui tahad järgmisse kuusse edasi minna, puuduta rohelist nuppu!</endofmonth1>
+      <endofmonth2>Kas oled järgmiseks kuuks valmis? Siis puuduta rohelist nuppu.</endofmonth2>
+      <monthevent1>Sel kuul on midagi toimumas. Vali variantide 1, 2 ja 3 vahel.</monthevent1>
+      <monthevent2>Nüüd pead sa otsustama, kui palju sa tahad raha kulutada. Tee oma valik 1, 2 ja 3 vahel.</monthevent2>
+      <monthevent3>Nüüd pead sa otsustama, kui palju sa tahad raha kulutada. Vali 1, 2 ja 3 vahel.</monthevent3>
+      <monthevent4>Kas sa oled rahakulutamiseks valmis? Sina otsustad, kui palju sa kulutada soovid.</monthevent4>
+      <monthevent5>Algas uus kuu ja sellega koos tulevad ka uued kulutused. Tee oma valik 1, 2 ja 3 vahel.</monthevent5>
+      <enought1>Sa teenid punkti juurde selle eest, et oled pere rahaasju väga hästi korraldanud.</enought1>
+      <enought2>Sa teenid punkti juurde selle eest, et oled pere rahaasju väga hästi korraldanud.</enought2>
+      <notenought>Perel ei ole piisavalt raha, nii et sa kaotad ühe punkti.</notenought>
+      <spending>Siin näed sa perekonna selle kuu kulutusi.</spending>
+      <change>Siin saad sa kolida teise majja, hankida perele uue sõiduvahendi või lemmiklooma. Aga pea meeles, et see  maksab raha! Kui soovid valikuid muuta, puuduta nuppu.</change>
+      <income>Siin saad sa tutvuda oma järgmise kuu rahalise olukorraga. Kas sa oled sellega rahul?</income>
+      <havemoney>Kui sul on osa rahast alles, siis on hea mõte nüüd sellest veidi kõrvale panna.</havemoney>
+      <nomoney>Sul ei ole raha alles. Sa ei saa praegu midagi kõrvale panna.</nomoney>
+      
+    </mayor>
+  </FamilyScene>
+
+  <HollidaySummer>
+    <mayor>
+      <summerstart>Perel on käes suvepuhkuse aeg! Mis sa arvad, kuhu nad peaksid reisima? Puuduta rohelist nuppu, et valida koht, kuhu pere sõidab. Pea meeles, et sul peab olema reisi jaoks piisavalt raha kogutud.</summerstart>
+      <summerfinish>Suvepuhkus on läbi. Kuidas perel läks? Mängu jätkamiseks puuduta rohelist nuppu.</summerfinish>
+      <summerquestions>Siin on viis küsimust. Iga õige vastuse eest teenid punkti.</summerquestions>
+    </mayor>
+  </HollidaySummer>
+
+  <HollidayWinter>
+    <mayor>
+      <decorate>Käes on aastalõpp ja seda tuleb tähistada suure peoga! Nüüd võid sa ära kulutada kogu raha, mis aasta jooksul kõrvale pandud. Lohista need asjad, mida sa peo jaoks osta tahad, laua peale.</decorate>
+      <endofthegame>See mäng on läbi saanud! Siit näed sa, kui palju punkte sa kokku kogusid! Mis sa arvad, kuidas sul läks? Kas tahad proovida uuesti, et äkki läheb veelgi paremini? Siis võid sa alati uut mängu alustada.</endofthegame>
+    </mayor>
+  </HollidayWinter>
+
+  <Event Month="1" DefendantType="child">
+    <Question Text="#name# kukkus uisutades ning lõi oma pea kõvasti vastu jääd ära. Mida sa teed?" Title="Uisutades kukkumine" Icon="Fall while ice skating">
+      <Answer Text="Kutsud kiirabi." ResultText="Kiirabi tuli otsekohe ja #name# viidi haiglasse. Õnneks ei olnud tal mingeid tõsiseid vigastusi." Money="0" />
+      <Answer Text="#name# peab võtma valuvaigistit." ResultText="Kodus ei olnud valuvaigisteid, nii et neid tuli osta. See läks maksma 7 hõbemünti." Money="-7" />
+      <Answer Text="Helistad arstile." ResultText="Arst ütles, et #name# ei ole tõsiselt vigastatud, aga et pere peab ostma ühte teatud valuvaigistit, mille karp maksab 5 hõbemünti." Money="-5" />
+    </Question>
+  </Event>
+
+  <Event Month="1" DefendantType="adult">
+    <Question Text="#name# libiseb vannitoa põrandal ja tema prillid lähevad katki. Mida sa teed?" Title="Prillid katki" Icon="Broken glasses">
+      <Answer Text="#name# peab nüüd ilma prillideta hakkama saama." ResultText="#name#  ei näinud ilma prillideta korralikult ja lõhkus seetõttu ära mõned asjad, mis maksid ühe kuldmündi." Money="-10" />
+      <Answer Text="Asendad katki läinud klaasid. Kumbki klaas maksab 7 hõbemünti." ResultText="Selgus, et ka optiku töö eest tuli maksta 3 hõbemünti." Money="-17" />
+      <Answer Text="Ostad uued prillid, mille raamid maksavad 1 kuldmündi ja kumbki klaas 5 hõbemünti." ResultText="#name# näeb uute prillidega palju parem välja." Money="-20" />
+    </Question>
+  </Event>
+
+  <Event Month="1" DefendantType="adult">
+    <Question Text="#name# oli vannitoas ja tal kukkus mobiiltelefon taskust välja. Telefon sulpsatas WC-potti ega hakanud enam tööle. Mida sa teed?" Title="Mobiiltelefon rikkis" Icon="Lost mobile phone">
+      <Answer Text="Püüad mobiiltelefoni WC-potist välja ja kuivatad selle rätikuga ära." ResultText="Mobiiltelefon ei olnud veekindel ning kuivatamine ei aidanud, see ei hakanudki enam tööle. #name# pidi ostma uue telefoni, mis maksis 2 kuldmünti." Money="-20" />
+      <Answer Text="Palud, et #name# koguks raha uue telefoni jaoks." ResultText="Kuna #name# kogus uue telefoni jaoks raha ega saanud tekstisõnumeid saata, kasutas ta pidevalt arvutit. Seetõttu pidid teised pereliikmed rohkem telefoniga rääkima ning telefoniarve tuli 8 hõbemündi suurune." Money="-8" />
+      <Answer Text="#name# saab uue telefoni, mis maksab 2 kuldmünti." ResultText="#name# sai uue telefoni, mis meeldib talle väga." Money="-20" />
+    </Question>
+  </Event>
+
+  <Event Month="1" DefendantType="adult">
+    <Question Text="Ilm oli kohutavalt külm ning seetõttu jäätus torudes vesi. Mida sa teed?" Title="Külmunud torud" Icon="Frozen pipes">
+      <Answer Text="Kutsud otsekohe torulukksepa." ResultText="Torulukksepp soojendas kohe veetorud üles, aga see läks maksma 8 hõbemünti." Money="-8" />
+      <Answer Text="Teed veetoru alla tule, et toru sees olev jää üles sulaks." ResultText="Kardin läks põlema. Sinu kahjud on 1 kuldmünt ja 5 hõbemünti." Money="-15" />
+      <Answer Text="Seod veetoru ümber mõned kaltsud, et jääd sulatada." ResultText="Sellest ei olnud üldse abi. Toru läks katki ja vett pritsis igale poole. Toru parandamine läks maksma 1 kuldmündi." Money="-10" />
+    </Question>
+  </Event>
+
+  <Event Month="2" DefendantType="child">
+    <Question Text="Lumi sulab katusel ja elutuppa tilgub vett. Seetõttu tuleb tapeet seina küljest lahti. Mida sa teed?" Title="Rikutud tapeet" Icon="Wallpaper destroyed">
+      <Answer Text="Liimid tapeedi seina tagasi. Kasutad selleks liimi, mis maksab 2 hõbemünti." ResultText="Õnneks püsis tapeet tänu sellele liimile väga hästi ja kaua paigas." Money="-2" />
+      <Answer Text="Võtad rikutud tapeedi seinast maha ja   loodad, et poes on samasugust tapeeti ikka müügil." ResultText="Samasuguse mustriga tapeeti ei olnud enam võimalik hankida. Seetõttu tuli kogu elutoas tapeet välja vahetada. Selleks läks vaja 8 rulli tapeeti,  iga rull maksis 3 hõbemünti." Money="-24" />
+      <Answer Text="Riputad maha tulnud tapeedi kohale hoopis vaiba." ResultText="Niiskus rikkus vaiba ära. See läks maksma 8 hõbemünti. Pere pidi laenutama terveks nädalaks kuivatusmasina, mis maksis 1 kuldmündi ja 3 hõbemünti. Siis ostsid nad 3 hõbemündi eest rulli tapeeti ja panid selle ise seina." Money="-24" />
+    </Question>
+  </Event>
+
+  <Event Month="2" DefendantType="adult">
+    <Question Text="WC-pott läks katki ja seda ei saa kasutada. Mida sa teed?" Title="WC-pott katki" Icon="Broken toilet">
+      <Answer Text="Kaevad maa sisse augu." ResultText="Ükski pereliige ei taha kaevata, nii et nad peavad ostma uue poti, mis maksab 2 kuldmünti." Money="-20" />
+      <Answer Text="Liimid poti kokku liimiga, mis maksab 6 hõbemünti." ResultText="Kahjuks ei olnud liim piisavalt tugev. Seega oli see kulutus asjatu ning pere pidi ostma uue WC-poti 2 kuldmündi eest." Money="-26" />
+      <Answer Text="Ostad 2 kuldmündi eest uue ja uhke WC-poti." ResultText="Uus pott on parem kui vana, sest kasutab palju vähem vett. Seetõttu on pere veearve 4 hõbemündi võrra väiksem." Money="-16" />
+    </Question>
+  </Event>
+  
+  <Event Month="2" DefendantType="child">
+  <Question Text="WC-pott läks katki ja seda ei saa kasutada. Mida sa teed?" Title="WC-pott katki" Icon="Broken toilet">
+      <Answer Text="Kaevad maa sisse augu." ResultText="Ükski pereliige ei taha kaevata, nii et nad peavad ostma uue poti, mis maksab 2 kuldmünti." Money="-20" />
+      <Answer Text="Liimid poti kokku liimiga, mis maksab 6 hõbemünti." ResultText="Kahjuks ei olnud liim piisavalt tugev. Seega oli see kulutus asjatu ning pere pidi ostma uue WC-poti 2 kuldmündi eest." Money="-26" />
+      <Answer Text="Ostad 2 kuldmündi eest uue ja uhke WC-poti." ResultText="Uus pott on parem kui vana, sest kasutab palju vähem vett. Seetõttu on pere veearve 4 hõbemündi võrra väiksem." Money="-16" />
+    </Question>
+  </Event>
+
+  <Event Month="2" DefendantType="adult">
+    <Question Text="Radiaatorid lähevad äkitselt katki ega anna enam sooja. Mida sa teed?" Title="Kütet pole" Icon="No heat">
+      <Answer Text="Kogu pere peab hästi soojad riided selga panema. Midagi muud ei saa praegu teha." ResultText="Talv oli pikk ja kõik pidid palju pakse riideid kandma. Kuid pere hoidis küttearve pealt 3 kuldmünti kokku." Money="-30" />
+      <Answer Text="Püüad ise radiaatoreid parandada." ResultText="Jah, see oli võimalik, aga pere pidi ostma 6 hõbemündi eest varuosi." Money="-6" />
+      <Answer Text="Helistad torulukksepale." ResultText="Torulukksepp tuli kohale ja parandas radiaatorid ära. Aga ta esitas perele ka arve: 1 kuldmünt ja 7 hõbemünti. " Money="-17" />
+    </Question>
+  </Event>
+
+  <Event Month="2" DefendantType="child">
+    <Question Text="Radiaatorid lähevad äkitselt katki ega anna enam sooja. Mida sa teed?" Title="Kütet pole" Icon="No heat">
+      <Answer Text="Kogu pere peab hästi soojad riided selga panema. Midagi muud ei saa praegu teha." ResultText="Talv oli pikk ja kõik pidid palju pakse riideid kandma. Kuid pere hoidis küttearve pealt 3 kuldmünti kokku." Money="-30" />
+      <Answer Text="Püüad ise radiaatoreid parandada." ResultText="Jah, see oli võimalik, aga pere pidi ostma 6 hõbemündi eest varuosi." Money="-6" />
+      <Answer Text="Helistad torulukksepale." ResultText="Torulukksepp tuli kohale ja parandas radiaatorid ära. Aga ta esitas perele ka arve: 1 kuldmünt ja 7 hõbemünti. " Money="-17" />
+    </Question>
+  </Event>
+
+  <Event Month="3" DefendantType="adult">
+    <Question Text="Pere tahaks endale koju kaabeltelevisiooni, et näha rohkem erinevaid telekanaleid. Mida sa teed? " Title="Kaabeltelevisioon" Icon="Cable TV">
+      <Answer Text="Ostad kõige väiksema kaabeltelevisiooni paketi, kus ei ole väga palju kanaleid. Teisest küljest maksab see ainult 5 hõbemünti." ResultText="Pere oli uute telekanalitega väga rahul." Money="-5" />
+      <Answer Text="Ostad kõige suurema telepaketi, kus on kõige rohkem kanaleid. See maksab 2 kuldmünti." ResultText="Paljude telekanalitega oli pere väga rahul, aga seal oli ka rohkesti selliseid, mida nad kunagi ei vaadanud." Money="-20" />
+      <Answer Text="Tellid keskmise suurusega telepaketi, kus on kanaleid kogu perele. See maksab 1 kuldmündi ja 3 hõbemünti." ResultText="Pere oli uute telekanalitega väga rahul." Money="-13" />
+    </Question>
+  </Event>
+
+  <Event Month="3" DefendantType="adult">
+    <Question Text="#name# on oma võtmed maha unustanud. Mida sa teed?" Title="Võtmed kadunud" Icon="Lost keys">
+      <Answer Text="Teed akna katki, et #name# saaks sisse  pugeda." ResultText="#name# leidis kõige väiksema akna ja puges sisse, aga akna vahetus läks maksma 2 kuldmünti ja 4 hõbemünti." Money="-24" />
+      <Answer Text="Helistad lukksepale, et ta tuleks ja ukse lahti teeks." ResultText="Lukksepal läks ukse avamisega päris palju aega. Töö eest küsis ta tasuks 1 kuldmündi ja 2 hõbemünti ning transpordi eest 3 hõbemünti. " Money="-15" />
+      <Answer Text="Ootad, kuni keegi tuleb koju." ResultText="Varsti tuligi keegi koju, nii et #name# pääses ruttu tuppa." Money="0" />
+    </Question>
+  </Event>
+
+  <Event Month="3" DefendantType="child">
+    <Question Text="#name# on oma võtmed maha unustanud. Mida sa teed?" Title="Võtmed kadunud" Icon="Lost keys">
+      <Answer Text="Teed akna katki, et #name# saaks sisse  pugeda." ResultText="#name# leidis kõige väiksema akna ja puges sisse, aga akna vahetus läks maksma 2 kuldmünti ja 4 hõbemünti." Money="-24" />
+      <Answer Text="Helistad lukksepale, et ta tuleks ja ukse lahti teeks." ResultText="Lukksepal läks ukse avamisega päris palju aega. Töö eest küsis ta tasuks 1 kuldmündi ja 2 hõbemünti ning transpordi eest 3 hõbemünti. " Money="-15" />
+      <Answer Text="Ootad, kuni keegi tuleb koju." ResultText="Varsti tuligi keegi koju, nii et #name# pääses ruttu tuppa." Money="0" />
+    </Question>
+  </Event>
+
+  <Event Month="3" DefendantType="adult">
+    <Question Text="Perekonna pangakaart on kadunud, sest nad ei suuda leida jakki, mille taskus see oli. Mida sa teed?" Title="Pangakaart kadunud" Icon="Lost bank card">
+      <Answer Text="Mitte midagi. Küllap ilmub see varsti jälle välja." ResultText="Hiljem sai pere teada, et kaart ei olnud lihtsalt kadunud, vaid see oli varastatud. Varas kasutas kaarti ning see läks perele maksma 1 kuldmündi ja 5 hõbemünti." Money="-15" />
+      <Answer Text="Palud, et kõik pereliikmed otsiksid maja läbi, kuni kaart üles leitakse." ResultText="#name# leiab jaki üles ja kaart on selle taskus." Money="0" />
+      <Answer Text="Helistad panka ja palud neil kaardi sulgeda. Nii et kui kaart on varastatud, ei saa varas seda kasutada." ResultText="Kaart oligi varastatud. Aga kuna sa nii kiiresti panka helistasid, ei saanud varas kaarti kasutada." Money="0" />
+    </Question>
+  </Event>
+
+  <Event Month="3" DefendantType="adult">
+    <Question Text="Laud läks kogemata ümber. Selle peal  oli  printer, mis kukkus põrandale ja läks katki. Mida sa teed?" Title="Mahakukkunud printer" Icon="Dropped printer">
+      <Answer Text="Ei prindi kodus enam midagi." ResultText="Kuna pere ei saanud enam kodus printida, pidid nad minema raamatukokku iga kord, kui neil midagi printida oli vaja. Seal maksis ühe lehe printimine 1 hõbemündi ja pere pidi kuu jooksul printima 9 lehekülge." Money="-9" />
+      <Answer Text="Saadad printeri arvutitöökotta parandusse. Varuosad maksavad 4 hõbemünti ja parandamine ise 2 hõbemünti. " ResultText="Kahjuks küsis töökoda veel 2 hõbemünti selle  eest, et nad parandatud printeri perele koju ära saatsid." Money="-8" />
+      <Answer Text="Ostad oma naabri käest kasutatud printeri. Naaber tahtis printeri eest küll 2 kuldmünti, aga oli nõus tegema perele 4 hõbemünti allahindlust." ResultText="Naabri kasutatud printeril oli palju rohkem võimalusi kui perekonna vanal printeril." Money="-16" />
+    </Question>
+  </Event>
+
+  <Event Month="3" DefendantType="child">
+    <Question Text="Laud läks kogemata ümber. Selle peal  oli  printer, mis kukkus põrandale ja läks katki. Mida sa teed?" Title="Mahakukkunud printer" Icon="Dropped printer">
+      <Answer Text="Ei prindi kodus enam midagi." ResultText="Kuna pere ei saanud enam kodus printida, pidid nad minema raamatukokku iga kord, kui neil midagi printida oli vaja. Seal maksis ühe lehe printimine 1 hõbemündi ja pere pidi kuu jooksul printima 9 lehekülge." Money="-9" />
+      <Answer Text="Saadad printeri arvutitöökotta parandusse. Varuosad maksavad 4 hõbemünti ja parandamine ise 2 hõbemünti. " ResultText="Kahjuks küsis töökoda veel 2 hõbemünti selle  eest, et nad parandatud printeri perele koju ära saatsid." Money="-8" />
+      <Answer Text="Ostad oma naabri käest kasutatud printeri. Naaber tahtis printeri eest küll 2 kuldmünti, aga oli nõus tegema perele 4 hõbemünti allahindlust." ResultText="Naabri kasutatud printeril oli palju rohkem võimalusi kui perekonna vanal printeril." Money="-16" />
+    </Question>
+  </Event>
+
+  <Event Month="4" DefendantType="adult">
+    <Question Text="Aiamööblit pärast talve õue viies märkas pere, et mõned lauatükid olid pehkinud. Mida sa teed?" Title="Aiamööbli väljaviimine" Icon="Taking out the garden furniture">
+      <Answer Text="Viskad kogu aiamööbli välja ja ostad uue, sama hea mööbli." ResultText="Uus aiamööbel läks maksma 2 kuldmünti ja 2 hõbemünti." Money="-22" />
+      <Answer Text="Ostad odavama aiamööbli, mis pole nii vastupidav nagu vana mööbel." ResultText="Uus, odavam aiamööbel maksis 1 kuldmündi ja 1 hõbemündi." Money="-11" />
+      <Answer Text="Ostad uusi lauatükke ja parandad aiamööbli ära." ResultText="Uued lauatükid läksid maksma 6 hõbemünti, naelad ja poldid aga 3 hõbemünti." Money="-9" />
+    </Question>
+  </Event>
+
+  <Event Month="4" DefendantType="child">
+    <Question Text="#name# kukkus jalgrattaga sõites ning lõi põlve ära. Tema püksid rebenesid ja sinna tekkis suur auk. Mida sa teed?" Title="Õnnetus jalgrattaga" Icon="Bicycle crash">
+      <Answer Text="Parandad püksid ära ja paned põlvele  plaastri." ResultText="Püksipõlvele õmmeldud lapp ei maksnud midagi, aga plaaster maksis 1 hõbemündi." Money="-1" />
+      <Answer Text="Ostad täpselt samasugused püksid nagu  need, mis katki läksid. Vanad püksid maksid 1 kuldmündi ja 6 hõbemünti." ResultText="Kahjuks olid püksid vahepeal kallimaks läinud. Nüüd maksid need 2 kuldmünti ja 2 hõbemünti." Money="-22" />
+      <Answer Text="Viskad püksid minema ja lähed poodi uusi otsima." ResultText="Perel vedas ja nad leidsid poest allahinnatud püksid, mis maksid 1 kuldmündi ja 3 hõbemünti." Money="-13" />
+    </Question>
+  </Event>
+
+  <Event Month="4" DefendantType="adult">
+    <Question Text="#name# ostis kogu perele suured lihavõttemunad. Kui ta poest tuli, sõitis temast hästi kiiresti mööda üks jalgrattur, nii et #name# ehmatas ja pillas lihavõttemunad maha. Nii et kahjuks läksid lihavõttemunad katki. Mida sa teed?" Title="Lihavõttemuna" Icon="Easter egg">
+      <Answer Text="Ostad uued lihavõttemunad, aga ainult  lastele. Munad maksavad 4 hõbemünti." ResultText="Lapsed olid suurte lihavõttemunade üle väga rõõmsad." Money="-4" />
+      <Answer Text="Pere saab lihtsalt katkised lihavõttemunad ja #name# annab lastele 2 hõbemünti taskuraha lisaks. " ResultText="Lapsed palusid ilusasti ja #name# andis neile hoopis 4 hõbemünti." Money="-4" />
+      <Answer Text="Viskad katkised lihavõttemunad minema ja ostad kogu perele uued munad. Need lähevad kokku maksma 6 hõbemünti." ResultText="Kogu pere on uute ja maitsvate lihavõttemunadega väga rahul." Money="-6" />
+    </Question>
+  </Event>
+
+  <Event Month="5" DefendantType="child">
+    <Question Text="#name# laenab oma sõbra käest jalgratta. Ta jätab ratta hoovi seisma ning üks auto sõidab sellele kogemata otsa. Jalgratas läheb  katki. Mida sa teed?" Title="Laenatud jalgratas katki" Icon="Destroyed borrowed bicycle">
+      <Answer Text="Saadad jalgratta töökotta parandusse. Remont läheb maksma 1 kuldmündi ja 7 hõbemünti." ResultText="Jalgratas saab taas täiesti korda." Money="-17" />
+      <Answer Text="Nõuad, et autojuht jalgratta remondi kinni maksaks." ResultText="Kahjuks ei tulnud kellelgi meelde auto numbrit üles kirjutada. Seepärast ei olnud neil võimalik autojuhti leida ning nad pidid jalgratta remondi eest ise maksma." Money="-17" />
+      <Answer Text="Ostad sõbrale uue jalgratta." ResultText="Õnneks oli perel selline kindlustus, mis tasus uue jalgratta hinna." Money="0" />
+    </Question>
+  </Event>
+
+  <Event Month="5" DefendantType="child">
+    <Question Text="#name# tahaks käia ratsutamistrennis, aga tal ei ole vajalikku varustust. Mida sa teed?" Title="Ratsutamine" Icon="Horseback riding">
+      <Answer Text="Palud, et #name# koguks ratsutamisvarustuse jaoks raha." ResultText="#name# kogus kokku kaks kuldmünti." Money="20" />
+      <Answer Text="Räägid, et #name# valiks teise spordiala, mis ei ole nii kallis." ResultText="#name# otsustas hakata hoopis sulgpallitrennis käima. Sulgpallitossud maksid 8 hõbemünti, trennitasu aga oli 1 kuldmünt ja 2 hõbemünti." Money="-20" />
+      <Answer Text="Ostad kogu vajaliku varustuse ja saadad lapse kohe ratsutamistrenni." ResultText="Ratsutamiskiiver, -saapad ja -kindad maksavad kokku 2 kuldmünti." Money="-20" />
+    </Question>
+  </Event>
+
+  <Event Month="5" DefendantType="adult">
+    <Question Text="Perekonna lemmikloomal on kirbud. Mida sa teed?" Title="Kirbud" Icon="Fleas">
+      <Answer Text="Proovid ise kirbud kätte saada." ResultText="See ei olnud võimalik. Kirpe püüdes kukkus #name# pikali ja lõhkus ära suure toataime, mis maksis 1 kuldmündi ja 5 hõbemünti." Money="-15" />
+      <Answer Text="Lähed loomaarsti juurde abi otsima, kuigi see maksab 2 kuldmünti ja 3 hõbemünti." ResultText="Loomaarst sai kõigist kirpudest jagu." Money="-23" />
+      <Answer Text="Ostad kirpude tõrjeks vahendi, mis maksab 1 kuldmündi ja 4 hõbemünti." ResultText="Selgus, et kirbutõrjevahend oli alla hinnatud. Seega hoidis pere kokku 6 hõbemünti." Money="-8" />
+    </Question>
+  </Event>
+
+  <Event Month="5" DefendantType="child">
+    <Question Text="Perekonna lemmikloomal on kirbud. Mida sa teed?" Title="Kirbud" Icon="Fleas">
+      <Answer Text="Proovid ise kirbud kätte saada." ResultText="See ei olnud võimalik. Kirpe püüdes kukkus #name# pikali ja lõhkus ära suure toataime, mis maksis 1 kuldmündi ja 5 hõbemünti." Money="-15" />
+      <Answer Text="Lähed loomaarsti juurde abi otsima, kuigi see maksab 2 kuldmünti ja 3 hõbemünti." ResultText="Loomaarst sai kõigist kirpudest jagu." Money="-23" />
+      <Answer Text="Ostad kirpude tõrjeks vahendi, mis maksab 1 kuldmündi ja 4 hõbemünti." ResultText="Selgus, et kirbutõrjevahend oli alla hinnatud. Seega hoidis pere kokku 6 hõbemünti." Money="-8" />
+    </Question>
+  </Event>
+
+
+  <Event Month="6" DefendantType="adult">
+    <Question Text="Suur lind eksis lennates kursilt ja lõhkus perel kaks akent. Mida sa teed?" Title="Lind" Icon="Witch">
+      <Answer Text="Paned akende asemele kaks puuplaati, mis kumbki maksavad 5 hõbemünti." ResultText="Puuplaadid ei hoidnud väga hästi sooja. See läks perele maksma 2 kuldmünti küttekuludena." Money="-20" />
+      <Answer Text="Ostad kaks uut akent, kumbki maksab 1 kuldmündi." ResultText="Uued aknad olid vanadest nii palju paremad, et nende abil hoidis pere küttekulude pealt kokku 6 hõbemünti." Money="-14" />
+      <Answer Text="Võtad aknad üldse eest, et linnud saaksid rahulikult läbi lennata." ResultText="Nüüd oli vaja kodu rohkem kütta ja see läks maksma 3 kuldmünti. " Money="-30" />
+    </Question>
+  </Event>
+
+  <Event Month="6" DefendantType="child">
+    <Question Text="Suur lind eksis lennates kursilt ja lõhkus perel kaks akent. Mida sa teed?" Title="Lind" Icon="Witch">
+      <Answer Text="Paned akende asemele kaks puuplaati, mis kumbki maksavad 5 hõbemünti." ResultText="Puuplaadid ei hoidnud väga hästi sooja. See läks perele maksma 2 kuldmünti küttekuludena." Money="-20" />
+      <Answer Text="Ostad kaks uut akent, kumbki maksab 1 kuldmündi." ResultText="Uued aknad olid vanadest nii palju paremad, et nende abil hoidis pere küttekulude pealt kokku 6 hõbemünti." Money="-14" />
+      <Answer Text="Võtad aknad üldse eest, et linnud saaksid rahulikult läbi lennata." ResultText="Nüüd oli vaja kodu rohkem kütta ja see läks maksma 3 kuldmünti. " Money="-30" />
+    </Question>
+  </Event>
+
+  <Event Month="6" DefendantType="adult">
+    <Question Text="Perekonna sõiduki kindlustuse hind läheb kallimaks. Mida sa teed?" Title="Kindlustus kallimaks" Icon="Insurance price increase">
+      <Answer Text="Otsustad edaspidi ilma kindlustuseta hakkama saada." ResultText="Varsti pärast seda sattus sõiduk õnnetusse ja pere pidi kõik kahjud ise kinni maksma. See läks maksma 3 kuldmünti ja 7 hõbemünti." Money="-37" />
+      <Answer Text="Otsustad võtta vastu hea kindlustuspakkumise, mis hiljuti postiga saadeti." ResultText="Kahjuks selgus, et uus pakkumine oli 1 kuldmündi võrra kallim kui see kindlustus, mis perel enne oli." Money="-10" />
+      <Answer Text="Uurid, kust saaks pere kõige parema kindlustuse. Parim kindlustus on 6 hõbemünti kallim kui nende eelmine kindlustus." ResultText="Varsti pärast seda sattus sõiduk õnnetusse. Kahjud olid 3 kuldmünti ja 7 hõbemünti, aga kindlustus tasus kõik kulud." Money="-6" />
+    </Question>
+  </Event>
+
+  <Event Month="6" DefendantType="child">
+    <Question Text="Laelambi pirn põles läbi ja kõik oli täitsa pime. #name# kukkus trepil ja sai natuke viga. Mida sa teed?" Title="Laelambi pirn põleb läbi" Icon="Ceiling lamp light bulb burns out">
+      <Answer Text="#name# saab plaastri, mis maksab 1 hõbemündi." ResultText="Plaastrit tuli nädal aega iga päev vahetada." Money="-7" />
+      <Answer Text="Paned lambi sisse uue pirni, mis maksab 2 hõbemünti." ResultText="Selgus, et selles lambis käib hoopis kaks pirni." Money="-4" />
+      <Answer Text="Lohutad last.  " ResultText="#name# tundis varsti ennast juba paremini." Money="0" />
+    </Question>
+  </Event>
+
+  <Event Month="6" DefendantType="adult">
+    <Question Text="Perekonna lemmikloomal on allergia ja seepärast vajab ta kallist eritoitu. Mida sa teed?" Title="Lemmiklooma allergia" Icon="The pet has allergies">
+      <Answer Text="Lased loomaarstil lemmikloomale ravikuuri teha, et vaene loom ei kannataks." ResultText="Loomaarsti teenus läheb perele maksma 2 kuldmünti ja 3 hõbemünti." Money="-23" />
+      <Answer Text="Ostad loomapoest kallist toitu, mis maksab 1 kuldmündi ja 2 hõbemünti." ResultText="Sellest toidust oli abi! Pere lemmikloom sai kiiresti terveks." Money="-12" />
+      <Answer Text="Vaatad, et loom ei sööks neid asju, mille vastu tal on allergia." ResultText="Vaatad, et loom ei sööks neid asju, mille vastu tal on allergia." Money="17" />
+    </Question>
+  </Event>
+
+  <Event Month="8" DefendantType="child">
+    <Question Text="Pere mängib õues palli. Pall põrkab vastu akent ja aken läheb katki. Mida sa teed?" Title="Pall lõhub akna" Icon="Ball breaks window">
+      <Answer Text="Palkad remondimehe, kes paneb ette uue akna, mis maksab 8 hõbemünti." ResultText="Remondimees küsis veel 1 kuldmündi ja 6 hõbemünti töö eest ning 4 hõbemünti selle eest, et ta pere maja juurde sõitis." Money="-28" />
+      <Answer Text="Ostad 8 hõbemündi eest uue akna ja paned selle ise ette." ResultText="Kõik läks hästi, nii et mingeid lisakulusid ei tulnud." Money="-8" />
+      <Answer Text="Jätad akna nii, nagu see on. Praegu on suvi  ja väljas on soe." ResultText="Lind lendas läbi katkise akna sisse ja ajas ühe uhke vaasi põrandale puruks. Vaas maksis 1 kuldmündi." Money="-10" />
+    </Question>
+  </Event>
+
+  <Event Month="8" DefendantType="child">
+    <Question Text="#name# tahaks mängida jalgpalli, aga tal ei ole vajalikke rõivaid ega jalatseid. Mida sa teed?" Title="Jalgpall" Icon="Football">
+      <Answer Text="Ütled, et #name# ei saa praegu jalgpalli mängida, sest varustuse jaoks ei jätku raha." ResultText="#name# muutus väga kurvaks, nii et pere otsustas lohutuseks kinno minna. Kinopiletid maksid 4 hõbemünti." Money="-4" />
+      <Answer Text="#name# saab uued jalgpallirõivad ja-jalatsid, mis maksavad 1 kuldmündi ja 2 hõbemünti." ResultText="Jalgpallitrenn ja bussisõit treeningule läksid kokku maksma veel 1 kuldmündi ja 1 hõbemündi." Money="-23" />
+      <Answer Text="Laenad sõbra käest mõned jalgpalliriided ja -jalatsid." ResultText="Jalgpallitrenn ja bussisõit treeningule lähevad maksma 1 kuldmündi ja 1 hõbemündi." Money="-11" />
+    </Question>
+  </Event>
+
+  <Event Month="8" DefendantType="child">
+    <Question Text="Perekonna pliit on katki. Mida sa teed?" Title="Ilma pliidita" Icon="No cooker">
+      <Answer Text="Teed süüa õues lõkke peal." ResultText="Niimoodi ei tohi lõket teha, nii et pere sai 2 kuldmünti trahvi." Money="-20" />
+      <Answer Text="Pere sööb tükk aega ainult külma toitu." ResultText="Tuli välja, et see oli üsna kallis variant. Külm toit maksis tervelt 1 kuldmündi ja 5 hõbemünti." Money="-15" />
+      <Answer Text="Ostad uue pliidi." ResultText="Uus pliit maksis 2 kuldmünti ja 6 hõbemünti, aga pere oli sellega väga rahul." Money="-26" />
+    </Question>
+  </Event>
+
+  <Event Month="9" DefendantType="child">
+    <Question Text="Tervel tänaval oli elektrikatkestus. Seetõttu sulas üles kogu toit, mille pere oli sügavkülmikusse pannud. Mida sa teed?" Title="Elektrikatkestus" Icon="Electrical cut">
+      <Answer Text="Kutsud külla hulga sõpru, et ülessulanud toit üheskoos ära süüa." ResultText="Pere pidi minema ja ostma külalistele jooke, mis maksid 1 kuldmündi ja 6 hõbemünti. Nad pidid ka külmutamiseks uut toitu ostma, see läks maksma 1 kuldmündi ja 2 hõbemünti." Money="-28" />
+      <Answer Text="Paned ülessulanud toidu uuesti sügavkülma." ResultText="Mõnda asja sai uuesti külmutada, aga suurem osa toidust läks pahaks ja tuli minema visata. Pahaks läinud toit maksis ühe kuldmündi." Money="-10" />
+      <Answer Text="Viskad kogu toidu minema ja ostad uue toidu." ResultText="Pere pidi sügavkülmikusse uue toidu ostma ja see oli kallis. Neil kulus selleks 2 kuldmünti ja 1 hõbemünt." Money="-21" />
+    </Question>
+  </Event>
+
+  <Event Month="9" DefendantType="child">
+    <Question Text="Perekonnal on juba tükk aega pööningul elanud üks hiir, kes teeb müra ja närib nende asju. Mida sa teed?" Title="Hiir pööningul" Icon="Mouse in the attic">
+      <Answer Text="Loodad, et hiir kolib varsti naabermajja." ResultText="Hiir koliski peatselt naabri juurde, nii et meie perel vedas." Money="0" />
+      <Answer Text="Ostad 1 kuldmündi eest hiirelõksu." ResultText="Hea juust meelitas hiire varsti lõksu." Money="-10" />
+      <Answer Text="Ei pane hiirt tähelegi." ResultText="Hiir rikkus ära lae soojustuse, mille asendamine läks maksma 2 kuldmünti." Money="-20" />
+    </Question>
+  </Event>
+
+  <Event Month="9" DefendantType="adult">
+    <Question Text="Perekonna arvuti ei lähe enam käima, nii et nad peavad ostma uue. Mida sa teed?" Title="Uus arvuti" Icon="New computer">
+      <Answer Text="Ostad otsekohe uue arvuti, et pere ei peaks liiga kaua ilma arvutita olema. Uus arvuti maksab 3 kuldmünti." ResultText="Uus arvuti oli küll kallis, aga tänu sellele läks pere elektriarve väiksemaks. Elektri pealt hoiti kokku 1 kuldmünt." Money="-20" />
+      <Answer Text="Rendid 6 kuuks uue arvuti. See läheb maksma 4 hõbemünti kuus." ResultText="Uus arvuti võttis vähem elektrit. Pere elektriarve läks 1 kuldmündi võrra väiksemaks." Money="-14" />
+      <Answer Text="Annad perele aega poodides hindu võrrelda. Pere peab kaks nädalat ilma arvutita hakkama saama, aga leiab uue arvuti soodsalt, 2 kuldmündi eest." ResultText="Uus arvuti võttis vähem elektrit. Pere elektriarve läks 1 kuldmündi võrra väiksemaks." Money="-10" />
+    </Question>
+  </Event>
+
+  <Event Month="9" DefendantType="adult">
+    <Question Text="Pere pesumasin läks äkitselt katki. Mida sa teed?" Title="Pesumasin" Icon="Washing machine">
+      <Answer Text="Ostad 2 kuldmündi ja 1 hõbemündi eest kasutatud pesumasina." ResultText="Kasutatud pesumasin osutus väga heaks ja töötas veel tükk aega." Money="-21" />
+      <Answer Text="Ostad 4 kuldmündi eest uue pesumasina." ResultText="Selgus, et uus pesumasin võtab märksa vähem elektrit ja vett. Elektri- ja veearved olid kokku 1 kuldmündi võrra väiksemad." Money="-30" />
+      <Answer Text="Selgus, et uus pesumasin võtab märksa vähem elektrit ja vett. Elektri- ja veearved olid kokku 1 kuldmündi võrra väiksemad." ResultText="Uus pesumasin hoidis perekonnal elektri ja vee arvelt kokku 2 kuldmünti." Money="-20" />
+    </Question>
+  </Event>
+
+  <Event Month="10" DefendantType="adult">
+    <Question Text="Pere kutsutakse sünnipäevapeole riigi teises otsas. Mida sa teed?" Title="Sünnipäev" Icon="Family birthday">
+      <Answer Text="Võtad kutse vastu ning ostad kena kingituse, mis maksab 1 kuldmündi ja 5 hõbemünti." ResultText="Pere sõitis sünnipäevapeole rongiga ning see maksis 1 kuldmündi." Money="-25" />
+      <Answer Text="Pere sõitis sünnipäevapeole rongiga ning see maksis 1 kuldmündi." ResultText="Pere otsustas selle asemel restorani lõunat sööma minna. See maksis 1 kuldmündi." Money="-10" />
+      <Answer Text="Ütled kutsest ära, aga saadad postiga kingituse, mis maksab 1 kuldmündi." ResultText="Postiga saatmine maksis veel 3 hõbemünti." Money="-13" />
+    </Question>
+  </Event>
+
+  <Event Month="10" DefendantType="adult">
+    <Question Text="Torm lükkab ümber ühe puu, mis kukub katusele ja lööb sinna augu. Mida sa teed?" Title="Tormikahjustus" Icon="Storm damage">
+      <Answer Text="Paned katuse augu alla ämbri, et vihmavesi tilguks sinna sisse." ResultText="Kui ämber täis sai, komistas #name# selle otsa  ning ajas vee põrandale. Puupõrand sai osaliselt rikutud ning selle kordategemine läks maksma 3 kuldmünti ja 2 hõbemünti." Money="-32" />
+      <Answer Text="Kutsud remondimehe, et ta katuse ära parandaks." ResultText="Augu remontimiseks läheb 2 katuseplaati, mis maksavad 7 hõbemünti tükk. Remondimees küsib oma töö eest 2 kuldmünti ja 1 hõbemündi." Money="-35" />
+      <Answer Text="Parandad katuse ise. Kasutad selleks kahte plaati, mis maksavad 7 hõbemünti tükk." ResultText="#name# pani augu kinni kahe katuseplaadi abil. Remont läks hästi." Money="-14" />
+    </Question>
+  </Event>
+
+  <Event Month="10" DefendantType="child">
+    <Question Text="#name# unustas akna kinni panna ja seetõttu sadas perekonna arvuti peale terve öö vihma. Mida sa teed?" Title="Arvuti saab märjaks" Icon="Wet computer">
+      <Answer Text="Paned arvuti radiaatori peale kuivama." ResultText="Kahjuks ei olnud sellest abi. Arvuti tuli saata parandusse. See maksis 2 kuldmünti." Money="-20" />
+      <Answer Text="Paned akna kinni ja ootad, kuni arvuti täitsa ära kuivab, enne kui te seda uuesti kasutate." ResultText="See võttis palju aega. Oma arvuti kuivamist oodates rentis pere teise arvuti. See maksis ühe kuldmündi. Kui vana arvuti ära kuivas, ei hakanud see ikka tööle. Arvuti tuli saata parandusse, mis maksis 2 kuldmünti." Money="-30" />
+      <Answer Text="Ostad 3 kuldmündi eest uue arvuti." ResultText="Uus arvuti oli väga hea ja võttis vähem elektrit kui vana arvuti. Seega hoidis pere elektri pealt kokku 6 hõbemünti." Money="-24" />
+    </Question>
+  </Event>
+
+  <Event Month="11" DefendantType="child">
+    <Question Text="#name# tahaks hakata käima muusikakoolis klaveritundides. Mida sa teed?" Title="Klaveritunnid" Icon="Piano lessons">
+      <Answer Text="Rendid klaveri 5 hõbemündi eest kuus." ResultText="#name# pidi rentima klaveri vähemalt 6 kuuks, aga ta õppis seda väga hästi mängima." Money="-30" />
+      <Answer Text="Ostad klaveri 2 kuldmündi eest." ResultText="#name# õppis väga hästi klaverit mängima." Money="-20" />
+      <Answer Text="Julgustad, et #name# õpiks hoopis plokkflööti mängima, sest plokkflööt maksab ainult ühe kuldmündi." ResultText="#name# õppis hästi plokkflööti mängima, aga tahtis ikka käia ka klaveritundides. Nii et lõpuks pidi pere maksma mõlema asja eest." Money="-30" />
+    </Question>
+  </Event>
+
+  <Event Month="11" DefendantType="adult">
+    <Question Text="Tormituul puhub ukse lahti. Paraku läheb seetõttu katki suur klaasruut ukse sees. Mida sa teed?" Title="Tormikahjustus" Icon="Storm damage2">
+      <Answer Text="Ostad 3 kuldmündi eest terve uue ukse." ResultText="Selgus, et uus uks oli parem kui vana. See hoidis palju paremini sooja, nii et pere säästis küttekulude pealt 1 kuldmündi." Money="-20" />
+      <Answer Text="Paned ise ukse sisse uue klaasruudu. Klaas maksab 3 hõbemünti ning naelad 1 hõbemündi. Sul läheb vaja 10 naela." ResultText="Kahjuks ei jäänud klaasruut korralikult paika. Ukse parandamine läks maksma veel 2 kuldmünti." Money="-33" />
+      <Answer Text="Ostad uue klaasruudu, mis maksab 5 hõbemünti. Remondimees paneb selle paika ja küsib oma töö eest 1 kuldmündi. " ResultText="Uks saab korda ja pere on rõõmus." Money="-15" />
+    </Question>
+  </Event>
+
+  <Event Month="11" DefendantType="adult">
+    <Question Text="Perekonna külaline komistab põrandal olnud mänguasjade otsa ning teeb kogemata katki ühe kalli klaasi. Mida sa teed?" Title="Külaline lõhub kalli klaasi" Icon="Guest breaks expensive glass">
+      <Answer Text="Viskad külalise majast välja." ResultText="Külaline oli väga kurb ja pillas veel ühe klaasi põrandale. Kaks uut klaasi maksid kokku 2 kuldmünti ja 2 hõbemünti." Money="-22" />
+      <Answer Text="Palud, et külaline ostaks uue klaasi." ResultText="Külaline lubas, et ta ostab perele uue klaasi." Money="0" />
+      <Answer Text="Ütled, et kõik on korras, sest perel on piisavalt klaase." ResultText="Pere sai suurepäraselt hakkama ka ilma purunenud klaasita." Money="0" />
+    </Question>
+  </Event>
+
+  <Event Month="11" DefendantType="child">
+     <Question Text="Perekonna külaline komistab põrandal olnud mänguasjade otsa ning teeb kogemata katki ühe kalli klaasi. Mida sa teed?" Title="Külaline lõhub kalli klaasi" Icon="Guest breaks expensive glass">
+      <Answer Text="Viskad külalise majast välja." ResultText="Külaline oli väga kurb ja pillas veel ühe klaasi põrandale. Kaks uut klaasi maksid kokku 2 kuldmünti ja 2 hõbemünti." Money="-22" />
+      <Answer Text="Palud, et külaline ostaks uue klaasi." ResultText="Külaline lubas, et ta ostab perele uue klaasi." Money="0" />
+      <Answer Text="Ütled, et kõik on korras, sest perel on piisavalt klaase." ResultText="Pere sai suurepäraselt hakkama ka ilma purunenud klaasita." Money="0" />
+    </Question>
+  </Event>
+
+  <Event Month="12" DefendantType="adult">
+    <Question Text="Keegi unustas vannitoas kraani kinni keerata. Mida sa teed?" Title="Kraan jääb kinni keeramata" Icon="Forgot to turn off the tap">
+      <Answer Text="Avad vannitoa ukse, et vesi välja voolaks." ResultText="Vesi voolas välja kalli põrandavaiba peale. Vaip tuli saata puhastusse ja see maksis 4 kuldmünti." Money="-40" />
+      <Answer Text="Helistad torulukksepale." ResultText="Torulukksepp tuli liiga hilja. Kraanist voolas välja 1000 liitrit vett, mis maksis 1 kuldmündi ja 5 hõbemünti. Peale selle võttis torulukksepp kraani kinnikeeramise eest 8 hõbemünti." Money="-23" />
+      <Answer Text="Keerad kraani kinni." ResultText="Kraani kinnikeeramiseks tuli uks lahti teha. Seega voolas vesi välja kalli põrandavaiba peale, mis tuli saata puhastusse. See maksis 4 kuldmünti." Money="-40" />
+    </Question>
+  </Event>
+
+  <Event Month="12" DefendantType="child">
+    <Question Text="Keegi unustas vannitoas kraani kinni keerata. Mida sa teed?" Title="Kraan jääb kinni keeramata" Icon="Forgot to turn off the tap">
+      <Answer Text="Avad vannitoa ukse, et vesi välja voolaks." ResultText="Vesi voolas välja kalli põrandavaiba peale. Vaip tuli saata puhastusse ja see maksis 4 kuldmünti." Money="-40" />
+      <Answer Text="Helistad torulukksepale." ResultText="Torulukksepp tuli liiga hilja. Kraanist voolas välja 1000 liitrit vett, mis maksis 1 kuldmündi ja 5 hõbemünti. Peale selle võttis torulukksepp kraani kinnikeeramise eest 8 hõbemünti." Money="-23" />
+      <Answer Text="Keerad kraani kinni." ResultText="Kraani kinnikeeramiseks tuli uks lahti teha. Seega voolas vesi välja kalli põrandavaiba peale, mis tuli saata puhastusse. See maksis 4 kuldmünti." Money="-40" />
+    </Question>
+  </Event>
+
+  <Event Month="12" DefendantType="adult">
+    <Question Text="Tool kukub ümber ja müksab televiisorit, mis ei lähe enam käima. Mida sa teed?" Title="Televiisor läheb katki" Icon="The television stops working">
+      <Answer Text="Ei vaata enam telerit." ResultText="Perekond ei pea enam televisiooni eest 1 kuldmündi suurust kuutasu maksma." Money="10" />
+      <Answer Text="Ostad 2 kuldmündi eest uue teleri ja lased selle koju ära tuua." ResultText="Selgus, et pere pidi maksma teleri transpordi eest veel 5 hõbemünti." Money="-25" />
+      <Answer Text="Lased teleri 1 kuldmündi eest ära parandada. Transpordiks kulub 5 hõbemünti." ResultText="Selgus, et pere pidi maksma veel 5 hõbemünti teleri ülespaneku eest." Money="-20" />
+    </Question>
+  </Event>
+  <Event Month="12" DefendantType="child">
+    <Question Text="#name# on unustanud ühe raamatu raamatukokku tagasi viia. See raamat on olnud tema käes juba mitu kuud! Mida sa teed?" Title="Raamatukogu raamat ununenud" Icon="Forgotten library book">
+      <Answer Text="Mitte midagi." ResultText="Pere sai raamatukogust mitu meeldetuletuskirja ning lõpuks trahvi: 1 kuldmündi ja 2 hõbemünti." Money="-12" />
+      <Answer Text="Viid raamatu tagasi nii ruttu kui võimalik, isegi kui pead ikka trahvi maksma." ResultText="Selgus, et trahv oli 5 hõbemünti." Money="-5" />
+      <Answer Text="Ostad raamatu raamatukogust välja, et #name# saaks selle endale jätta." ResultText="Raamat maksis 1 kuldmündi ja 5 hõbemünti." Money="-15" />
+    </Question>
+  </Event>
+
+  <Event Month="13" DefendantType="adult">
+    <Question Text="Laps mängis esikus palli. Suur peegel kukkus põrandale ja läks katki. Mida sa teed?" Title="Peegel katki" Icon="Broken mirror">
+      <Answer Text="Ei vaata enam peeglisse." ResultText="See tähendas, et #name# läks tööle nii, et ta juuksed olid sassis ning põsk hambapastaga koos. Seepärast saadeti #name# taksoga koju. See maksis 8 hõbemünti." Money="-8" />
+      <Answer Text="Proovid liimida peegli kokku superliimiga, mis maksab 4 hõbemünti." ResultText="See liim ei pidanud kuigi kaua vastu. Lõpuks tuli peegel ikka ära visata ning pere ostis uue peegli. See maksis 2 kuldmünti ja 2 hõbemünti." Money="-26" />
+      <Answer Text="Ostad 2 kuldmündi eest uue peegli ja 2 hõbemündi eest nööri, millega peegel üles riputada." ResultText="Uus peegel pidas vastu palju aastaid." Money="-26" />
+    </Question>
+  </Event>
+
+  <Event Month="13" DefendantType="child">
+    <Question Text="#name# tahab bussiga koju sõita, kuid on oma sõidukaardi maha unustanud. Mis sa arvad, mida peaks #name# tegema?" Title="Sõidukaart ununenud" Icon="Forgotten bus pass">
+      <Answer Text="Ta peaks proovima, äkki saab ta bussiga sõita ka ilma piletita." ResultText="See ei läinud kuigi hästi. Bussi tuli piletikontroll, kes tegi talle trahvi. Ta pidi maksma 2 kuldmünti." Money="-20" />
+      <Answer Text="Ta peaks jala koju minema, kuigi tee on päris pikk." ResultText="Jalgsi koju minemine võttis üle tunni aega, aga  see ei maksnud midagi." Money="0" />
+      <Answer Text="Ta peaks ostma bussipileti." ResultText="Pilet maksis 2 hõbemünti." Money="-2" />
+    </Question>
+  </Event>
+
+  <Event Month="13" DefendantType="adult">
+    <Question Text="Pere läheb jalutama. Kahjuks libiseb #name# lumel ja tal lähevad kaks esihammast katki. Mida sa teed?" Title="Esihambad katki" Icon="Broken front teeth">
+      <Answer Text="#name# peab otsekohe hambaarsti juurde minema ja hambad ära parandada laskma. Kummagi hamba parandus läheb maksma 1 kuldmündi ja 5 hõbemünti." ResultText="Õnneks oli hambaarsti juures jõulude puhul allahindlus, 5 hõbemünti iga hamba pealt." Money="-20" />
+      <Answer Text="Sõidad teise linna, kus hambaravi on  odavam. Seal maksab ühe hamba kordategemine ainult 1 kuldmündi." ResultText="Teise linna sõit läheb maksma 5 hõbemünti." Money="-20" />
+      <Answer Text="Otsid kõige kiirema ja odavama parandusvõimaluse, mis maksab 5  hõbemünti hamba kohta." ResultText="Kiirparandus ei olnud kuigi hea, see kukkus juba nädal hiljem välja. Pärast oli ikka vaja hambaarsti juurde minna ning korralik parandus läks maksma 3 kuldmünti." Money="-40" />
+    </Question>
+  </Event>
+
+  <Event Month="13" DefendantType="child">
+     <Question Text="Pere läheb jalutama. Kahjuks libiseb #name# lumel ja tal lähevad kaks esihammast katki. Mida sa teed?" Title="Esihambad katki" Icon="Broken front teeth">
+      <Answer Text="#name# peab otsekohe hambaarsti juurde minema ja hambad ära parandada laskma. Kummagi hamba parandus läheb maksma 1 kuldmündi ja 5 hõbemünti." ResultText="Õnneks oli hambaarsti juures jõulude puhul allahindlus, 5 hõbemünti iga hamba pealt." Money="-20" />
+      <Answer Text="Sõidad teise linna, kus hambaravi on  odavam. Seal maksab ühe hamba kordategemine ainult 1 kuldmündi." ResultText="Teise linna sõit läheb maksma 5 hõbemünti." Money="-20" />
+      <Answer Text="Otsid kõige kiirema ja odavama parandusvõimaluse, mis maksab 5  hõbemünti hamba kohta." ResultText="Kiirparandus ei olnud kuigi hea, see kukkus juba nädal hiljem välja. Pärast oli ikka vaja hambaarsti juurde minna ning korralik parandus läks maksma 3 kuldmünti." Money="-40" />
+    </Question>
+  </Event>
+
+  <Event Month="13" DefendantType="child">
+    <Question Text="Üks lind otsib sooja kohta ja jääb korstnasse kinni. Korsten läheb katki ja viis telliskivi kukub sealt välja. Mida sa teed?" Title="Lind lõhub korstna" Icon="A bird destroys the chimney">
+      <Answer Text="Ostad 1 kuldmündi ja 2 hõbemündi eest terasest korstna ning paigutad selle vana korstna asemele." ResultText="Uus korsten ei olnud just väga kena, aga töötas hästi." Money="-12" />
+      <Answer Text="Ostad mõned uued tellised ja proovid ise korstna ära parandada." ResultText="#name# ostis viis tellist, mis maksid 1 hõbemünt tükk. Õnneks läks remont igati hästi." Money="-5" />
+      <Answer Text="Kutsud müürsepa, et see korstna ära parandaks." ResultText="Müürsepp võttis iga telliskivi eest 2 hõbemünti pluss enda töö eest 1 kuldmündi ja 7 hõbemünti." Money="-27" />
+    </Question>
+  </Event>
+
+  <Event Month="0" DefendantType="child">
+    <Question Text="#name# võitis ühel võistlusel 2 kuldmünti. Kogu pere kallistab teda ja soovib talle palju õnne!" Title="Võistlus" Icon="Contest">
+      <Answer Text="" ResultText="" Money="20" />
+      <Answer Text="" ResultText="" Money="0" />
+      <Answer Text="" ResultText="" Money="0" />
+    </Question>
+  </Event>
+
+  <Event Month="0" DefendantType="adult">
+    <Question Text="#name# võitis ühel võistlusel 2 kuldmünti. Kogu pere kallistab teda ja soovib talle palju õnne!" Title="Võistlus" Icon="Won in Lotto">
+      <Answer Text="" ResultText="" Money="20" />
+      <Answer Text="" ResultText="" Money="0" />
+      <Answer Text="" ResultText="" Money="0" />
+    </Question>
+  </Event>
+
+  <Event Month="0" DefendantType="adult">
+    <Question Text="Pere ostetud lotopilet võitis peaauhinna - 3 kuldmünti!" Title="Lotovõit" Icon="Contest">
+      <Answer Text="" ResultText="" Money="30" />
+      <Answer Text="" ResultText="" Money="0" />
+      <Answer Text="" ResultText="" Money="0" />
+    </Question>
+  </Event>
+
+  <Event Month="0" DefendantType="child">
+    <Question Text="Pere ostetud lotopilet võitis peaauhinna - 3 kuldmünti!" Title="Lotovõit" Icon="Contest">
+      <Answer Text="" ResultText="" Money="30" />
+      <Answer Text="" ResultText="" Money="0" />
+      <Answer Text="" ResultText="" Money="0" />
+    </Question>
+  </Event>
+
+  <Event Month="0" DefendantType="adult">
+    <Question Text="Pere sai ootamatu päranduse kaugelt, kuid rikkalt sugulaselt Ameerikast - 5 kuldmünti!" Title="Pärandus" Icon="Inheritance">
+      <Answer Text="" ResultText="" Money="50" />
+      <Answer Text="" ResultText="" Money="0" />
+      <Answer Text="" ResultText="" Money="0" />
+    </Question>
+  </Event>
+
+  <Event Month="0" DefendantType="adult">
+    <Question Text="#name# sõitis autoga liiga kiiresti ja sai kiiruseületamise eest 3 kuldmünti trahvi. See nüüd küll väga tark tegu ei olnud." Title="Trahv kiiruse ületamise eest" Icon="Speeding fine">
+      <Answer Text="" ResultText="" Money="-40" />
+      <Answer Text="" ResultText="" Money="0" />
+      <Answer Text="" ResultText="" Money="0" />
+    </Question>
+  </Event>
+
+  <Event Month="0" DefendantType="adult">
+    <Question Text="Üks pereliige sai punase fooritulega üle tee mineku eest 3 kuldmünti trahvi. See nüüd küll väga tark tegu ei olnud." Title="Trahv punase tulega ülemineku eest" Icon="Fine for running red light">
+      <Answer Text="" ResultText="" Money="-30" />
+      <Answer Text="" ResultText="" Money="0" />
+      <Answer Text="" ResultText="" Money="0" />
+    </Question>
+  </Event>
+
+
+  <Event Month="0" DefendantType="child">
+    <Question Text="Üks pereliige sai punase fooritulega üle tee mineku eest 3 kuldmünti trahvi. See nüüd küll väga tark tegu ei olnud." Title="Trahv punase tulega ülemineku eest" Icon="Fine for running red light">
+      <Answer Text="" ResultText="" Money="-30" />
+      <Answer Text="" ResultText="" Money="0" />
+      <Answer Text="" ResultText="" Money="0" />
+    </Question>
+  </Event>
+
+  <Event Month="0" DefendantType="adult">
+    <Question Text="Maksuamet saatis perele kirja, kus öeldi, et nad ei ole piisavalt makse maksnud. Seepärast pidid nad otsekohe maksma 4 kuldmünti maksudeks!" Title="Lisamaks" Icon="Extra tax bill">
+      <Answer Text="" ResultText="" Money="-40" />
+      <Answer Text="" ResultText="" Money="0" />
+      <Answer Text="" ResultText="" Money="0" />
+    </Question>
+  </Event>
+  
+</root>

@@ -1,0 +1,1075 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <Ui>
+    <HollidaySummerEuropa>Europa</HollidaySummerEuropa>
+    <HollidaySummerAmericaN>Nordamerika</HollidaySummerAmericaN>
+    <HollidaySummerAmericaS>Sydamerika</HollidaySummerAmericaS>
+    <HollidaySummerAsia>Asien</HollidaySummerAsia>
+    <HollidaySummerAustralia>Australien</HollidaySummerAustralia>
+    <HollidaySummerAntarktika>Antarktis</HollidaySummerAntarktika>
+    <HollidaySummerAfrica>Afrika</HollidaySummerAfrica>
+
+    <HollidaySummerCorrect>Rigtigt svar</HollidaySummerCorrect>
+    <HollidaySummerIncorrect>Forkert svar</HollidaySummerIncorrect>
+
+    <HollidaySummerTitle>Hvor vil du gerne rejse hen?</HollidaySummerTitle>
+    <HollidaySummerFinish>Der er ikke flere spørgsmål</HollidaySummerFinish>
+
+    <AntartikaQ0>Hvornår er det vinter i Antarktis?</AntartikaQ0>
+    <AntartikaA0>Det er vinter i juni. Og da er det mørkt hele dagen!</AntartikaA0>
+    <AntartikaQ0A1>I juni</AntartikaQ0A1>
+    <AntartikaQ0A2>I december</AntartikaQ0A2>
+    <AntartikaQ0A3>Det er aldrig vinter</AntartikaQ0A3>
+
+    <AntartikaQ1>Hvor meget regn er der på Antarktis?</AntartikaQ1>
+    <AntartikaA1>I store områder regner det faktisk aldrig. Det er faktisk næsten en ørken.</AntartikaA1>
+    <AntartikaQ1A1>Det regner meget ofte</AntartikaQ1A1>
+    <AntartikaQ1A2>Det regner faktisk aldrig</AntartikaQ1A2>
+    <AntartikaQ1A3>Mængdenaf regn er nomal</AntartikaQ1A3>
+
+    <AntartikaQ2>Der er meget is i Antarktis. Hvor tyk er isen i gennemsnit?</AntartikaQ2>
+    <AntartikaA2>Isen er meget tyk. Den er mere en 1,5 km. tyk i gennemsnit!</AntartikaA2>
+    <AntartikaQ2A1>10 meter</AntartikaQ2A1>
+    <AntartikaQ2A2>500 meter</AntartikaQ2A2>
+    <AntartikaQ2A3>Mere end 1,5 km.</AntartikaQ2A3>
+
+    <AntartikaQ3>Hvad kaldes en stor væg lavet af is?</AntartikaQ3>
+    <AntartikaA3>Store masser eller vægge af is kaldes gletsjere. Og de bevæger sig faktisk meget langsomt!</AntartikaA3>
+    <AntartikaQ3A1>Gletsjer</AntartikaQ3A1>
+    <AntartikaQ3A2>Kold front</AntartikaQ3A2>
+    <AntartikaQ3A3>Is væg</AntartikaQ3A3>
+
+    <AntartikaQ4>Hvilke af disse dyr lever i Antarktis?</AntartikaQ4>
+    <AntartikaA4>Pingviner lever i Antarktis. De er rigtig gode til at holde sige varme!</AntartikaA4>
+    <AntartikaQ4A1>Slanger</AntartikaQ4A1>
+    <AntartikaQ4A2>Pingviner</AntartikaQ4A2>
+    <AntartikaQ4A3>Køer</AntartikaQ4A3>
+
+    <AustraliaQ0>Koalabjørnen lever i Australien. Men hvad spiser den?</AustraliaQ0>
+    <AustraliaA0>Koalabjørnen spiser eukalyptus blade!</AustraliaA0>
+    <AustraliaQ0A1>Korn</AustraliaQ0A1>
+    <AustraliaQ0A2>Andre dyr</AustraliaQ0A2>
+    <AustraliaQ0A3>Eukalyptus blade</AustraliaQ0A3>
+
+    <AustraliaQ1>Hvilket instrument kommer fra Australien?</AustraliaQ1>
+    <AustraliaA1>Digeridooen kommer fra Australien. Det er nærmest et langt rør af træ, og siger en helt specielt lyd!</AustraliaA1>
+    <AustraliaQ1A1>Digeridoo</AustraliaQ1A1>
+    <AustraliaQ1A2>Trommer</AustraliaQ1A2>
+    <AustraliaQ1A3>Tuba</AustraliaQ1A3>
+
+    <AustraliaQ2>I Australien ligger verdens største sten. Hvad hedder den?</AustraliaQ2>
+    <AustraliaA2>Verdens største sten hedder Ayers Rock. Man kan genkende den på sin røde farve.</AustraliaA2>
+    <AustraliaQ2A1>Flintstone</AustraliaQ2A1>
+    <AustraliaQ2A2>Ayers Rock</AustraliaQ2A2>
+    <AustraliaQ2A3>Hard Rock</AustraliaQ2A3>
+
+    <AustraliaQ3>Hvilket gammelt våben kommer fra Australien?</AustraliaQ3>
+    <AustraliaA3>Boomerangen kommer fra Australien. Den kommer tilbage, når man kaster den.</AustraliaA3>
+    <AustraliaQ3A1>Pistol</AustraliaQ3A1>
+    <AustraliaQ3A2>Sabel</AustraliaQ3A2>
+    <AustraliaQ3A3>Boomerang</AustraliaQ3A3>
+
+    <AustraliaQ4>Hvad kalder man de indfødte i Australien?</AustraliaQ4>
+    <AustraliaA4>Aboriginies er Australiens indfødte befolkning. De har levet der i over 30.000 år!</AustraliaA4>
+    <AustraliaQ4A1>Indianere</AustraliaQ4A1>
+    <AustraliaQ4A2>Aboriginies</AustraliaQ4A2>
+    <AustraliaQ4A3>Beduiner</AustraliaQ4A3>
+
+    <AfricaQ0>Hvad hedder det højeste bjerg i Afrika?</AfricaQ0>
+    <AfricaA0>Kilimanjaro er det højeste bjerg i Afrika. Det er over 5.800 meter!</AfricaA0>
+    <AfricaQ0A1>Alperne</AfricaQ0A1>
+    <AfricaQ0A2>Kilimanjaro</AfricaQ0A2>
+    <AfricaQ0A3>Mount Everest</AfricaQ0A3>
+
+    <AfricaQ1>Hvilket land ligger ikke i Afrika?</AfricaQ1>
+    <AfricaA1>Uruguay ligger ikke i Afrika. Det ligger i Syd Amerika.</AfricaA1>
+    <AfricaQ1A1>Uruguay</AfricaQ1A1>
+    <AfricaQ1A2>Madagascar</AfricaQ1A2>
+    <AfricaQ1A3>Ghana</AfricaQ1A3>
+
+    <AfricaQ2>Hvilket dyr lever i Afrika?</AfricaQ2>
+    <AfricaA2>Elefanten lever i Afrika - men også i Indien. Forskellen på dem er, at de afrikanske elefanter har meget store ører, og de indiske har meget små ører.</AfricaA2>
+    <AfricaQ2A1>Elefant</AfricaQ2A1>
+    <AfricaQ2A2>Tiger</AfricaQ2A2>
+    <AfricaQ2A3>Lama</AfricaQ2A3>
+
+    <AfricaQ3>Hvilken stor og meget lang flod ligger i Afrika?</AfricaQ3>
+    <AfricaA3>Nilen ligger i Afrika. Den er meget lang, nemlig over 6.500 kilometer.</AfricaA3>
+    <AfricaQ3A1>Mississippi</AfricaQ3A1>
+    <AfricaQ3A2>Amazon floden</AfricaQ3A2>
+    <AfricaQ3A3>Nilen</AfricaQ3A3>
+
+    <AfricaQ4>Der ligger en meget stor ørken i Afrika. Hvad kalder man den?</AfricaQ4>
+    <AfricaA4>Ørkenen hedder Sahara, og det er verdens største ørken. Der kan blive over 55 grader varmt!</AfricaA4>
+    <AfricaQ4A1>Sarah</AfricaQ4A1>
+    <AfricaQ4A2>Sahara</AfricaQ4A2>
+    <AfricaQ4A3>Ohara</AfricaQ4A3>
+
+    <AsiaQ0>Hvad hedder hovedstaden i Japan?</AsiaQ0>
+    <AsiaA0>Hovedstaden i Japan hedder Tokyo. Beijing ligger i Kina, og Berlin ligger i Tyskland.</AsiaA0>
+    <AsiaQ0A1>Tokyo</AsiaQ0A1>
+    <AsiaQ0A2>Beijing</AsiaQ0A2>
+    <AsiaQ0A3>Berlin</AsiaQ0A3>
+
+    <AsiaQ1>Hvilket land bor der flest mennesker i?</AsiaQ1>
+    <AsiaA1>Det gør der i Kina. Faktisk bor der over 1,3 milliard mennesker!</AsiaA1>
+    <AsiaQ1A1>Vietnam</AsiaQ1A1>
+    <AsiaQ1A2>Kina</AsiaQ1A2>
+    <AsiaQ1A3>Taiwan</AsiaQ1A3>
+
+    <AsiaQ2>Hvilket land ligger ikke i Asien?</AsiaQ2>
+    <AsiaA2>Peru ligger ikke i Asien. Det ligger i Sydamerika.</AsiaA2>
+    <AsiaQ2A1>Japan</AsiaQ2A1>
+    <AsiaQ2A2>Vietnam</AsiaQ2A2>
+    <AsiaQ2A3>Peru</AsiaQ2A3>
+
+    <AsiaQ3>Hvilket land stammer ris fra?</AsiaQ3>
+    <AsiaA3>Ris stammer fra Kina, men man spiser det også i de andre lande.</AsiaA3>
+    <AsiaQ3A1>Indien</AsiaQ3A1>
+    <AsiaQ3A2>Filippinerne</AsiaQ3A2>
+    <AsiaQ3A3>Kina</AsiaQ3A3>
+
+    <AsiaQ4>Hvilket sprog taler man ikke i Asien?</AsiaQ4>
+    <AsiaA4>Man taler ikke græsk i Asien. Det gør man nemlig i Grækenland.</AsiaA4>
+    <AsiaQ4A1>Græsk</AsiaQ4A1>
+    <AsiaQ4A2>Kinesisk</AsiaQ4A2>
+    <AsiaQ4A3>Indisk</AsiaQ4A3>
+
+    <AmericaSQ0>Hvilket gammelt folkefærd stammer fra Sydamerika?</AmericaSQ0>
+    <AmericaSA0>Inkaerne stammer fra Sydamerika. De var engang et af verdens største samfund.</AmericaSA0>
+    <AmericaSQ0A1>Munke</AmericaSQ0A1>
+    <AmericaSQ0A2>Beduiner</AmericaSQ0A2>
+    <AmericaSQ0A3>Inkaer</AmericaSQ0A3>
+
+    <AmericaSQ1>Hvad hedder den største og mest kendte flod i Sydamerika?</AmericaSQ1>
+    <AmericaSA1>Den største og mest kendte flod hedder Amazonfloden. Den løber hovedsageligt igennem Brasilien.</AmericaSA1>
+    <AmericaSQ1A1>Amazon floden</AmericaSQ1A1>
+    <AmericaSQ1A2>Nilen</AmericaSQ1A2>
+    <AmericaSQ1A3>Storfloden</AmericaSQ1A3>
+
+    <AmericaSQ2>Hvilket dyr, som er kendt for at spytte, lever i Sydamerika?</AmericaSQ2>
+    <AmericaSA2>Lamaer lever i Sydamerika. De er kendt for at spytte, når de føler sig truet.</AmericaSA2>
+    <AmericaSQ2A1>Løve</AmericaSQ2A1>
+    <AmericaSQ2A2>Lama</AmericaSQ2A2>
+    <AmericaSQ2A3>Isbjørne</AmericaSQ2A3>
+
+    <AmericaSQ3>Hvilket land ligger ikke i Sydamerika?</AmericaSQ3>
+    <AmericaSA3>Etiopien ligger ikke i Sydamerika. Det ligger i Afrika.</AmericaSA3>
+    <AmericaSQ3A1>Peru</AmericaSQ3A1>
+    <AmericaSQ3A2>Etiopien</AmericaSQ3A2>
+    <AmericaSQ3A3>Uruguay</AmericaSQ3A3>
+
+    <AmericaSQ4>I hvilket land danser man meget samba?</AmericaSQ4>
+    <AmericaSA4>Det gør man i Brasilien. Der er hvert år et karneval i byen Rio de Janeiro, hvor de danser meget samba!</AmericaSA4>
+    <AmericaSQ4A1>Chile</AmericaSQ4A1>
+    <AmericaSQ4A2>Argentina</AmericaSQ4A2>
+    <AmericaSQ4A3>Brasilien</AmericaSQ4A3>
+
+    <AmericaNQ0>Hvilket dyr lever ikke i Nordamerika?</AmericaNQ0>
+    <AmericaNA0>Kænguroer lever ikke i Nordamerika. De lever i   Australien.</AmericaNA0>
+    <AmericaNQ0A1>Kænguro</AmericaNQ0A1>
+    <AmericaNQ0A2>Får</AmericaNQ0A2>
+    <AmericaNQ0A3>Hest</AmericaNQ0A3>
+
+    <AmericaNQ1>Hvad hedder præsidenten i USA?</AmericaNQ1>
+    <AmericaNA1>Præsidenten i USA hedder Barack Obama. De andre var præsidenter før ham.</AmericaNA1>
+    <AmericaNQ1A1>George Bush</AmericaNQ1A1>
+    <AmericaNQ1A2>Bill Clinton</AmericaNQ1A2>
+    <AmericaNQ1A3>Barack Obama</AmericaNQ1A3>
+
+    <AmericaNQ2>Hvilket land ligger ikke i Nordamerika?</AmericaNQ2>
+    <AmericaNA2>Argentina ligger ikke i Nordamerika. Det ligger i Sydamerika.</AmericaNA2>
+    <AmericaNQ2A1>Argentina</AmericaNQ2A1>
+    <AmericaNQ2A2>Canada</AmericaNQ2A2>
+    <AmericaNQ2A3>Mexico</AmericaNQ2A3>
+
+    <AmericaNQ3>Hvilket land stammer musikken reggae fra?</AmericaNQ3>
+    <AmericaNA3>Reggae stammer fra landet Jamaica.</AmericaNA3>
+    <AmericaNQ3A1>Cuba</AmericaNQ3A1>
+    <AmericaNQ3A2>USA</AmericaNQ3A2>
+    <AmericaNQ3A3>Jamaica</AmericaNQ3A3>
+
+    <AmericaNQ4>Hvad hedder de penge, som mange af de store lande i Nordamerika har?</AmericaNQ4>
+    <AmericaNA4>De hedder Dollars. Dem har de blandt andet i USA og Canada.</AmericaNA4>
+    <AmericaNQ4A1>Euro</AmericaNQ4A1>
+    <AmericaNQ4A2>Dollar</AmericaNQ4A2>
+    <AmericaNQ4A3>Mark</AmericaNQ4A3>
+
+    <EuropeQ0>Hvis du står i byen Rom, hvilket land er du så i?</EuropeQ0>
+    <EuropeA0>Hvis du står i Rom, er du i Italien. Rom er nemlig hovedstaden i Italien.</EuropeA0>
+    <EuropeQ0A1>Belgien</EuropeQ0A1>
+    <EuropeQ0A2>Spanien</EuropeQ0A2>
+    <EuropeQ0A3>Italien</EuropeQ0A3>
+
+    <EuropeQ1>Hvilket dyr lever ikke i Europa?</EuropeQ1>
+    <EuropeA1>Elefanter lever ikke i Europa. De lever kun i Afrika og i Indien.</EuropeA1>
+    <EuropeQ1A1>Køer</EuropeQ1A1>
+    <EuropeQ1A2>Elefanter</EuropeQ1A2>
+    <EuropeQ1A3>Bjørne</EuropeQ1A3>
+
+    <EuropeQ2>Hvad kalder man de penge, som mange af landene i Europa har?</EuropeQ2>
+    <EuropeA2>Mange af landene i Europa har Euro. Det har de blandt andet i Tyskland, Spanien, Holland og Grækenland.</EuropeA2>
+    <EuropeQ2A1>Loggi</EuropeQ2A1>
+    <EuropeQ2A2>Mark</EuropeQ2A2>
+    <EuropeQ2A3>Euro</EuropeQ2A3>
+
+    <EuropeQ3>Hvilket land ligger ikke i Europa?</EuropeQ3>
+    <EuropeA3>Japan ligger ikke i Europa. Det ligger i Asien.</EuropeA3>
+    <EuropeQ3A1>Japan</EuropeQ3A1>
+    <EuropeQ3A2>Østrig</EuropeQ3A2>
+    <EuropeQ3A3>Finland</EuropeQ3A3>
+
+    <EuropeQ4>I hvilket land kan man se Eiffeltårnet?</EuropeQ4>
+    <EuropeA4>Eiffeltårnet ligger i Frankrig. Faktisk ligger det i Paris, som er hovedstanden i Frankrig.</EuropeA4>
+    <EuropeQ4A1>Frankrig</EuropeQ4A1>
+    <EuropeQ4A2>Tyskland</EuropeQ4A2>
+    <EuropeQ4A3>Danmark</EuropeQ4A3>
+
+    <Score>Din score</Score>
+    <BestScore>Din bedste score</BestScore>
+    <PlayAgain>Spil igen</PlayAgain>
+
+
+    <rules_t>For at åbne bommen skal du regne koden rigtigt ud!</rules_t>
+    <wronganswer_t>Forkert svar! Prøv igen.</wronganswer_t>
+
+    <newgame_t>Nyt spil</newgame_t>
+    <savedgame>Gemt spil</savedgame>
+
+    <family_title_t>Lav en familie</family_title_t>
+    <createfamily_t>Din familie skal minimum bestå af én voksen og ét barn. Når du har valgt en figur, skal du give den et navn.</createfamily_t>
+    <adults_t>Voksne</adults_t>
+    <women_t>Kvinder</women_t>
+    <men_t>Mænd</men_t>
+    <children_t>Børn</children_t>
+    <girls_t>Piger</girls_t>
+    <boys_t>Drenge</boys_t>
+    <typename_t>Skriv navn</typename_t>
+
+
+    <family_expenses_title_t>Familiens udgifter</family_expenses_title_t>
+    <familyexpenses_t>Her skal du vælge, hvor din familie skal bo, hvordan de skal komme rundt til familie og venner og hvilket kæledyr de skal have. Ovre til højre kan du se, hvor meget familien tjener, og hvad de forskellige ting koster.</familyexpenses_t>
+    <transportation_t>Transport</transportation_t>
+    <color_t>Farve</color_t>
+    <home_t>Bolig</home_t>
+    <house_t>Hus</house_t>
+    <terrased_t>Rækkehus</terrased_t>
+    <farm_t>Bondegård</farm_t>
+    <apartment_t>Lejlighed</apartment_t>
+    <castle_t>Slot</castle_t>
+    <location_t>Sted</location_t>
+    <city_t>Landet</city_t>
+    <country_t>By</country_t>
+    <pet_t>Kæledyr</pet_t>
+    <name_t>Navn</name_t>
+    <income_t>Løn</income_t>
+    <expenses_t>Udgifter</expenses_t>
+    <moneyleft_t>Tilbage</moneyleft_t>
+    <fee_t>Gebyr</fee_t>
+
+
+    <currentMonthTitle>Denne måneds hændelser</currentMonthTitle>
+    <currentMontTransfer>Overførsel</currentMontTransfer>
+    <сurrentMonthVet>Dyrlæge</сurrentMonthVet>
+    <currentMonthMech>Mekaniker</currentMonthMech>
+    <currentMonthTotal>I alt</currentMonthTotal>
+
+
+    <nextMonthEvents>Denne måneds hændelser</nextMonthEvents>
+    <nextMonthTitle>Næste måneds løn og udgifter</nextMonthTitle>
+    <nextMonthIncome>Løn</nextMonthIncome>
+    <nextMonthTransportation>Transportmiddel</nextMonthTransportation>
+    <nextMonthHome>Bolig</nextMonthHome>
+    <nextMonthPet>Kæledyr</nextMonthPet>
+    <nextMonthTotal>I alt</nextMonthTotal>
+
+
+    <pigtitle_t>Spar op til sommerferie og Nytår</pigtitle_t>
+
+
+    <vet_title_t>Dyrlæge</vet_title_t>
+    <pet_text_t>Du glemte at give kæledyret mad</pet_text_t>
+
+
+    <mech_title_t>Mekaniker</mech_title_t>
+    <mechanic_text_t>Du vedligholdte ikke transportmidlet</mechanic_text_t>
+
+    <housetitle_t>Skift bolig, kæledyr eller transportmiddel</housetitle_t>
+    <total_text>Samlet pris</total_text>
+    <hudsmile>Det her er dine point. Pointene får du for hjælpe familien med at betale for de ting, der sker i løbet af året og for at sørge for familiens kæledyr og transportmiddel.</hudsmile>
+    <hudpig>Det her er sparegrisen. Her kan du se, hvor mange penge familien har fået sparet op til sommerferie og til fest.</hudpig>
+    <hudbank>Det her er banken. Her kan du se, hvor mange penge familien har lige nu.</hudbank>
+    <savegametext>Tryk på den grønne knap, hvis du gerne vil gemme dit spil, så du kan spille videre på et andet tidspunkt. Hvis du ikke vil gemme dit spil, trykker du i stedet på den røde knap.</savegametext>
+
+    <are_you_sure>Er du sikker?</are_you_sure>
+    <car_text>Husk at når du vælger en dyr bil, så vil der være færre penge hver måned til uforudsete udgifter, ferier og fester.</car_text>
+    <home_text>Husk at når du vælger en dyr bolig, så vil der være færre penge hver måned til uforudsete udgifter, ferier og fester.</home_text>
+
+    <savegame>Vil du gemme spillet?</savegame>
+
+    <qrscan>Scan en kode</qrscan>
+    <photoscan>Tag et billede</photoscan>
+    
+    <yourmoney>Det her er dine penge. Hvor mange har du?</yourmoney>
+    <wishjar>Her kan du se de ting fra Karens butik, som du gerne vil spare op til.</wishjar>
+    <wishjar2>Her kan du se de ting, du sparer op til - dem du har penge nok til, kan du købe! Der kan kun være tre ting i ønskekrukken. Er der nogle ting, du har penge til at købe?</wishjar2>
+    <help>Er der noget jeg kan hjælpe dig med?</help>
+    <skipIntro>Skip Intro</skipIntro>
+    <backButton>Log ud</backButton>
+    <newCharacter>Ny figur</newCharacter>
+    <boy>Dreng</boy>
+    <girl>Pige</girl>
+    <name>Navn</name>
+    <wizardLabel>Der ligger en skat gemt!</wizardLabel>
+    <congratulations>Tillykke.</congratulations>
+    <wizardCorrect>Du har svaret rigtigt på alle spørgsmålene! Tryk på den grønne  knap for at høre hemmeligheden.</wizardCorrect>
+    <wizardIncorrect1>Du svarede forkert</wizardIncorrect1>
+    <wizardIncorrect2>Du svarede ikke rigtigt på  spørgsmålene. Måske du skulle besøge de forskellige steder i Pengeby igen?</wizardIncorrect2>
+    
+
+    <wizardQ1>Hvor kan du ikke rejse hen med Tidsmaskinen?</wizardQ1>
+    <wizardQ1A1>Grønland</wizardQ1A1>
+    <wizardQ1A2>Det gamle Rom</wizardQ1A2>
+    <wizardQ1A3>Egypten</wizardQ1A3>
+    
+    <wizardQ2>Hvor i Pengeby kan du skifte dit tøj?</wizardQ2>
+    <wizardQ2A1>I skabet på dit værelse</wizardQ2A1>
+    <wizardQ2A2>På Posthuset</wizardQ2A2>
+    <wizardQ2A3>I Tidsmaskinen</wizardQ2A3>
+    
+    <wizardQ3>Hvis noget er dyrt, betyder det</wizardQ3>
+    <wizardQ3A1>At det koster mange penge</wizardQ3A1>
+    <wizardQ3A2>At det ikke koster mange penge</wizardQ3A2>
+    <wizardQ3A3>Other answer</wizardQ3A3>
+    
+    <wizardQ4>Hvad koster flest penge?</wizardQ4>
+    <wizardQ4A1>Et fjernsyn</wizardQ4A1>
+    <wizardQ4A2>En mobiltelefon</wizardQ4A2>
+    <wizardQ4A3>10 bananer</wizardQ4A3>
+    
+    <wizardQ5>Hvad kan du få penge for at gøre?</wizardQ5>
+    <wizardQ5A1>At arbejde</wizardQ5A1>
+    <wizardQ5A2>At klø sig på maven</wizardQ5A2>
+    <wizardQ5A3>At gå i skole</wizardQ5A3>
+    
+    <wizardQ6>Hvordan kan du også få penge?</wizardQ6>
+    <wizardQ6A1>Ved at sælge noget</wizardQ6A1>
+    <wizardQ6A2>Ved at kigge under dynen</wizardQ6A2>
+    <wizardQ6A3>Ved at lede ude i haven</wizardQ6A3>
+    
+    <wizardQ7>Hvad gør du, hvis der er en ting, du gerne vil købe, men ikke har penge nok?</wizardQ7>
+    <wizardQ7A1>Jeg sparer op til det</wizardQ7A1>
+    <wizardQ7A2>Jeg slår en kolbøtte</wizardQ7A2>
+    <wizardQ7A3>Jeg køber det alligevel</wizardQ7A3>
+    
+    <wizardQ8>Hvad gør du, hvis du ønsker dig to ting, men kun har penge til én ting?</wizardQ8>
+    <wizardQ8A1>Jeg køber den, jeg ønsker mig mest</wizardQ8A1>
+    <wizardQ8A2>Jeg køber begge ting alligevel</wizardQ8A2>
+    <wizardQ8A3>Other answer</wizardQ8A3>
+    
+  </Ui>
+  <Intro>
+    <mayor>
+      <welcome>Her kan se hele Pengeby. Tryk én gang for at se hvad tingene kan. Tryk to gange for at gå i gang med spillene.</welcome>
+      <slide1>Velkommen til Pengeby! Det er mig der er Borgmester her, og jeg vil gerne fortælle dig lidt om byen.</slide1>
+      <slide2>Her i Pengeby kan du tjene guld og sølvmønter, som du kan bruge på mange forskellige ting.</slide2>
+      <slide3>Først skal du vælge hvordan du ser ud. Og du får også dit eget værelse, som du kan købe sjove ting til!</slide3>
+      <slide4>Alle tingene finder du nede hos Karen i hendes spændende butik.</slide4>
+      <slide5>Du kan også bruge dine mønter på at rejse tilbage i tiden med den skøre professors Tidsmaskine, hvor du kan spille en masse sjove spil.</slide5>
+      <slide6>Du tjener guld og sølvmønter ved at hjælpe til i Postkontoret med at bringe posten ud. Eller ved at samle æbler og sælge æblejuice til alle beboerne i Pengeby.</slide6>
+      <slide7>Du kan også hjælpe til på bondegården med at give dyrerne mad, og hvis du hjælper mig med at male byens port i nye farver, får du også en guldmønt.</slide7>
+      <slide8>Pengeby har også en troldmand som har en hemmelighed! Der ligger nemlig en stor skat med en masse guldmønter begravet i byen. Og hvis du er heldig, kan det være at han  vil fortælle dig hvor den ligger.</slide8>
+    </mayor>
+  </Intro>
+  <Shop>
+    <mayor>
+      <welcome>Nu er du på vej ind i Karens butik. Her kan du købe en masse tøj og ting til dit værelse for dine penge. Tryk én  gang for at se hvad tingene koster. Tryk 2 gange for at købe dem. Hvis du ikke har penge nok til dem, kan du altid komme dem i din ønskekrukke, så du kan spare op til dem. Tryk på den grønne knap for at komme ind i butikken.</welcome>
+    </mayor>
+    <penny>
+      <intro>Er der nogle ting, du godt kunne tænke dig i min butik?</intro>
+      <buy1>Den ser flot ud. Har du penge til den?</buy1>
+      <buy2>Den er fin! Hvor mange penge har du tilbage hvis du køber den?</buy2>
+      <buy3>Hvis du køber den, hvor mange penge har du så?</buy3>
+      <wishjar>Du kan kun have 3 ting i din ønskekrukke, så du må fjerne nogle før du kan komme nogle nye ting i. Tryk på din Ønskekrukke hvis du gerne vil fjerne nogle ting.</wishjar>
+      <notenough>Den har du desværre ikke penge nok til at købe! Men du kan komme den i ønskekrukken,  hvis du gerne vil spare op til den. Hvor mange penge mangler du?</notenough>
+      <bought1>Nu har du købt den!</bought1>
+      <bought2>Sådan, nu er den din!</bought2>
+      <done>Farvel, og tak for denne gang! Kom snart igen.</done>
+    </penny>
+  </Shop>
+  <AppleTest>
+    <mayor>
+      <welcome>Velkommen til din æblebod. Her kan du tjene penge ved at lave æblejuice til folkene i Pengeby. Du skal fange æblerne, der falder ned fra det store æbletræ, inden de rammer jorden. Du må ikke tabe mere end tre æbler på jorden. Du skal vippe med skærmen for at løbe frem og tilbage. Hver gang du har samlet 10 æbler, tjener du penge. Er du klar til at se, hvor mange æbler du kan samle? Så tryk på den grønne knap.</welcome>
+      <done1>Det var du god til! Nu går det lidt hurtigere.</done1>
+      <done2>Godt gået! Nu går det endnu hurtigere.</done2>
+      <done3>Det var flot! Nu bliver det lidt sværere.</done3>
+      <done4>Hvor er du skrap. Kan du også klare næste omgang?</done4>
+      <fail>Sikke en masse god juice du fik lavet. Men du tabte tre æbler på jorden. Du kan prøve igen, hvis du gerne vil tjene flere penge! Har du penge nok, kan du rejse en tur med Tidsmaskinen. Det kan også være, at der er kommet nogle flere sjove ting i Karens butik, du kunne tænke dig.</fail>
+    </mayor>
+  </AppleTest>
+  <Wizard_game>
+    <wizard>
+      <welcome>Jeg kan se på mit kort, at du har besøgt alle stederne. Så nu du klar til at høre min hemmelighed. Men før jeg fortæller  dig hemmeligheden, skal du svare på nogle spørgsmål. Du kan eventuelt få en voksen til at hjælpe dig med spørgsmålene. Tryk på den grønne knap når du er klar.</welcome>
+      <wrong>Du svarede ikke rigtig på alle spørgsmålene, så du må vente med at høre hemmeligheden. Måske det var en god ide at besøge nogle af stederne i Pengeby igen?</wrong>
+      <correct>Det var flot! Du svarede rigtigt på alle spørgsmålene! Tryk på den grønne knap for at høre min hemmelighed!</correct>
+      <secret>På mit skattekort kan du se, hvor skatten ligger gemt i Pengeby! Prøv at se, om du kan finde den - skatten er  nemlig din! Du får også mit helt specielle diplom, som hænger på dit værelse. Tryk på den grønne knap for at finde skatten!</secret>
+    </wizard>
+  </Wizard_game>
+  <PostOffice>
+    <mayor>
+      <welcome>Velkommen til postkontoret. Her skal du hjælpe Postmesteren med at sortere pakkerne, der skal leveres i Pengeby! De dyreste pakker skal først ud, og de billigste pakker skal ud til sidst. Træk de rigtige pakker op i de rigtige bakker; de billigste skal stå til venstre og de dyreste skal stå til højre. Når du er klar, så tryk på den grønne knap!</welcome>
+    </mayor>
+    <postman>
+      <correct1>Godt gået. Nu bliver det lidt sværere. Er du klar?</correct1>
+      <correct2>Godt gået. Nu bliver det lidt sværere.</correct2>
+      <correct3>Det er du god til! Nu bliver det lidt sværere.</correct3>
+      <done>Tusind tak for hjælpen - det var du god til! Som tak for hjælpen får du her nogle penge, som du kan bruge i Karens butik eller Tidsmaskinen. Du kan også hjælpe mig igen, hvis du har lyst?</done>
+    </postman>
+  </PostOffice>
+  <BowGame>
+    <mayor>
+      <welcome>Nu har du rejst tilbage til middelalderen, og her skal du bruge en armbrøst for at skyde pile efter en målskive. Du skal trække i armbrøsten for at bestemme i hvilken retning du vil skyde - jo længere du trækker jo længere skyder du. Prøv og se hvor mange point du kan få! Tryk på den grønne knap for at gå i gang!</welcome>
+      <done>Det er du god til. Prøv igen for at se om du kan gøre det bedre.</done>
+    </mayor>
+  </BowGame>
+  <EgyptGame>
+    <mayor>
+      <welcome>Nu er du tilbage i det gamle Egypten, hvor de er i gang med at bygge verdens største pyramide, som hedder Keops pyramiden. Du skal hjælpe med at gøre det store rum til faraoen, som er en slags konge, rigtig flot! Du kan male væggen og dekorere den med flotte ting. Tryk på den grønne knap, når du er klar!</welcome>
+    </mayor>
+  </EgyptGame>
+  <Rome_game>
+    <mayor>
+      <welcome>Velkommen tilbage til det gamle Rom. Her skal du hjælpe med at bygge flotte bygninger! Du kan vælge imellem tre forskellige bygninger - den første er den nemmeste, og den sidste er den sværeste.</welcome>
+      <start>Du skal trække brikkerne over på det rigtige sted på tegningen. Når du har sat alle brikkerne rigtig, er du færdig. Tryk på den grønne knap, når du er klar til at bygge.</start>
+      <done>Det var du god til. Synes du ikke den er blevet flot? Det synes jeg den er.</done>
+    </mayor>
+  </Rome_game>
+  <TimeMachine>
+    <mayor>
+      <welcome>Velkommen til Tidsmaskinen. Her kan du rejse tilbage i tiden og prøve en masse sjove og spændende ting - men kun hvis du har penge nok. Det koster nemlig en guldmønt, hver gang du rejser. Tryk på den grønne knap for at vælge, hvor du gerne vil rejse hen.</welcome>
+    </mayor>
+    <professor>
+      <knight>Her kan du rejse tilbage til riddertiden og prøve og kæmpe som en ridder.</knight>
+      <rome>Det her er rejsen til det gamle Rom. Her kan du hjælpe med at bygge flotte og store bygninger.</rome>
+      <egypt>Det her er rejsen til det gamle Egypten. Her er de i gang  med at bygge verdens største pyramide, og du kan hjælpe med at indrette den.</egypt>
+      <notenough>Det har du desværre ikke råd til, så du må ud og tjene nogle penge!</notenough>
+    </professor>
+  </TimeMachine>
+  <Test_Universe>
+    <mayor>
+      <intro>Her kan se hele Pengeby. Tryk én gang for at se hvad tingene kan. Tryk to gange for at gå i gang med spillene.</intro>
+      <applestall>Det her er din æblebod. Her kan du tjene penge ved at  samle æbler og lave æblejuice til hele Pengeby!</applestall>
+      <ownhouse>Det her er dit hus, det er her du bor.</ownhouse>
+      <help>Er der noget jeg kan hjælpe dig med?</help>
+      <wishjar>Her kan du se de ting fra Karens butik, som du gerne vil spare op til.</wishjar>
+      <yourmoney>Det her er dine penge. Hvor mange har du?</yourmoney>
+      <bridge>Det her er Familiespillet, hvor du skal hjælpe en familie. Men du skal kunne regne og læse for at spille det!</bridge>
+      <entergame>For at komme over broen skal du regne dig frem til det rigtige tal, der åbner bommen.</entergame>
+      <correct>Det var det rigtige svar.</correct>
+      <incorrect>Det var ikke rigtigt. Prøv igen.</incorrect>
+    </mayor>
+    <penny>
+      <shop>Kom over i min butik, jeg får hele tiden nye varer!</shop>
+    </penny>
+    <postman>
+      <postoffice>Jeg har brug for din hjælp her på Postkontoret! Vil du hjælpe mig og tjene nogle penge?</postoffice>
+    </postman>
+    <wizard>
+      <wizard1>Jeg er troldmand - og jeg har en hemmelighed! Men du skal have besøgt alle steder i Pengeby før jeg vil fortælle dig den.</wizard1>
+      <wizard2>Jeg er troldmand - og jeg har en hemmelighed! Er du klar til at høre den?</wizard2>
+    </wizard>
+    <professor>
+      <timemachine>Det her er min Tidsmaskine - kunne du tænke dig at prøve den?</timemachine>
+    </professor>
+    <farmer>
+      <farm>Jeg har brug for din hjælp til at fodre mine dyr. Har du lyst  til at hjælpe mig og tjene nogle penge?</farm>
+    </farmer>
+  </Test_Universe>
+  <OwnRoom>
+    <mayor>
+      <welcome>Velkommen til dit værelse. Hvis du har lyst til at skifte tøj, skal du bare trykke på skabet. Husk, at du kan købe mere tøj og flere ting til dit værelse i Karens Butik. Hvis du har været ude at rejse med Tidsmaskinen, kan du ovre på  hylden se de ting, du har fået. Og hvis Troldmanden har fortalt dig sin hemmelighed, hænger dit diplom på tavlen. Tryk på kortet for at gå på opdagelse i Pengeby!</welcome>
+    </mayor>
+  </OwnRoom>
+  <FarmGame>
+    <mayor>
+      <welcome>Velkommen til Bondegården. Her skal du hjælpe med at samle dyrene så de kan få noget at spise. Først skal du finde dyrene. Træk det rigtig antal dyr ind på midten af den store cirkel. Tryk på den grønne knap for at komme i gang.</welcome>
+    </mayor>
+    <farmer>
+      <level1cow>Du skal hjælpe mig med at finde 12 køer. Træk dem ind i den store cirkel!</level1cow>
+      <level2cow>Nu er køerne samlet og nu skal de have mad. Hver sæk giver mad til 1 ko. Hvor mange sække skal du bruge? Tryk på den grønne knap når du har trukket det rigtige antal sække ind i cirklen.</level2cow>
+      <level1horse>Det var du god til! Nu skal du finde 12 heste.</level1horse>
+      <level2horse>Nu skal hestene have mad. Hver sæk giver mad til 2 heste. Hvor mange sække skal du bruge? Tryk på den grønne knap når du har trukket det rigtige antal sække ind i cirklen.</level2horse>
+      <level1sheep>Så er det fårernes tur til at få mad. Kan du finde 12 får?</level1sheep>
+      <level2sheep>Nu giver hver sæk mad til 3 får. Hvor mange sække skal du bruge? Tryk på den grønne knap når du har trukket det rigtige antal sække ind i cirklen.</level2sheep>
+      <level1ducks>Du klarer det rigtig godt! Så er vi ved at være færdige. Som det sidste skal du finde 12 ænder. Kan du det?</level1ducks>
+      <level2ducks>Så er det spisetid for ænderne. Hver sæk giver mad til 4 ænder, så hvor mange sække skal du nu bruge? Tryk på den grønne knap når du har trukket det rigtige antal sække ind i cirklen.</level2ducks>
+      <done>Det var du god til. Har du lyst til at hjælpe mig en gang til?</done>
+      <motivation1>Det er du god til!</motivation1>
+      <motivation2>Det går godt - du har snart samlet alle dyrene.</motivation2>
+      <motivation3>Jaja, nu er vi ved at være der.</motivation3>
+      <toomany>Nu er der vist lidt for mange dyr i cirklen. Hvor mange skal du trække ud?</toomany>
+      <notright1>Der er vist lidt for mange sække i cirklen. Hvor mange skal du trække ud?</notright1>
+      <notright2>Der mangler nogle sække i cirklen. Hvor mange mangler der?</notright2>
+      <notright3>Er du sikker på, at det er det rigtige antal?</notright3>
+    </farmer>
+  </FarmGame>
+  <Test_Gate>
+    <mayor>
+      <welcome>Nu skal du hjælpe mig med at male porten til Pengeby. Den er blevet så beskidt, at den skal have nye farver. Du skal trykke på bøtterne med maling for at vælge den farve, du gerne vil male med. Og når du har valgt en farve, kan du trykke forskellige steder på byporten for at male den. Når du er klar, så tryk på den grønne knap!</welcome>
+      <finished>Når du synes den er færdig, tryk på den grønne knap.</finished>
+      <done>Wauw. Den er blevet rigtig flot. Som tak for hjælpen får du 10 sølvmønter og det er det samme som én guldmønt.</done>
+    </mayor>
+  </Test_Gate>
+  <ChosePlayer>
+    <mayor>
+      <welcome>Hvis du er ny i Pengeby, så tryk på den grå figur. Hvis du har spillet før, så vælg den figur du gerne vil spille videre med.</welcome>
+    </mayor>
+  </ChosePlayer>
+  <CreateGender>
+    <mayor>
+      <welcome>Er du en dreng, skal du trykke på drengen. Er du en pige, skal du trykke på pigen.</welcome>
+    </mayor>
+  </CreateGender>
+  <CreatePlayer>
+    <mayor>
+      <welcome>Nu skal du vælge hvordan du gerne vil se ud. Tryk på den grønne knap når du er færdig.</welcome>
+    </mayor>
+  </CreatePlayer>
+  <ChooseHouse>
+    <mayor>
+      <welcome>I Pengeby får du dit helt eget hus! Hvilket hus vil du bo i?</welcome>
+    </mayor>
+  </ChooseHouse>
+  <FamilyIntro>
+    <mayor>
+      <intro>Velkommen til Familiespillet! Her skal du hjælpe en familie med at betale for de ting, som skal købes i løbet af året. Du skal også sørge for, at give familiens kæledyr mad og du skal vaske og passe på familiens transportmiddel, så de altid kan komme rundt og besøge familie og venner. Du får point for begge dele, hvis du klarer det godt! Men husk, at det er også vigtigt at spare penge op, så familien har råd til at komme på en god sommerferie og til at holde en stor fest, når året er slut. Tryk på den grønne knap for at gå i gang.</intro>
+      <introload>Velkommen til Familiespillet! Her skal du hjælpe en familie med at betale for de ting, som skal købes i løbet af året. Du skal også sørge for, at give familiens kæledyr mad og du skal vaske og passe på familiens transportmiddel, så de altid kan komme rundt og besøge familie og venner. Du får point for begge dele, hvis du klarer det godt! Men husk, at det er også vigtigt at spare penge op, så familien har råd til at komme på en god sommerferie og til at holde en stor fest, når året er slut. Hvis du har gemt et spil, kan du hente det nu. Ellers kan du også starte et helt nyt spil!</introload>
+    </mayor>
+  </FamilyIntro>
+
+  <Main>
+    <mayor>
+      <start>Her skal du vælge, hvem der skal være med i familien. Husk at give dem navne! Du bestemmer selv, om der skal være 1 eller 2 voksne. Og også hvor mange børn, der skal være. Du kan dog højst vælge 4 børn i én familie. Når du har valgt en familie, så tryk på den grønne knap!</start>
+      <adults>Nu skal du vælge voksne til din familie. Træk én eller to voksne ind i cirklen. Du skal også give dem et navn, du selv finder på. Tryk på den grønne knap, når du er færdig.</adults>
+      <children>Nu skal du vælge børnene til din familie. Træk ét barn eller allerhøjest fire børn ind i cirklen. De skal også have et navn, som du bestemmer. Tryk på den grønne knap, når du har samlet din familie.</children>
+      <selection>Nu skal du vælge, hvordan familien skal bo, hvordan de skal komme rundt til familie og venner, og hvilket kæledyr de  skal have. Tryk på den grønne knap for at komme i gang.</selection>
+      <transportpopup>Husk, at jo flere penge, du bruger på familiens transportmiddel, jo færre penge er der til udgifter, du ikke havde regnet med, til ferier og til fester… Tryk på den røde knap, hvis du vælge om. Tryk på den grønne knap, når du vil videre.</transportpopup>
+      <transport>Du skal starte med at vælge familiens transportmiddel.  Husk, at tingene ikke koster det samme. Til venstre kan du se, hvor mange penge familien får hver måned, og hvor mange de har tilbage, når du har valgt transportmiddel. Træk for at vælge…</transport>
+      <transportdone>Når du er færdig så tryk på den grønne knap for at gå  videre.</transportdone>
+      <homepopup>Husk, at jo flere penge, du bruger på husleje, jo færre penge er der til udgifter, du ikke havde regnet med, til ferier og til fester… Tryk på den røde knap, hvis du vælge om. Tryk på den grønne knap, når du vil videre.</homepopup>
+      <home>Nu skal du vælge hvordan familien skal bo. Huslejen er ikke den samme – Tænk over hvor mange penge har familien tilbage når du har valgt. Træk en bolig over i cirklen for at vælge.</home>
+      <homedone>Når du er færdig, så tryk på den grønne knap for at gå videre.</homedone>
+      <pet>Nu er du næsten færdig. Det sidste du skal vælge er familiens kæledyr! Hvilket dyr vil du helst have? Træk dyret over – og giv det et navn.</pet>
+      <petdone>Når du er færdig, så tryk på den grønne knap for at starte spillet.</petdone>
+    </mayor>
+  </Main>
+
+  <FamilyScene>
+    <mayor>
+      <endofmonth1>Når du vil gå til næste måned, så tryk på den grønne knap.</endofmonth1>
+      <endofmonth2>Er du klar til næste måned? Så klik på den grønne knap.</endofmonth2>
+      <monthevent1>I denne måned sker der noget. Du skal vælge mellem 1 – 2 og 3.</monthevent1>
+      <monthevent2>Nu skal du bestemme, hvor mange penge, du vil bruge.  Vælg mellem 1 – 2 og 3.</monthevent2>
+      <monthevent3>Nu skal du bruge penge igen. Men det er op til dig, hvor mange du vil bruge.</monthevent3>
+      <monthevent4>Er du klar til at bruge penge? Det er op til dig, hvor mange, du vil bruge.</monthevent4>
+      <monthevent5>Nu er det en ny måned – og der er nye udgifter.  Vælg mellem 1 – 2 og 3.</monthevent5>
+      <enought1>Du har penge nok, så du får et point.</enought1>
+      <enought2>Du får et point, fordi du har penge nok.</enought2>
+      <notenought>Du har ikke penge nok, så du får trukket et point.</notenought>
+      <spending>Her kan du se, hvad familiens penge er brugt til i denne måned.</spending>
+      <change>Her kan du flytte til et andet hus og skifte familiens transportmiddel og kæledyr. Men det koster penge at gøre det! Tryk hvis du vil skifte noget.</change>
+      <income>Her kan du se hvordan økonomien ser ud for næste måned. Er du tilfreds?</income>
+      <havemoney>Hvis der er penge i overskud, er det en god idé at spare nogle af dem op nu.</havemoney>
+      <nomoney>Der er ikke nogle penge til overs. Derfor kan du ikke spare op lige nu.</nomoney>
+    </mayor>
+  </FamilyScene>
+
+  <HollidaySummer>
+    <mayor>
+      <summerstart>Nu skal familien rejse på sommerferie! Hvor synes du, at rejsen skal gå hen? Tryk på den grønne knap på det sted, hvor du vil hen. Husk at du skal have sparet nok penge op til rejsen.</summerstart>
+      <summerfinish>Så er sommerferien slut. Hvordan klarede du dig? Tryk på den grønne knap for at fortsætte spillet.</summerfinish>
+      <summerquestions>Nu kommer der fem spørgsmål – for hvert rigtigt svar, får  du en guldmønt.</summerquestions>
+    </mayor>
+  </HollidaySummer>
+
+  <HollidayWinter>
+    <mayor>
+      <decorate>Så er året gået - og dét skal fejres med en stor fest! Nu kan du bruge de sidste af de penge, du har sparet op. Træk de ting, du gerne vil købe til festen over på bordet!</decorate>
+      <endofthegame>Så er spillet slut! Her kan du se, hvor mange point du fik! Hvordan synes du, at du klarede det? Du kan prøve igen, hvis du gerne vil se, om du kan gøre det endnu bedre.</endofthegame>
+    </mayor>
+  </HollidayWinter>
+
+
+  <Event Month="1" DefendantType="child">
+    <Question Text="#name# var ude for at stå på skøjter på isen og faldt og slog hovedet. Hvad vil du gøre?" Title="Faldt på skøjter" Icon="Fall while ice skating">
+      <Answer Text="Ringe efter en ambulance." ResultText="Ambulancen kom med det samme og kørte #name# på sygehuset. Der var heldigvis ikke sket noget alvorligt." Money="0" />
+      <Answer Text="Give #name# nogle hovedpinepiller." ResultText="Der var ikke flere hovedpinepiller tilbage. Det kostede 7 sølvmønter at købe nogle nye." Money="-7" />
+      <Answer Text="Ringe efter en læge." ResultText="Lægen sagde, at der ikke var sket noget, men at familien skulle købe nogle bestemte hovedpinepiller til 5 sølvmønter til #name#." Money="-5" />
+    </Question>
+  </Event>
+
+  <Event Month="1" DefendantType="adult">
+    <Question Text="#name# glider på gulvet i badeværelset og falder og slår sine briller itu. Hvad vil du gøre?" Title="Knuste briller" Icon="Broken glasses">
+      <Answer Text="#name# må klare sig uden briller i fremtiden." ResultText="#name# kom til at slå ting i styk+ker for 1 guldmønt, fordi det var svært at se ordentligt." Money="-10" />
+      <Answer Text="Få brilleglassene skiftet ud med nogle nye. Hvert glas koster 7 sølvmønter." ResultText="Det viste sig, at det også kostede 3 sølvmønter i løn til brillemanden." Money="-17" />
+      <Answer Text="Købe helt nye briller til 1 guldmønt for brillestellet og 5 sølvmønter for hvert af glassene." ResultText="#name# så meget bedre med de nye briller" Money="-20" />
+    </Question>
+  </Event>
+
+  <Event Month="1" DefendantType="adult">
+    <Question Text="#name# var på toilettet. Mobilen gled ud af lommen og faldt i toilettet, så den gik i stykker. Hvad vil du gøre?" Title="Tabt mobil" Icon="Lost mobile phone">
+      <Answer Text="Fiske mobilen op igen med det samme og tørre den godt med et håndklæde." ResultText="Mobilen kunne ikke tåle vand, og det hjalp ikke at tørre den. Mobilen var derfor ødelagt, og #name# måtte købe en ny til 2 guldmønter." Money="-20" />
+      <Answer Text="Bede #name# om at spare sammen til en ny." ResultText="Mens #name# sparede sammen, blev computeren brugt flittigt. Og fordi computeren hele tiden var optaget, måtte de andre tale mere i telefon. Det kostede 8 sølvmønter på telefonregningen." Money="-8" />
+      <Answer Text="Købe en ny mobil til #name# til 2 guldmønter." ResultText="#name# fik en ny telefon, som #name# blev rigtig glad for." Money="-20" />
+    </Question>
+  </Event>
+
+  <Event Month="1" DefendantType="adult">
+    <Question Text="Vandet i et vandrør er frosset til is, fordi det har været uhyggelig koldt udenfor. Hvad vil du gøre?" Title="Frosne vandrør" Icon="Frozen pipes">
+      <Answer Text="Ringe til en håndværker med det  samme." ResultText="Håndværkeren fik varmet vandrøret op igen. Det kostede dog 8 sølvmønter." Money="-8" />
+      <Answer Text="Lave et bål under vandrøret, så isen inde i vandrøret kan smelte." ResultText="Der gik desværre ild i et gardin til 1 guldmønt og 5 sølvmønter." Money="-15" />
+      <Answer Text="Vikle nogle klude om vandrøret for at få det til at tø op." ResultText="Det hjalp ikke. Vandrøret gik i stykker, og der kom vand over det hele. Det kostede 1 guldmønt at få det repareret." Money="-10" />
+    </Question>
+  </Event>
+
+  <Event Month="2" DefendantType="child">
+    <Question Text="Sneen på taget smelter, og der løber vand ind i huset, så tapetet på væggen falder af. Hvad vil du gøre?" Title="Tapetet ødelagt" Icon="Wallpaper destroyed">
+      <Answer Text="Lime tapetet op igen med en lim til 2 sølvmønter." ResultText="Det holdt heldigvis rigtig godt og længe." Money="-2" />
+      <Answer Text="Tage det ødelagte tapet ned og håbe på, at man stadigvæk kan købe mere af det samme tapet igen." ResultText="Man kunne ikke få tapet i samme mønster, som det der var i stuen. Hele stuen skulle derfor have nyt tapet. Det krævede 8 ruller tapet til 3 sølvmønter pr. rulle." Money="-24" />
+      <Answer Text="Hænge et tæppe hen over stedet, hvor tapetet er faldet af." ResultText="Tæppet blev ødelagt af fugt. Det kostede 8 sølvmønter. Familien måtte leje en tørremaskine i en hel uge til 1 guldmønt og 3 sølvmønter. De købte derefter en rulle tapet til 3 sølvmønter og satte det selv op." Money="-24" />
+    </Question>
+  </Event>
+
+  <Event Month="2" DefendantType="adult">
+    <Question Text="Familiens toilet er gået i stykker, så det ikke  kan bruges. Hvad vil du gøre?" Title="Toilet itu" Icon="Broken toilet">
+      <Answer Text="Grave et hul i jorden." ResultText="Ingen i familien ville grave, så de måtte købe et nyt toilet til 2 guldmønter." Money="-20" />
+      <Answer Text="Lime toilettet sammen med lim til 6 sølvmønter." ResultText="Det viste sig desværre, at limen ikke var stærk nok. Pengene var derfor spildt, og familien måtte købe et nyt toilet til 2 guldmønter." Money="-26" />
+      <Answer Text="Købe et smart nyt toilet til 2 guldmønter." ResultText="Det nye toilet var bedre end det gamle. Det brugte nemlig mindre vand. Derfor sparede familien 4 sølvmønter på vandregningen." Money="-16" />
+    </Question>
+  </Event>
+
+  <Event Month="2" DefendantType="child">
+    <Question Text="Familiens toilet er gået i stykker, så det ikke  kan bruges. Hvad vil du gøre?" Title="Toilet itu" Icon="Broken toilet">
+      <Answer Text="Grave et hul i jorden." ResultText="Ingen i familien ville grave, så de måtte købe et nyt toilet til 2 guldmønter." Money="-20" />
+      <Answer Text="Lime toilettet sammen med lim til 6 sølvmønter." ResultText="Det viste sig desværre, at limen ikke var stærk nok. Pengene var derfor spildt, og familien måtte købe et nyt toilet til 2 guldmønter." Money="-26" />
+      <Answer Text="Købe et smart nyt toilet til 2 guldmønter." ResultText="Det nye toilet var bedre end det gamle. Det brugte nemlig mindre vand. Derfor sparede familien 4 sølvmønter på vandregningen." Money="-16" />
+    </Question>
+  </Event>
+
+  <Event Month="2" DefendantType="adult">
+    <Question Text="Radiatorerne virker pludselig ikke mere. Hvad vil du gøre?" Title="Uden varme" Icon="No heat">
+      <Answer Text="Hele familien må tage varmt tøj på. Der kan ikke gøres noget lige nu." ResultText="Det blev en lang vinter, hvor alle gik med meget tøj på. Familien sparede dog 3 guldmønter på varmeregningen." Money="-30" />
+      <Answer Text="Prøve selv at reparere skaden." ResultText="Det kunne godt lade sig gøre, men det krævede dog, at familien skulle købe en reservedel til 6 sølvmønter." Money="-6" />
+      <Answer Text="Ringe til en håndværker." ResultText="Håndværkeren kom og ordnede familiens radiatorer. Håndværkeren gav dog familien en regning på 1 guldmønt og 7 sølvmønter. " Money="-17" />
+    </Question>
+  </Event>
+
+  <Event Month="2" DefendantType="child">
+    <Question Text="Radiatorerne virker pludselig ikke mere. Hvad vil du gøre?" Title="Uden varme" Icon="No heat">
+      <Answer Text="Hele familien må tage varmt tøj på. Der kan ikke gøres noget lige nu." ResultText="Det blev en lang vinter, hvor alle gik med meget tøj på. Familien sparede dog 3 guldmønter på varmeregningen." Money="-30" />
+      <Answer Text="Prøve selv at reparere skaden." ResultText="Det kunne godt lade sig gøre, men det krævede dog, at familien skulle købe en reservedel til 6 sølvmønter." Money="-6" />
+      <Answer Text="Ringe til en håndværker." ResultText="Håndværkeren kom og ordnede familiens radiatorer. Håndværkeren gav dog familien en regning på 1 guldmønt og 7 sølvmønter. " Money="-17" />
+    </Question>
+  </Event>
+
+  <Event Month="3" DefendantType="adult">
+    <Question Text="Familien vil gerne have kabel-tv, så de kan se mange forskellige tv-kanaler. Hvad vil du gøre?" Title="Kabel tv" Icon="Cable TV">
+      <Answer Text="Købe den mindste kabel-tv pakke, der ikke kan vise så mange kanaler. Til gengæld koster den kun 5 sølvmønter." ResultText="Familien blev glade for de nye tv-kanaler." Money="-5" />
+      <Answer Text="Købe den allerstørste kabel-tv pakke, der kan vise flest kanaler. Den koster 2 guldmønter." ResultText="Familien blev glade for flere af kanalerne, men der var også rigtig mange af kanalerne, som de aldrig så." Money="-20" />
+      <Answer Text="Købe en mellem kabel-tv pakke med tv-kanaler for alle i familien til 1 guldmønt og 3 sølvmønter." ResultText="Familien blev glade for de nye kanaler." Money="-13" />
+    </Question>
+  </Event>
+
+  <Event Month="3" DefendantType="adult">
+    <Question Text="#name# har glemt sine nøgler. Hvad vil du gøre?" Title="Glemte nøgler" Icon="Lost keys">
+      <Answer Text="Slå et vindue i stykker, så #name# kan kravle ind." ResultText="#name# fandt det mindste vindue og kom ind, men det kostede 2 guldmønter og 4 sølvmønter at få en ny rude." Money="-24" />
+      <Answer Text="Ringe efter låsesmeden, så han kunne komme og låse døren op." ResultText="Det tog lang tid for låsesmeden at få låsen op. Låsesmeden skulle betales 1 guldmønt og 2 sølvmønter i løn og 3 sølvmønter i transport." Money="-15" />
+      <Answer Text="Vente til der kommer nogen hjem." ResultText="Der kom nogen hjem kort til efter, så #name# kom hurtigt ind." Money="0" />
+    </Question>
+  </Event>
+
+  <Event Month="3" DefendantType="child">
+    <Question Text="#name# har glemt sine nøgler. Hvad vil du gøre?" Title="Glemte nøgler" Icon="Lost keys">
+      <Answer Text="Slå et vindue i stykker, så #name# kan kravle ind." ResultText="#name# fandt det mindste vindue og kom ind, men det kostede 2 guldmønter og 4 sølvmønter at få en ny rude." Money="-24" />
+      <Answer Text="Ringe efter låsesmeden, så han kunne komme og låse døren op." ResultText="Det tog lang tid for låsesmeden at få låsen op. Låsesmeden skulle betales 1 guldmønt og 2 sølvmønter i løn og 3 sølvmønter i transport." Money="-15" />
+      <Answer Text="Vente til der kommer nogen hjem." ResultText="Der kom nogen hjem kort til efter, så #name# kom hurtigt ind." Money="0" />
+    </Question>
+  </Event>
+
+  <Event Month="3" DefendantType="adult">
+    <Question Text="Familiens hævekort er blevet væk, fordi jakken, hvor det lå i, er forsvundet. Hvad vil du gøre?" Title="Mistet bankkort" Icon="Lost bank card">
+      <Answer Text="Lade som ingenting. Det dukker vel nok op." ResultText="Familien opdagede, at hævekortet ikke bare var forsvundet. Det var blevet stjålet. Tyven havde brugt kortet, og det kom til at koste familien 1 guldmønt og 5 sølvmønter." Money="-15" />
+      <Answer Text="Bede alle i familien om at lede i hele huset, indtil hævekortet er fundet." ResultText="#name# fandt jakken med hævekortet i." Money="0" />
+      <Answer Text="Ringe til banken, og bede dem lukke hævekortet, så ingen kan bruge det, hvis det nu er blevet stjålet." ResultText="Hævekortet var blevet stjålet. Men fordi der hurtigt blev ringet til banken, havde tyven ikke nået at bruge det." Money="0" />
+    </Question>
+  </Event>
+
+  <Event Month="3" DefendantType="adult">
+    <Question Text="Familiens skrivebord væltede, så printeren faldt ned på gulvet og blev ødelagt. Hvad vil du gøre?" Title="Printer" Icon="Dropped printer">
+      <Answer Text="Holde op med at printe derhjemme." ResultText="Fordi familien ikke selv kunne printe mere, måtte de gå på biblioteket, hver gang de skulle printe. Det kostede 1 sølvmønt pr. side. Hver måned printede familien 9 sider." Money="-9" />
+      <Answer Text="Få printeren sendt til reparation i en computerforretning. Det koster 4 sølvmønter for en reservedel og 2 sølvmønter til forretningen." ResultText="Desværre tog forretningen også 2 sølvmønter for at sende printeren hjem til familien, efter de havde repareret den." Money="-8" />
+      <Answer Text="Købe en brugt printer af naboen. Naboen skulle have 2 guldmønter for printeren, men endte alligevel med at give familien 4 sølvmønter i rabat." ResultText="Den brugte printer fra naboen kunne mange flere ting end familiens gamle printer." Money="-16" />
+    </Question>
+  </Event>
+
+  <Event Month="3" DefendantType="child">
+    <Question Text="Familiens skrivebord væltede, så printeren faldt ned på gulvet og blev ødelagt. Hvad vil du gøre?" Title="Printer" Icon="Dropped printer">
+      <Answer Text="Holde op med at printe derhjemme." ResultText="Fordi familien ikke selv kunne printe mere, måtte de gå på biblioteket, hver gang de skulle printe. Det kostede 1 sølvmønt pr. side. Hver måned printede familien 9 sider." Money="-9" />
+      <Answer Text="Få printeren sendt til reparation i en computerforretning. Det koster 4 sølvmønter for en reservedel og 2 sølvmønter til forretningen." ResultText="Desværre tog forretningen også 2 sølvmønter for at sende printeren hjem til familien, efter de havde repareret den." Money="-8" />
+      <Answer Text="Købe en brugt printer af naboen. Naboen skulle have 2 guldmønter for printeren, men endte alligevel med at give familien 4 sølvmønter i rabat." ResultText="Den brugte printer fra naboen kunne mange flere ting end familiens gamle printer." Money="-16" />
+    </Question>
+  </Event>
+
+  <Event Month="4" DefendantType="adult">
+    <Question Text="Havemøblerne skal stilles frem. Familien opdager, at nogle af brædderne er rådnet. Hvad vil du gøre?" Title="Havemøbler frem" Icon="Taking out the garden furniture">
+      <Answer Text="Smide alle havemøblerne ud og købe nogle nye, der er lige så gode." ResultText="De nye havemøbler kostede 2 guldmønter og 2 sølvmønter." Money="-22" />
+      <Answer Text="Købe nogle billigere havemøbler, der dog ikke er så stabile." ResultText="De nye, billige havemøbler kostede 1 guldmønt og 1 sølvmønt." Money="-11" />
+      <Answer Text="Købe nye brædder og selv reparere havemøblerne." ResultText="De nye brædder kostede 6 sølvmønter, og søm og skruer kostede 3 sølvmønter." Money="-9" />
+    </Question>
+  </Event>
+
+  <Event Month="4" DefendantType="child">
+    <Question Text="#name# væltede på sin cykel og slog sit knæ. Der kom et stort hul i bukserne. Hvad vil du gøre?" Title="Væltet på cykel" Icon="Bicycle crash">
+      <Answer Text="Få bukserne lappet og plaster på knæet." ResultText="Familien fandt en gratis lap og et plaster til 1 sølvmønt." Money="-1" />
+      <Answer Text="Købe et par nye bukser magen til dem, der gik i stykker. De kostede 1 guldmønt og 6 sølvmønter." ResultText="Bukserne var desværre steget i pris. Derfor kostede de nu 2 guldmønter og 2 sølvmønter." Money="-22" />
+      <Answer Text="Smide bukserne væk og finde et andet par." ResultText="Familien var heldig at finde et par nye bukser på udsalg til 1 guldmønt og 3 sølvmønter." Money="-13" />
+    </Question>
+  </Event>
+
+  <Event Month="4" DefendantType="adult">
+    <Question Text="#name# havde købt store påskeæg til hele familien. Desværre røg alle påskeæggene på jorden og gik i stykker, fordi #name# blev forskrækket, da en cyklist susede forbi i høj  fart. Hvad vil du gøre?" Title="Påskeæg" Icon="Easter egg">
+      <Answer Text="Købe nye påskeæg, men kun til børnene. Æggene koster 4 sølvmønter." ResultText="Børnene blev glade og nød deres store påskeæg." Money="-4" />
+      <Answer Text="Servere de knuste påskeæg og give børnene 2 sølvmønter ekstra i lommepenge som trøst." ResultText="Børnene overtalte #name# til at give dem 4 sølvmønter i stedet." Money="-4" />
+      <Answer Text="Smide de knuste påskeæg ud og købe nogle nye til hele familien til i alt 6 sølvmønter." ResultText="Hele familien blev glade for de nye, lækre  påskeæg." Money="-6" />
+    </Question>
+  </Event>
+
+  <Event Month="5" DefendantType="child">
+    <Question Text="#name# havde lånt en vens cykel. Cyklen blev dog ødelagt af en bil, der kørte over den. Hvad vil du gøre?" Title="Lånt cykel ødelagt" Icon="Destroyed borrowed bicycle">
+      <Answer Text="Sende cyklen til reparation. Det kostede 1 guldmønt og 7 sølvmønter at få den til at køre igen." ResultText="Cyklen blev så god som ny." Money="-17" />
+      <Answer Text="Få bilisten til at betale for, at cyklen bliver repareret." ResultText="Desværre havde alle glemt at skrive nummerpladen på bilen ned. Derfor kunne de ikke finde bilisten, og de måtte selv betale for reparationen." Money="-17" />
+      <Answer Text="Købe en ny cykel til vennen." ResultText="Familien havde heldigvis en forsikring, der betalte for den nye cykel." Money="0" />
+    </Question>
+  </Event>
+
+  <Event Month="5" DefendantType="child">
+    <Question Text="#name# vil gerne gå til ridning, men har ikke noget rideudstyr. Hvad vil du gøre?" Title="Ridning" Icon="Horseback riding">
+      <Answer Text="Bede #name# om at spare sammen til rideudstyret." ResultText="#name# sparede 2 guldmønter op." Money="20" />
+      <Answer Text="Overtale #name# til at vælge en anden sport, der ikke er så dyr." ResultText="#name# valgte i stedet at gå til badminton. Det kom dog til at koste 8 sølvmønter for badmintonsko og 1 guldmønt og 2 sølvmønter for at spille i en badmintonklub." Money="-20" />
+      <Answer Text="Købe alt det nødvendige udstyr til ridning med det samme." ResultText="Ridehjelmen, ridestøvlerne og handskerne kostede i alt 2 guldmønter." Money="-20" />
+    </Question>
+  </Event>
+
+  <Event Month="5" DefendantType="adult">
+    <Question Text="Familiens kæledyr har fået lopper. Hvad vil du gøre?" Title="Lopper" Icon="Fleas">
+      <Answer Text="Forsøge at fange lopperne." ResultText="Det var helt umuligt. I forsøget faldt #name# over en stor potteplante, så den gik i stykker. Den kostede 1 guldmønt og 5 sølvmønter." Money="-15" />
+      <Answer Text="Gå til dyrlægen for at få hjælp, selvom det koster 2 guldmønter og 3  sølvmønter." ResultText="Dyrlægen fik fjernet alle lopperne." Money="-23" />
+      <Answer Text="Købe et loppemiddel til 1 guldmønt og 4 sølvmønter." ResultText="Loppemidlet viste sig at være på tilbud. Så familien sparede 6 sølvmønter." Money="-8" />
+    </Question>
+  </Event>
+
+  <Event Month="5" DefendantType="child">
+    <Question Text="Familiens kæledyr har fået lopper. Hvad vil du gøre?" Title="Lopper" Icon="Fleas">
+      <Answer Text="Forsøge at fange lopperne." ResultText="Det var helt umuligt. I forsøget faldt #name# over en stor potteplante, så den gik i stykker. Den kostede 1 guldmønt og 5 sølvmønter." Money="-15" />
+      <Answer Text="Gå til dyrlægen for at få hjælp, selvom det koster 2 guldmønter og 3  sølvmønter." ResultText="Dyrlægen fik fjernet alle lopperne." Money="-23" />
+      <Answer Text="Købe et loppemiddel til 1 guldmønt og 4 sølvmønter." ResultText="Loppemidlet viste sig at være på tilbud. Så familien sparede 6 sølvmønter." Money="-8" />
+    </Question>
+  </Event>
+
+
+  <Event Month="6" DefendantType="adult">
+    <Question Text="En stor fugl kom ud af kurs og ødelagde 2 vinduesruder. Hvad vil du gøre?" Title="Fugl" Icon="Witch">
+      <Answer Text="Sætte 2 træplader op i stedet for. Hver træplade koster 5 sølvmønter." ResultText="Træpladerne var ikke så gode til at holde på varmen. Det kostede familien 2 guldmønter ekstra på varmeregningen." Money="-20" />
+      <Answer Text="Købe to nye ruder til 1 guldmønt pr. stk." ResultText="De nye ruder var så meget bedre end de gamle, at de sparede 6 sølvmønter på varmeregningen." Money="-14" />
+      <Answer Text="Fjerne ruderne helt, så fuglene kan flyve igennem." ResultText="Det kostede 3 guldmønter ekstra i varme." Money="-30" />
+    </Question>
+  </Event>
+
+  <Event Month="6" DefendantType="child">
+    <Question Text="En stor fugl kom ud af kurs og ødelagde 2 vinduesruder. Hvad vil du gøre?" Title="Fugl" Icon="Witch">
+      <Answer Text="Sætte 2 træplader op i stedet for. Hver træplade koster 5 sølvmønter." ResultText="Træpladerne var ikke så gode til at holde på varmen. Det kostede familien 2 guldmønter ekstra på varmeregningen." Money="-20" />
+      <Answer Text="Købe to nye ruder til 1 guldmønt pr. stk." ResultText="De nye ruder var så meget bedre end de gamle, at de sparede 6 sølvmønter på varmeregningen." Money="-14" />
+      <Answer Text="Fjerne ruderne helt, så fuglene kan flyve igennem." ResultText="Det kostede 3 guldmønter ekstra i varme." Money="-30" />
+    </Question>
+  </Event>
+
+  <Event Month="6" DefendantType="adult">
+    <Question Text="Familiens forsikring til deres transportmiddel stiger. Hvad vil du gøre?" Title="Forsikringen stiger" Icon="Insurance price increase">
+      <Answer Text="Vælge ikke at ville have en forsikring." ResultText="Transportmidlet blev skadet kort efter, og familien måtte selv betale for skaden. Den kostede 3 guldmønter og 7 sølvmønter." Money="-37" />
+      <Answer Text="Vælge at få en anden forsikring, som familien har set en reklame for." ResultText="Den anden forsikring viste sig desværre at være 1 guldmønt dyrere end den pris, familien havde set i reklamen." Money="-10" />
+      <Answer Text="Undersøge hvor familien får den bedste forsikring." ResultText="Den bedste forsikring var 6 sølvmønter dyrere end den gamle. Til gengæld betalte forsikringen hele skaden, da transportmidlet kort efter kom til  skade." Money="-6" />
+    </Question>
+  </Event>
+
+  <Event Month="6" DefendantType="child">
+    <Question Text="Pæren i en loftlampe er sprunget, så der er helt mørkt. #name# falder ned ad trappen og slår sig. Hvad vil du gøre?" Title="Pære i loftlampe sprunget" Icon="Ceiling lamp light bulb burns out">
+      <Answer Text="Give #name# plaster på. Et plaster koster 1 sølvmønt." ResultText="Plasteret skulle skiftes hver dag i en uge." Money="-7" />
+      <Answer Text="Sætte ny pære i lampen til 2 sølvmønter." ResultText="Det viste sig, at der skulle to pærer i lampen." Money="-4" />
+      <Answer Text="Trøste #name#." ResultText="#name# blev hurtigt glad igen." Money="0" />
+    </Question>
+  </Event>
+
+  <Event Month="6" DefendantType="adult">
+    <Question Text="Familiens kæledyr har fået allergi og skal derfor have noget særligt dyrt mad. Hvad vil du gøre?" Title="Kæledyr har fået allergi" Icon="The pet has allergies">
+      <Answer Text="Giv kæledyret væk." ResultText="Familien gav kæledyret til nogle venner." Money="-23" />
+      <Answer Text="Købe den dyre mad henne i dyreforretningen. Maden koster 1 guldmønt og 2 sølvmønter." ResultText="Det hjalp familiens kæledyr! Dyret blev hurtigt rask igen." Money="-12" />
+      <Answer Text="Sørge for at kæledyret ikke får det at spise, som den ikke kan tåle." ResultText="Det viste sig, at maden blev billigere på den måde. Familien sparede derfor 1 guldmønt og 7 sølvmønter." Money="17" />
+    </Question>
+  </Event>
+
+  <Event Month="8" DefendantType="child">
+    <Question Text="Familien spiller bold i haven. Bolden rammer et vindue, der smadrer. Hvad vil du gøre?" Title="Bold smadrer rude" Icon="Ball breaks window">
+      <Answer Text="Få en glarmester til at sætte en ny vinduesrude i til 8 sølvmønter." ResultText="Glarmesteren skulle også have 1 guldmønt og 6 sølvmønter i løn og 4 sølvmønter for at køre ud til familien." Money="-28" />
+      <Answer Text="Købe en ny rude til 8 sølvmønter og selv reparere vinduet." ResultText="Reparationen gik heldigvis fint." Money="-8" />
+      <Answer Text="Lade vinduesruden være som den er. Lige nu er det jo sommer og varmt." ResultText="En fugl fløj ind gennem den smadrede rude, og der røg en fin vase på gulvet. Vasen kostede 1 guldmønt." Money="-10" />
+    </Question>
+  </Event>
+
+  <Event Month="8" DefendantType="child">
+    <Question Text="#name# vil gerne spille fodbold, men mangler tøj og fodboldstøvler. Hvad vil du gøre?" Title="Fodbold" Icon="Football">
+      <Answer Text="Sige til #name#, at der ikke er råd til at spille fodbold lige nu." ResultText="#name# blev ked af det, og familien valgte derfor at gå i biografen som trøst. Biografbiletterne kostede 4 sølvmønter." Money="-4" />
+      <Answer Text="Købe nyt tøj og fodboldstøvler til #name# til 1 guldmønt og 2 sølvmønter." ResultText="Det kostede også 1 guldmønt og 1 sølvmønt for at gå til fodbold og at komme derud med bussen." Money="-23" />
+      <Answer Text="Låne noget tøj og nogle fodboldstøvler af en kammerat." ResultText="Det kostede 1 guldmønt og 1 sølvmønt for at gå til fodbold og at komme derud med bussen." Money="-11" />
+    </Question>
+  </Event>
+
+  <Event Month="8" DefendantType="child">
+    <Question Text="Familiens komfur er gået i stykker. Hvad vil du gøre?" Title="Uden komfur" Icon="No cooker">
+      <Answer Text="Lave mad på bål i haven." ResultText="Det var forbudt at tænde bål, der hvor familien boede, så familien fik en bøde på 2 guldmønter." Money="-20" />
+      <Answer Text="Spise kold mad i lang tid." ResultText="Det viste sig at blive en dyr fornøjelse. Faktisk kostede den kolde mad 1 guldmønt og 5 sølvmønter." Money="-15" />
+      <Answer Text="Købe et nyt komfur." ResultText="Det nye komfur kostede 2 guldmønter og 6 sølvmønter, men familien blev meget glad for det." Money="-26" />
+    </Question>
+  </Event>
+
+  <Event Month="9" DefendantType="child">
+    <Question Text="Der har været strømafbrydelse på hele vejen, hvor familien bor. Derfor er al maden i fryseren tøet op. Hvad vil du gøre?" Title="Strømafbrydelse" Icon="Electrical cut">
+      <Answer Text="Invitere en masse gæster, så de kan spise al den optøede mad." ResultText="Familien måtte ud og købe drikkevarer til alle gæsterne for 1 guldmønt og 6 sølvmønter. Til gengæld havde de en festlig aften." Money="-28" />
+      <Answer Text="Fryse den optøede mad ned igen." ResultText="Der var nogle få ting, der godt kunne fryses ned igen. Men det meste af maden blev dårlig og måtte smides væk. Den ødelagte mad kostede 1 guldmønt." Money="-10" />
+      <Answer Text="Smide al maden væk og købe noget nyt." ResultText="Familien måtte købe ny mad til fryseren. Det blev dyrt. De kom af med 2 guldmønter og 1 sølvmønt." Money="-21" />
+    </Question>
+  </Event>
+
+  <Event Month="9" DefendantType="child">
+    <Question Text="Familien har i lang tid haft besøg af en mus, der har larmet og gnavet i familiens ting på loftet. Hvad vil du gøre?" Title="Mus på loftet" Icon="Mouse in the attic">
+      <Answer Text="Håbe at den løber over til naboen." ResultText="Det gjorde den faktisk. Så der var familien heldige." Money="0" />
+      <Answer Text="Købe en musefælde til 1 guldmønt." ResultText="Musen havnede hurtigt i fælden, fordi den blev lokket af den gode ost, familien havde brugt som lokkemad." Money="-10" />
+      <Answer Text="Lade som om det ikke betyder noget." ResultText="Musen ødelagde tagets isolering, der derfor måtte skiftes for 2 guldmønter." Money="-20" />
+    </Question>
+  </Event>
+
+  <Event Month="9" DefendantType="adult">
+    <Question Text="Familiens computer er gået i stykker, og de skal købe en ny. Hvad vil du gøre?" Title="Ny computer" Icon="New computer">
+      <Answer Text="Købe en ny computer med det samme, så familien ikke skal undvære en computer for længe. Den koster dog 3 guldmønter." ResultText="Computeren var dyr, men til gengæld sparede den strøm. Derfor faldt el-regningen med 1 guldmønt." Money="-20" />
+      <Answer Text="Leje en ny computer. Det koster 4 sølvmønter hver måned i 6 måneder." ResultText="Den nye computer sparede strøm. Derfor faldt el-regningen med 1 guldmønt." Money="-14" />
+      <Answer Text="Give familien tid til at tjekke priser i forskellige forretninger. Familien er uden computer i 14 dage, men finder en billig computer til 2 guldmønter." ResultText="Den nye computer sparede strøm. Derfor faldt el-regningen med 1 guldmønt." Money="-10" />
+    </Question>
+  </Event>
+
+  <Event Month="9" DefendantType="adult">
+    <Question Text="Familiens vaskemaskine gik pludselig i stykker. Hvad vil du gøre?" Title="Vaskemaskine" Icon="Washing machine">
+      <Answer Text="Købe en brugt vaskemaskine til 2 guldmønter og 1 sølvmønt." ResultText="Den brugte vaskemaskine viste sig at være rigtig god og holde længe." Money="-21" />
+      <Answer Text="Købe en ny vaskemaskine til 4 guldmønter." ResultText="Den nye vaskemaskine viste sig at være billig i strøm og bruge mindre vand. Regningen på strøm og vand faldt derfor med 1 guldmønt." Money="-30" />
+      <Answer Text="Købe en meget dyr vaskemaskine til 4 guldmønter, der er rigtig god for miljøet." ResultText="Med den nye vaskemaskine sparede familien hele  2 guldmønter i strøm og vand." Money="-20" />
+    </Question>
+  </Event>
+
+  <Event Month="10" DefendantType="adult">
+    <Question Text="Familien bliver inviteret til en familiefødselsdag i den anden ende af landet. Hvad vil du gøre?" Title="Familiefødselsdag" Icon="Family birthday">
+      <Answer Text="Takke ja til invitationen og købe en fin gave til 1 guldmønt og 5 sølvmønter." ResultText="Familien tog toget over til fødselsdagen. Turen kostede i alt 1 guldmønt." Money="-25" />
+      <Answer Text="Melde afbud for at kunne spare de 1 guldmønt og 5 sølvmønter til gaven." ResultText="Familien valgte at gå på restaurant om aftenen i stedet for. Det kostede 1 guldmønt." Money="-10" />
+      <Answer Text="Melde afbud, men stadig sende en fødselsdaggave til 1 guldmønt med posten." ResultText="Posten kostede 3 sølvmønter." Money="-13" />
+    </Question>
+  </Event>
+
+  <Event Month="10" DefendantType="adult">
+    <Question Text="En storm vælter et træ, så det laver hul i taget. Hvad vil du gøre?" Title="Stormskade" Icon="Storm damage">
+      <Answer Text="Sætte en spand under hullet i taget, så det ikke regner ind." ResultText="Da spanden var fuld, faldt #name# over den, og der løb vand ud over gulvet og ødelagde noget af træet i trægulvet. Det kostede 3 guldmønter og 2 sølvmønter at få det lavet." Money="-32" />
+      <Answer Text="Bestille en håndværker til at lappe hullet i taget." ResultText="Der skulle bruges 2 plader til 7 sølvmønter pr. stk. Håndværkeren skulle desuden have en arbejdsløn på 2 guldmønter og 1  sølvmønt." Money="-35" />
+      <Answer Text="Selv reparere taget med to plader til 7 sølvmønter pr. stk." ResultText="#name# lappede hullet i taget med de 2 plader. Det gik godt." Money="-14" />
+    </Question>
+  </Event>
+
+  <Event Month="10" DefendantType="child">
+    <Question Text="#name# har glemt at lukke et vindue. Derfor har det regnet ind på familiens computer hele natten. Hvad vil du gøre?" Title="Våd computer" Icon="Wet computer">
+      <Answer Text="Stille computeren over på en radiator, så den kan tørre." ResultText="Det virkede desværre ikke. Computeren måtte sendes til reparation. Det kostede 2 guldmønter." Money="-20" />
+      <Answer Text="Lukke for vinduet og vente med at bruge computeren til den er helt tør." ResultText="Det tog lang tid. Derfor lejede familien en computer i ventetiden. Det kostede 1 guldmønt.  Da den gamle computer var tør, duede den ikke og måtte alligevel sendes til reparation. Det kostede 2 guldmønter." Money="-30" />
+      <Answer Text="Købe en ny computer til 3 guldmønter." ResultText="Den nye computer var rigtig god og brugte mindre strøm end den gamle. Familien sparede derfor 6 sølvmønter i strøm." Money="-24" />
+    </Question>
+  </Event>
+
+  <Event Month="11" DefendantType="child">
+    <Question Text="#name# vil gerne gå i musikskole og lære at spille klaver. Hvad vil du gøre?" Title="Klaverspil" Icon="Piano lessons">
+      <Answer Text="Leje et klaver til 5 sølvmønter." ResultText="#name# skulle leje klaveret i mindst 6 måneder, men blev rigtig god til at spille på det." Money="-30" />
+      <Answer Text="Købe et klaver til 2 guldmønter." ResultText="#name# blev rigtig god til at spille på klaveret." Money="-20" />
+      <Answer Text="Opfordre #name# til at gå til blokfløjte i stedet, fordi blokfløjten kun koster 1 guldmønt." ResultText="#name# blev god til at spille blokfløjte, men ville stadig gerne gå til klaver. Så familien endte med at skulle betale for begge dele." Money="-30" />
+    </Question>
+  </Event>
+
+  <Event Month="11" DefendantType="adult">
+    <Question Text="Under en storm blæser familiens hoveddør op. En stor rude i døren går desværre i stykker. Hvad vil du gøre?" Title="Storm damage" Icon="Storm damage2">
+      <Answer Text="Købe en helt ny dør til 3 guldmønter." ResultText="Den nye dør viste sig at være bedre end den gamle. Den var så god til at holde på varmen, at familien sparede 1 guldmønt på varmeregningen." Money="-20" />
+      <Answer Text="Sætte en plade på i stedet for en ny rude. Pladen koster 3 sølvmønter, og sømmene koster 1 sølvmønt. Du har brug for 10 søm." ResultText="Pladen holdt desværre ikke. Det kostede 2 guldmønter at få døren repareret." Money="-33" />
+      <Answer Text="Købe en ny rude. Den koster 5 sølvmønter, og glarmesteren skal have 1 guldmønt for at sætte ruden i." ResultText="Døren blev repareret, og familien var glade." Money="-15" />
+    </Question>
+  </Event>
+
+  <Event Month="11" DefendantType="adult">
+    <Question Text="En af familiens gæster kom til at slå et dyrt glas i stykker, fordi hun faldt over noget legetøj, der lå på gulvet. Hvad vil du gøre?" Title="Gæst ødelagde dyrt glas" Icon="Guest breaks expensive glass">
+      <Answer Text="Smide gæsten ud." ResultText="Gæsten blev så ked af det, at hun kom til at tabe et glas mere på gulvet. De to nye glas kostede i alt 2 guldmønter og 2 sølvmønter." Money="-22" />
+      <Answer Text="Bede gæsten om at købe et nyt glas." ResultText="Gæsten lovede, at hun ville købe et nyt glas til familien." Money="0" />
+      <Answer Text="Sige skidt med det, fordi familien heldigvis har masser af glas." ResultText="Familien klarede sig fint uden det smadrede glas." Money="0" />
+    </Question>
+  </Event>
+
+  <Event Month="11" DefendantType="child">
+    <Question Text="En af familiens gæster kom til at slå et dyrt glas i stykker, fordi hun faldt over noget legetøj, der lå på gulvet. Hvad vil du gøre?" Title="Gæst ødelagde dyrt glas" Icon="Guest breaks expensive glass">
+      <Answer Text="Smide gæsten ud." ResultText="Gæsten blev så ked af det, at hun kom til at tabe et glas mere på gulvet. De to nye glas kostede i alt 2 guldmønter og 2 sølvmønter." Money="-22" />
+      <Answer Text="Bede gæsten om at købe et nyt glas." ResultText="Gæsten lovede, at hun ville købe et nyt glas til familien." Money="0" />
+      <Answer Text="Sige skidt med det, fordi familien heldigvis har masser af glas." ResultText="Familien klarede sig fint uden det smadrede glas." Money="0" />
+    </Question>
+  </Event>
+
+  <Event Month="12" DefendantType="adult">
+    <Question Text="En i familien har glemt at slukke for vandhanen på badeværelset. Derfor er der vand på hele badeværelsesgulvet. Hvad vil du gøre?" Title="Glemt at slukke for vandhanen" Icon="Forgot to turn off the tap">
+      <Answer Text="Åbne døren til badeværelset, så vandet kan løbe ud." ResultText="Vandet løb ud på et dyrt gulvtæppe, der derfor måtte sendes til rensning. Det kostede 4 guldmønter." Money="-40" />
+      <Answer Text="Ringe til en blikkenslager." ResultText="Blikkenslageren var forsinket. Der nåede at løbe 1000 liter vand ud til en pris på 1 guldmønt og 5 sølvmønter. Blikkenslageren skulle desuden have 8 sølvmønter for at lukke for vandet." Money="-23" />
+      <Answer Text="Slukke for vandhanen." ResultText="For at slukke vandhanen skulle badeværelsesdøren åbnes. Vandet løb ud på trægulvet, og familien måtte leje en tørremaskine til 2 guldmønter, så gulvet ikke blev ødelagt." Money="-40" />
+    </Question>
+  </Event>
+
+  <Event Month="12" DefendantType="child">
+    <Question Text="En i familien har glemt at slukke for vandhanen på badeværelset. Derfor er der vand på hele badeværelsesgulvet. Hvad vil du gøre?" Title="Glemt at slukke for vandhanen" Icon="Forgot to turn off the tap">
+      <Answer Text="Åbne døren til badeværelset, så vandet kan løbe ud." ResultText="Vandet løb ud på et dyrt gulvtæppe, der derfor måtte sendes til rensning. Det kostede 4 guldmønter." Money="-40" />
+      <Answer Text="Ringe til en blikkenslager." ResultText="Blikkenslageren var forsinket. Der nåede at løbe 1000 liter vand ud til en pris på 1 guldmønt og 5 sølvmønter. Blikkenslageren skulle desuden have 8 sølvmønter for at lukke for vandet." Money="-23" />
+      <Answer Text="Slukke for vandhanen." ResultText="For at slukke vandhanen skulle badeværelsesdøren åbnes. Vandet løb ud på trægulvet, og familien måtte leje en tørremaskine til 2 guldmønter, så gulvet ikke blev ødelagt." Money="-40" />
+    </Question>
+  </Event>
+
+  <Event Month="12" DefendantType="adult">
+    <Question Text="En stol vælter pludselig ind i fjernsynet, så det går i stykker. Hvad vil du gøre?" Title="Fjernsyn gået i stykker" Icon="The television stops working">
+      <Answer Text="Holde op med at se fjernsyn." ResultText="Familien skal ikke længere betale 1 guldmønt i tv-licens." Money="10" />
+      <Answer Text="Købe et andet fjernsyn til 2 guldmønter og få det bragt ud." ResultText="Det viste sig, at familien også skulle betale 5 sølvmønter for at få fjernsynet bragt ud." Money="-25" />
+      <Answer Text="Få fjernsynet repareret for 1 guldmønt samt 5 sølvmønter i transport." ResultText="Det viste sig, at familien også skulle betale 5 sølvmønter for at få fjernsynet sat op." Money="-20" />
+    </Question>
+  </Event>
+  <Event Month="12" DefendantType="child">
+    <Question Text="#name# har glemt at aflevere en bog til biblioteket. Biblioteksbogen har ligget på værelset i mange måneder! Hvad vil du gøre?" Title="Glemt biblioteksbog" Icon="Forgotten library book">
+      <Answer Text="Lade som ingenting." ResultText="Familien modtog flere rykkere fra biblioteket og en bøde på i alt 1 guldmønt og 2 sølvmønter." Money="-12" />
+      <Answer Text="Få afleveret bogen i en fart, selvom det stadig koster et rykkergebyr." ResultText="Rykkergebyret viste sig at koste 5 sølvmønter." Money="-5" />
+      <Answer Text="Købe biblioteksbogen af biblioteket og lade #name# beholde den." ResultText="Bogen kostede 1 guldmønt og 5 sølvmønter." Money="-15" />
+    </Question>
+  </Event>
+
+  <Event Month="13" DefendantType="adult">
+    <Question Text="Familiens store spejl faldt ned på gulvet og gik i stykker, fordi der blev spillet bold i entreen. Hvad vil du gøre?" Title="Spejl gået i stykker" Icon="Broken mirror">
+      <Answer Text="Holde op med at kigge i spejlet." ResultText="Det betød, at #name# gik på arbejde med uglet hår og tandpasta på kinden. #name# blev derfor sendt hjem igen i en taxa. Det kostede 8 sølvmønter." Money="-8" />
+      <Answer Text="Prøve at lime spejlet sammen igen med en stærk lim til 4 sølvmønter." ResultText="Det holdt ikke længe. Spejlet måtte smides ud, og familien købte et nyt til 1 guldmønt og 2 sølvmønter." Money="-26" />
+      <Answer Text="Købe et nyt spejl til 2 guldmønter og en snor til 2 sølvmønter, som spejlet kan hænge i." ResultText="Det nye spejl holdt i mange år." Money="-26" />
+    </Question>
+  </Event>
+
+  <Event Month="13" DefendantType="child">
+    <Question Text="#name# vil tage bussen hjem, men har glemt sit buskort. Hvad synes du, #name# skal gøre?" Title="Uden buskort" Icon="Forgotten bus pass">
+      <Answer Text="Tage chancen og prøve at komme med bussen alligevel." ResultText="Det gik ikke så godt. Buskontrolløren kom forbi og gav en bøde på 2 guldmønter." Money="-20" />
+      <Answer Text="Gå hjem, selvom der er lidt langt." ResultText="Det tog over en time, men gåturen var gratis." Money="0" />
+      <Answer Text="Købe en billet til bussen." ResultText="Billetten kostede 2 sølvmønter." Money="-2" />
+    </Question>
+  </Event>
+
+  <Event Month="13" DefendantType="adult">
+    <Question Text="Familien går en tur i skoven. Desværre glider #name# i sneen og knækker to fortænder. Hvad vil du gøre?" Title="Fortænder knækket" Icon="Broken front teeth">
+      <Answer Text="Få #name# til tandlægen med det samme, så tænderne kan blive repareret. Det koster 1 guldmønt og 5 sølvmønter for hver tand." ResultText="Der var heldigvis julerabat på 5 sølvmønter for hver tand." Money="-20" />
+      <Answer Text="Få fortænderne lavet hos en billigere tandlæge i udlandet, hvor det kun koster 1 guldmønt for hver tand." ResultText="Rejsen til udlandet kostede 5 sølvmønter." Money="-20" />
+      <Answer Text="Få en nem og hurtig tandreparation til 5 sølvmønter for hver tand." ResultText="Tandreparationen var dårlig. Den faldt af i løbet af en uge, og det kostede 3 guldmønter at få lavet tænderne ordentligt hos tandlæge." Money="-40" />
+    </Question>
+  </Event>
+
+  <Event Month="13" DefendantType="child">
+    <Question Text="Familien går en tur i skoven. Desværre glider #name# i sneen og knækker to fortænder. Hvad vil du gøre?" Title="Fortænder knækket" Icon="Broken front teeth">
+      <Answer Text="Få #name# til tandlægen med det samme, så tænderne kan blive repareret. Det koster 1 guldmønt og 5 sølvmønter for hver tand." ResultText="Der var heldigvis julerabat på 5 sølvmønter for hver tand." Money="-20" />
+      <Answer Text="Få fortænderne lavet hos en billigere tandlæge i udlandet, hvor det kun koster 1 guldmønt for hver tand." ResultText="Rejsen til udlandet kostede 5 sølvmønter." Money="-20" />
+      <Answer Text="Få en nem og hurtig tandreparation til 5 sølvmønter for hver tand." ResultText="Tandreparationen var dårlig. Den faldt af i løbet af en uge, og det kostede 3 guldmønter at få lavet tænderne ordentligt hos tandlæge." Money="-40" />
+    </Question>
+  </Event>
+
+  <Event Month="13" DefendantType="child">
+    <Question Text="En fugl har bygget rede i skorstenen. Desværre går skorstenen i stykker, og 5 sten falder af. Hvad vil du gøre?" Title="En fugl ødelægger skorstenen" Icon="A bird destroys the chimney">
+      <Answer Text="Købe et skorstensrør af stål til 1 guldmønt og sætte det op i stedet." ResultText="Skorstenen blev ikke så pæn, men det virkede." Money="-12" />
+      <Answer Text="Købe nogle nye mursten og forsøge selv at reparere skorstenen." ResultText="Familien købte 5 sten til 1 sølvmønter pr. stk. Reparationen gik heldigvis fint." Money="-5" />
+      <Answer Text="Få en murer til at lave det." ResultText="Mureren skulle have 2 sølvmønter for hver sten plus en løn på 1 guldmønt og 7 sølvmønter." Money="-27" />
+    </Question>
+  </Event>
+
+  <Event Month="0" DefendantType="child">
+    <Question Text="#name# har vundet 2 guldmønter i en konkurrence. Alle i familien giver #name# et stort knus og siger tillykke!" Title="Konkurrence" Icon="Contest">
+      <Answer Text="" ResultText="" Money="20" />
+      <Answer Text="" ResultText="" Money="0" />
+      <Answer Text="" ResultText="" Money="0" />
+    </Question>
+  </Event>
+
+  <Event Month="0" DefendantType="adult">
+    <Question Text="#name# har vundet 2 guldmønter i en konkurrence. Alle i familien giver #name# et stort knus og siger tillykke!" Title="Konkurrence" Icon="Won in Lotto">
+      <Answer Text="" ResultText="" Money="20" />
+      <Answer Text="" ResultText="" Money="0" />
+      <Answer Text="" ResultText="" Money="0" />
+    </Question>
+  </Event>
+
+  <Event Month="0" DefendantType="adult">
+    <Question Text="Der var en stor gevinst på 3 guldmønter på den Lotto-kupon, familien havde købt" Title="Vundet i Lotto" Icon="Contest">
+      <Answer Text="" ResultText="" Money="30" />
+      <Answer Text="" ResultText="" Money="0" />
+      <Answer Text="" ResultText="" Money="0" />
+    </Question>
+  </Event>
+
+  <Event Month="0" DefendantType="child">
+    <Question Text="Der var en stor gevinst på 3 guldmønter på den Lotto-kupon, familien havde købt" Title="Vundet i Lotto" Icon="Contest">
+      <Answer Text="" ResultText="" Money="30" />
+      <Answer Text="" ResultText="" Money="0" />
+      <Answer Text="" ResultText="" Money="0" />
+    </Question>
+  </Event>
+
+  <Event Month="0" DefendantType="adult">
+    <Question Text="Familien arvede pludselig 5 guldmønter fra en rig og ukendt onkel i Amerika!" Title="Arv" Icon="Inheritance">
+      <Answer Text="" ResultText="" Money="50" />
+      <Answer Text="" ResultText="" Money="0" />
+      <Answer Text="" ResultText="" Money="0" />
+    </Question>
+  </Event>
+
+  <Event Month="0" DefendantType="adult">
+    <Question Text="#name# havde kørt for hurtigt, og fik en fartbøde på 4 guldmønter. Det var dumt." Title="Fartbøde" Icon="Speeding fine">
+      <Answer Text="" ResultText="" Money="-40" />
+      <Answer Text="" ResultText="" Money="0" />
+      <Answer Text="" ResultText="" Money="0" />
+    </Question>
+  </Event>
+
+  <Event Month="0" DefendantType="adult">
+    <Question Text="En i familien har fået en bøde på 3 guldmønter for at køre over for rødt lys. Det var dumt." Title="Bøde for rødt lys" Icon="Fine for running red light">
+      <Answer Text="" ResultText="" Money="-30" />
+      <Answer Text="" ResultText="" Money="0" />
+      <Answer Text="" ResultText="" Money="0" />
+    </Question>
+  </Event>
+
+
+  <Event Month="0" DefendantType="child">
+    <Question Text="En i familien har fået en bøde på 3 guldmønter for at køre over for rødt lys. Det var dumt." Title="Bøde for rødt lys" Icon="Fine for running red light">
+      <Answer Text="" ResultText="" Money="-30" />
+      <Answer Text="" ResultText="" Money="0" />
+      <Answer Text="" ResultText="" Money="0" />
+    </Question>
+  </Event>
+
+  <Event Month="0" DefendantType="adult">
+    <Question Text="Familien fik en uventet regning. De skulle derfor betale 4 guldmønter med det samme!" Title="Ekstra regning" Icon="Extra tax bill">
+      <Answer Text="" ResultText="" Money="-40" />
+      <Answer Text="" ResultText="" Money="0" />
+      <Answer Text="" ResultText="" Money="0" />
+    </Question>
+  </Event>
+</root>
