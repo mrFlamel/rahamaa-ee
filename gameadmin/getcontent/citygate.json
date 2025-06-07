@@ -11,8 +11,8 @@
   },
   "speak_b_citygate_next": {
     "contenttype": "sound",
-    "content": "dk_hjaelp_1.mp3",
-    "subtitle": "Når du synes, den er færdig, så klik på den grønne knap."
+    "content": "estonian/row7.mp3",
+    "subtitle": "Kui arvad, et oled valmis saanud, siis puuduta rohelist nuppu."
   },
   "speak_b_citygate_welcome": {
     "contenttype": "sound",

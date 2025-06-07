@@ -1,7 +1,7 @@
 {
   "speak_wizard_complete": {
     "contenttype": "sound",
-    "content": "dk_man_klarer_testen.mp3",
+    "content": "estonian/row56.mp3",
     "subtitle": "Väga tubli! Vastasid õigesti kõigile küsimustele! Puuduta rohelist nuppu ja siis kuuled mu saladust."
   },
   "speak_wizard_not_complete": {
@@ -11,8 +11,8 @@
   },
   "speak_wizard_secret": {
     "contenttype": "sound",
-    "content": "dk_hemmelighed.mp3",
-    "subtitle": "På mit skattekort kan du se, hvor skatten ligger gemt i Pengeby! Prøv at se, om du kan finde den - skatten er nemlig din! Du får også mit helt specielle diplom, som hænger på dit værelse, men du kan også printe det, hvis du vil. Tryk på den grønne knap for at finde skatten!"
+    "content": "estonian/row57.mp3",
+    "subtitle": "Minu aardekaardilt näed, kuhu see varandus on Rahamaal peidetud! Vaata, kas leiad üles – saad selle endale! Peale selle saad minult väga toreda diplomi. See ripub su toa seinal ja kui tahad, võid selle ka välja printida. Puuduta rohelist nuppu, et asuda varandust otsima!"
   },
   "speak_wizard_welcome": {
     "contenttype": "sound",

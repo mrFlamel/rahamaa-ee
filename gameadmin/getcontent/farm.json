@@ -41,7 +41,7 @@
   },
   "speak_farm_gather_cow": {
     "contenttype": "sound",
-    "content": "farm_gather_cows.mp3",
+    "content": "estonian/row60.mp3",
     "subtitle": "Aita mul 12 lehma üles leida. Lohista nad suure ringi sisse."
   },
   "speak_farm_gather_duck": {

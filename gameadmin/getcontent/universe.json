@@ -1,17 +1,17 @@
 {
   "speak_b_createuser_dress": {
     "contenttype": "sound",
-    "content": "dk_vaelg_udseende.mp3",
-    "subtitle": "Nu skal du vælge, hvordan du gerne vil se ud. Klik på den grønne knap, når du er færdig."
+    "content": "estonian/row5.mp3",
+    "subtitle": "Nüüd pead valima oma välimuse. Puuduta rohelist nuppu,  kui oled lõpetanud."
   },
   "speak_b_createuser_gender": {
     "contenttype": "sound",
-    "content": "dk_vaelg_draeng_pige.mp3",
-    "subtitle": "Er du en dreng, skal du klikke på drengen. Er du en pige, skal du klikke på pigen."
+    "content": "estonian/row4.mp3",
+    "subtitle": "Kui oled poiss, vali poiss. Kui oled tüdruk, vali tüdruk."
   },
   "speak_b_createuser_house": {
     "contenttype": "sound",
-    "content": "dk_vaelg_hus.mp3",
+    "content": "estonian/row9.mp3",
     "subtitle": "Rahamaal saad sa endale päris oma maja! Millises majas sa tahaksid elada?"
   },
   "createuser_boy": {
@@ -56,7 +56,7 @@
   },
   "speak_b_wishlist_opens": {
     "contenttype": "sound",
-    "content": "dk_aabning_af_krukke.mp3",
+    "content": "estonian/row58.mp3",
     "subtitle": "Siin näed kõike, mille jaoks sa raha kogud. Kui mingi asja jaoks on piisavalt raha, võid selle ära osta! Soovipurgis saab korraga olla ainult kolm asja. On seal midagi, mida saaksid juba osta?"
   },
   "speak_b_wishlist_rollover": {
@@ -71,22 +71,22 @@
   },
   "speak_universe_karens": {
     "contenttype": "sound",
-    "content": "dk_roll_over_paa_karens_butik.mp3",
+    "content": "estonian/row13.mp3",
     "subtitle": "Palun tule mu poodi vaatama! Mulle tuleb kogu aeg uut kaupa."
   },
   "speak_universe_postoffice": {
     "contenttype": "sound",
-    "content": "dk_roll_over_paa_postkontoret.mp3",
+    "content": "estonian/row14.mp3",
     "subtitle": "Postkontoris läheb mul väga sinu abi vaja! Kas sa tahaksid mulle appi tulla ja natuke raha teenida?"
   },
   "speak_universe_timemachine": {
     "contenttype": "sound",
-    "content": "dk_roll_over_paa_tidsmaskine.mp3",
+    "content": "estonian/row17.mp3",
     "subtitle": "See on minu ajamasin. Kas sa tahaksid seda proovida?"
   },
   "speak_universe_wizard": {
     "contenttype": "sound",
-    "content": "dk_roll_over_paa_troldmand_klar.mp3",
+    "content": "estonian/row16.mp3",
     "subtitle": "Mina olen Võlur - ja mul on üks saladus! Kas oled valmis seda kuulama?"
   },
   "speak_universe_wizard_not_ready": {
@@ -101,18 +101,18 @@
   },
   "monopolyAccess_wrong_body": {
     "contenttype": "label",
-    "content": "Prøv igen",
+    "content": "Proovi uuesti",
     "subtitle": ""
   },
   "monopolyAccess_wrong_header": {
     "contenttype": "label",
-    "content": "FORKERT SVAR",
+    "content": "VALE VASTUS",
     "subtitle": ""
   },
   "speak_b_universe_apple": {
     "contenttype": "sound",
-    "content": "dk_roll_over_paa_eblebod.mp3",
-    "subtitle": "Det her er din æblebod. Her kan du tjene penge ved at samle æbler og lave æblejuice til hele Pengeby!"
+    "content": "estonian/row12.mp3",
+    "subtitle": "See on sinu mahlalett. Siin saad sa teenida raha, kui korjad õunu ja müüd õunamahla kõigile Rahamaa elanikele!"
   },
   "speak_b_monopolyAccess_helpTxt": {
     "contenttype": "sound",
@@ -146,7 +146,7 @@
   },
   "pengeby_yourName": {
     "contenttype": "label",
-    "content": "Skriv dit navn",
+    "content": "Sisesta oma nimi",
     "subtitle": ""
   },
   "pengeby_bank_addCash": {

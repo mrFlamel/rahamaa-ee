@@ -1,13 +1,13 @@
 {
   "speak_b_ridder_complete": {
     "contenttype": "sound",
-    "content": "game_over_1.mp3",
-    "subtitle": "Det er du god til! Prøv igen for at se, om du kan gøre det bedre."
+    "content": "estonian/row32.mp3",
+    "subtitle": "Selles töös oled sa tõesti asjatundja! Aga proovi uuesti, äkki saad veelgi parema tulemuse!"
   },
   "speak_b_ridder_welcome": {
     "contenttype": "sound",
-    "content": "velkommen_ridder_se.mp3",
-    "subtitle": "Nu har du rejst tilbage til middelalderen, og her skal du bruge en armbrøst for at skyde pile efter en målskive. Du skal trykke på de brune pile på armbrøsten for at bestemme, hvilken retning du vil skyde. Og du skal også indstille hvor hårdt. Når du tror, at du vil skyde hårdt nok og i den rigtige retning til at ramme målskiven, skal du trykke på den grønne knap for at skyde. Prøv og se, hvor mange point du kan få! Tryk på den grønne knap for at gå i gang!"
+    "content": "estonian/row31.mp3",
+    "subtitle": "Liikusid ajas tagasi ja jõudsid keskaega, kus saad vibuga märki lasta. Suuna muutmiseks tõmba vibust ja lase lahti, et nool lendu lasta. Mida rohkem tõmbad, seda kaugemale nool lendab. Vaata, kui palju punkte suudad koguda! Alustamiseks puuduta rohelist nuppu."
   },
   "ridder_hit": {
     "contenttype": "sound",

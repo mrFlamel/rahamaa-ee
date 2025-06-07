@@ -1,17 +1,17 @@
 {
   "speak_b_karens_welcome": {
     "contenttype": "sound",
-    "content": "dk_velkomst_og_forklaring_karens_butik.mp3",
-    "subtitle": "Nu er du på vej ind i Karens butik. Her kan du købe en masse tøj og ting til dit værelse for dine penge. Klik på de ting, du gerne vil købe! Hvis du ikke har penge nok til dem, kan du altid komme dem i din ønskekrukke, så du kan spare op til dem. Tryk på den grønne knap for at komme ind i butikken."
+    "content": "estonian/row38.mp3",
+    "subtitle": "Nüüd oled teel tädi Anni poodi. Seal saad oma raha eest  osta riideid ja mitmesuguseid asju oma tuppa. Hinna vaatamiseks puuduta üks kord ja ostmiseks kaks korda. Kui sul pole veel piisavalt raha, võid panna meeldima hakanud asjad soovipurki ja hakata nende jaoks raha koguma. Poodi minemiseks puuduta rohelist nuppu."
   },
   "speak_karens_bought1": {
     "contenttype": "sound",
-    "content": "dk_vare_koebt_1.mp3",
+    "content": "estonian/row45.mp3",
     "subtitle": "Nüüd sa ostsid selle asja!"
   },
   "speak_karens_bought2": {
     "contenttype": "sound",
-    "content": "dk_vare_koebt_2.mp3",
+    "content": "estonian/row46.mp3",
     "subtitle": "Nii, nüüd kuulub see sulle!"
   },
   "speak_karens_buy1": {
@@ -21,33 +21,33 @@
   },
   "speak_karens_buy2": {
     "contenttype": "sound",
-    "content": "dk_koeb_vare_2.mp3",
+    "content": "estonian/row42.mp3",
     "subtitle": "Kui sa ostad selle asja, kui palju raha sul siis alles jääb?"
   },
   "speak_karens_buy3": {
     "contenttype": "sound",
-    "content": "dk_koeb_vare_3.mp3",
+    "content": "estonian/row41.mp3",
     "subtitle": "Väga hea! Kui palju raha sul järele jääb, kui sa selle asja ostad?"
   },
   "speak_karens_done": {
     "contenttype": "sound",
-    "content": "dk_afslutning_karen.mp3",
+    "content": "estonian/row47.mp3",
     "subtitle": "Nägemiseni ja suur aitäh! Tule varsti jälle!"
   },
   "speak_karens_intro": {
     "contenttype": "sound",
-    "content": "dk_intro.mp3",
+    "content": "estonian/row39.mp3",
     "subtitle": "Kas leiad minu poest mõne asja, mida tahaksid osta?"
   },
   "speak_karens_wishlist": {
     "contenttype": "sound",
-    "content": "dk_ikke_raad_til_vare.mp3",
-    "subtitle": "Den har du desværre ikke penge nok til at købe! Men du kan komme den i ønskekrukken, hvis du gerne vil spare op til den. Hvor mange penge mangler du?"
+    "content": "estonian/row44.mp3",
+    "subtitle": "Selle ostmiseks läheb sul vaja veidi lisaraha. Kas sa näed, kui palju sul puudu on? Sa võid tõsta selle eseme soovide nõusse ja hakata selle jaoks raha koguma."
   },
   "speak_wishlist_max": {
     "contenttype": "sound",
-    "content": "SE Karen max 3.mp3",
-    "subtitle": "Du kan kun have 3 ting i din ønskekrukke, så du må fjerne nogle, før du kan komme nogle nye ting i. Klik på din ønskekrukke, hvis du gerne vil fjerne nogle ting."
+    "content": "estonian/row43.mp3",
+    "subtitle": "Sul on juba kolm asja soovipurgis. Kui tahad sinna mingi asja lisada, pead enne midagi välja võtma. Vali soovipurk, kui soovid sealt midagi välja võtta."
   },
   "item_car": {
     "contenttype": "sound",

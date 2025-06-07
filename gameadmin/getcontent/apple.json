@@ -2,7 +2,7 @@
   "speak_b_apple_done": {
     "contenttype": "sound",
     "content": "estonian/row53.mp3",
-    "subtitle": "Nüüd oled sa küll palju maitsvat mahla valmistanud! Aga sa pillasid kolm õuna ka maha. Kui soovid veel raha teenida, siis proovi uuesti. Kui sul on piisavalt raha, võid minna  reisile ajamasinas. Aga äkki on tädi Anni poodi saabunud mingeid uusi asju, mida sa tahaksid osta."
+    "subtitle": "Nüüd oled sa küll palju maitsvat mahla valmistanud! Aga sa pillasid kolm õuna ka maha. Kui soovid veel raha teenida, siis proovi uuesti. Kui sul on piisavalt raha, võid minna reisile ajamasinas. Aga äkki on tädi Anni poodi saabunud mingeid uusi asju, mida sa tahaksid osta."
   },
   "speak_b_apple_done_no_money": {
     "contenttype": "sound",
@@ -11,28 +11,28 @@
   },
   "speak_b_apple_nextlevel_1": {
     "contenttype": "sound",
-    "content": "dk_naeste_niveau_1.mp3",
+    "content": "estonian/row49.mp3",
     "subtitle": "Sa olid selles töös väga tubli! Nüüd läheb see natuke kiiremaks."
   },
   "speak_b_apple_nextlevel_2": {
     "contenttype": "sound",
-    "content": "dk_naeste_niveau_2.mp3",
+    "content": "estonian/row50.mp3",
     "subtitle": "Väga hea! Nüüd läheb see töö veel kiiremaks."
   },
   "speak_b_apple_nextlevel_3": {
     "contenttype": "sound",
-    "content": "dk_naeste_niveau_3.mp3",
+    "content": "estonian/row51.mp3",
     "subtitle": "Suurepärane! Nüüd läheb see veelgi raskemaks."
   },
   "speak_b_apple_nextlevel_4": {
     "contenttype": "sound",
-    "content": "dk_naeste_niveau_4.mp3",
+    "content": "estonian/row52.mp3",
     "subtitle": "Selles töös oled sa tõesti asjatundja! Mis sa arvad, kas saad ka järgmise ringiga hakkama?"
   },
   "speak_b_apple_welcome": {
     "contenttype": "sound",
     "content": "dk_velkomst_og_forklaring_aeblebod.mp3",
-    "subtitle": "Velkommen til din æblebod. Her kan du tjene penge ved at lave æblejuice til folkene i Pengeby. Du skal fange æblerne, der falder ned fra det store æbletræ, inden de rammer jorden. Du må ikke tabe mere end tre æbler på jorden. Du skal bruge piletasterne på computeren for at løbe frem og tilbage. Hver gang du har samlet 10 æbler, tjener du penge. Er du klar til at se, hvor mange æbler du kan samle? Så tryk på den grønne knap."
+    "subtitle": "Tere tulemast! See on sinu õunalett. Siin saad teha raha teenimiseks õunamahla ja seda Rahamaa elanikele müüa. Püüa suure õunapuu otsast kukkuvad õunad kinni, enne kui need maha potsatavad. Üle kolme õuna ei tohi maha kukkuda. Edasi-tagasi jooksmiseks vajuta nooleklahve. Teenid mündi iga 10 õuna eest, mille oled kinni püüdnud. Oled valmis proovima, mitu õuna suudad kinni püüda? Puuduta siis rohelist nuppu."
   },
   "apple_apple_caught": {
     "contenttype": "sound",
