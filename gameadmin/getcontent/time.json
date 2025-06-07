@@ -1,7 +1,7 @@
 {
   "speak_b_timemachine_welcome": {
     "contenttype": "sound",
-    "content": "estonian/ee_ajamasin_tervitus.mp3",
+    "content": "estonian/row22.mp3",
     "subtitle": "Tere tulemast ajamasinasse! Sellega saad reisida ajas tagasi ning proovida igasuguseid toredaid ja põnevaid asju, aga ainult siis, kui sul on piisavalt raha. Iga reis maksab ühe kuldmündi, puuduta rohelist nuppu ja vali, kuhu sa tahaksid minna."
   },
   "speak_timemachine_nocash": {
