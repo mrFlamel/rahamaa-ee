@@ -136,12 +136,12 @@
   },
   "pengeby_subtitlesButtonOff": {
     "contenttype": "label",
-    "content": "Sl\u00e5 tekster til",
+    "content": "N\u00e4ita subtiitreid",
     "subtitle": ""
   },
   "pengeby_subtitlesButtonOn": {
     "contenttype": "label",
-    "content": "Sl\u00e5 tekster fra",
+    "content": "Peida subtiitrid",
     "subtitle": ""
   },
   "pengeby_yourName": {
