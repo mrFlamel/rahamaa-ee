@@ -2,21 +2,21 @@
   "speak_b_createuser_dress": {
     "contenttype": "sound",
     "content": "dk_vaelg_udseende.mp3",
-    "subtitle": "Nu skal du v\u00e6lge, hvordan du gerne vil se ud. Klik p\u00e5 den gr\u00f8nne knap, n\u00e5r du er f\u00e6rdig."
+    "subtitle": "Nu skal du vælge, hvordan du gerne vil se ud. Klik på den grønne knap, når du er færdig."
   },
   "speak_b_createuser_gender": {
     "contenttype": "sound",
     "content": "dk_vaelg_draeng_pige.mp3",
-    "subtitle": "Er du en dreng, skal du klikke p\u00e5 drengen. Er du en pige, skal du klikke p\u00e5 pigen."
+    "subtitle": "Er du en dreng, skal du klikke på drengen. Er du en pige, skal du klikke på pigen."
   },
   "speak_b_createuser_house": {
     "contenttype": "sound",
     "content": "dk_vaelg_hus.mp3",
-    "subtitle": "I Pengeby f\u00e5r du dit helt eget hus! Hvilket hus vil du bo i?"
+    "subtitle": "Rahamaal saad sa endale päris oma maja! Millises majas sa tahaksid elada?"
   },
   "createuser_boy": {
     "contenttype": "label",
-    "content": "Dreng",
+    "content": "Poiss",
     "subtitle": ""
   },
   "createuser_button_body": {
@@ -26,12 +26,12 @@
   },
   "createuser_def_text": {
     "contenttype": "label",
-    "content": "I Pengeby f\u00e5r man sin egen figur, som man kan k\u00f8be en masse ting til. Du skal derfor oprette en bruger, for at du kan blive genkendt n\u00e5r du kommer tilbage. De oplysninger du angiver, vil kun blive brugt til dette spil!",
+    "content": "I Pengeby får man sin egen figur, som man kan købe en masse ting til. Du skal derfor oprette en bruger, for at du kan blive genkendt når du kommer tilbage. De oplysninger du angiver, vil kun blive brugt til dette spil!",
     "subtitle": ""
   },
   "createuser_girl": {
     "contenttype": "label",
-    "content": "Pige",
+    "content": "Tüdruk",
     "subtitle": ""
   },
   "speak_b_universe_citygate": {
@@ -42,66 +42,66 @@
   "speak_b_universe_monopolyAccess": {
     "contenttype": "sound",
     "content": "dk_roll_over_paa_familiespillet_0.mp3",
-    "subtitle": "Det her er Familiespillet, hvor du skal hj\u00e6lpe en familie. Men du skal kunne regne og l\u00e6se for at spille det!"
+    "subtitle": "See on Peremäng, kus sa pead aitama ühte peret. Seda mängu saad sa mängida siis, kui oskad lugeda ja natuke ka arvutada."
   },
   "speak_b_universe_room": {
     "contenttype": "sound",
     "content": "dk_roll_over_paa_eget_hus.mp3",
-    "subtitle": "Det her er dit hus, det er her du bor."
+    "subtitle": "See on sinu maja. Siin on sinu kodu."
   },
   "speak_b_universe_welcome": {
     "contenttype": "sound",
     "content": "dk_hjaelp_2.mp3",
-    "subtitle": "Her kan du se hele Pengeby. Klik p\u00e5 de steder, du gerne vil bes\u00f8ge. Hvis du gerne vil tilbage til dit v\u00e6relse, skal du klikke p\u00e5 huset, hvor du bor."
+    "subtitle": "Her kan du se hele Pengeby. Klik på de steder, du gerne vil besøge. Hvis du gerne vil tilbage til dit værelse, skal du klikke på huset, hvor du bor."
   },
   "speak_b_wishlist_opens": {
     "contenttype": "sound",
     "content": "dk_aabning_af_krukke.mp3",
-    "subtitle": "Her kan du se de ting, du sparer op til - dem du har penge nok til, kan du k\u00f8be! Der kan kun v\u00e6re tre ting i \u00f8nskekrukken. Er der nogle ting, du har penge til at k\u00f8be?"
+    "subtitle": "Siin näed kõike, mille jaoks sa raha kogud. Kui mingi asja jaoks on piisavalt raha, võid selle ära osta! Soovipurgis saab korraga olla ainult kolm asja. On seal midagi, mida saaksid juba osta?"
   },
   "speak_b_wishlist_rollover": {
     "contenttype": "sound",
     "content": "SE Borgmester 2.mp3",
-    "subtitle": "Her kan du se de ting fra Karens butik, som du gerne vil spare op til."
+    "subtitle": "Tekst mangler"
   },
   "speak_universe_farm": {
     "contenttype": "sound",
     "content": "universe_farm_76.mp3",
-    "subtitle": "Jeg har brug for din hj\u00e6lp til at fodre mine dyr. Har du lyst til at hj\u00e6lpe mig og tjene nogle penge?"
+    "subtitle": "Jeg har brug for din hjælp til at fodre mine dyr. Har du lyst til at hjælpe mig og tjene nogle penge?"
   },
   "speak_universe_karens": {
     "contenttype": "sound",
     "content": "dk_roll_over_paa_karens_butik.mp3",
-    "subtitle": "Kom over i min butik, jeg f\u00e5r hele tiden nye varer!"
+    "subtitle": "Palun tule mu poodi vaatama! Mulle tuleb kogu aeg uut kaupa."
   },
   "speak_universe_postoffice": {
     "contenttype": "sound",
     "content": "dk_roll_over_paa_postkontoret.mp3",
-    "subtitle": "Jeg har brug for din hj\u00e6lp her p\u00e5 Postkontoret! Vil du hj\u00e6lpe mig og tjene nogle penge?"
+    "subtitle": "Postkontoris läheb mul väga sinu abi vaja! Kas sa tahaksid mulle appi tulla ja natuke raha teenida?"
   },
   "speak_universe_timemachine": {
     "contenttype": "sound",
     "content": "dk_roll_over_paa_tidsmaskine.mp3",
-    "subtitle": "Det her er min Tidsmaskine - kunne du t\u00e6nke dig at pr\u00f8ve den?"
+    "subtitle": "See on minu ajamasin. Kas sa tahaksid seda proovida?"
   },
   "speak_universe_wizard": {
     "contenttype": "sound",
     "content": "dk_roll_over_paa_troldmand_klar.mp3",
-    "subtitle": "Jeg er troldmand - og jeg har en hemmelighed! Er du klar til at h\u00f8re den?"
+    "subtitle": "Mina olen Võlur - ja mul on üks saladus! Kas oled valmis seda kuulama?"
   },
   "speak_universe_wizard_not_ready": {
     "contenttype": "sound",
     "content": "dk_roll_over_paa_troldmand_ikke_klar2.mp3",
-    "subtitle": "Jeg er troldmand - og jeg har en hemmelighed! Men du skal have bes\u00f8gt alle stederne i Pengeby, f\u00f8r jeg vil fort\u00e6lle dig den."
+    "subtitle": "Jeg er troldmand - og jeg har en hemmelighed! Men du skal have besøgt alle stederne i Pengeby, før jeg vil fortælle dig den."
   },
   "monopolyAccess_calc_text": {
     "contenttype": "label",
-    "content": "For at \u00e5bne bommen skal du regne koden rigtigt ud!",
+    "content": "Et tõkkepuud üles tõsta, pead sa leidma õige koodi!",
     "subtitle": ""
   },
   "monopolyAccess_wrong_body": {
     "contenttype": "label",
-    "content": "Pr\u00f8v igen",
+    "content": "Prøv igen",
     "subtitle": ""
   },
   "monopolyAccess_wrong_header": {
@@ -112,12 +112,12 @@
   "speak_b_universe_apple": {
     "contenttype": "sound",
     "content": "dk_roll_over_paa_eblebod.mp3",
-    "subtitle": "Det her er din \u00e6blebod. Her kan du tjene penge ved at samle \u00e6bler og lave \u00e6blejuice til hele Pengeby!"
+    "subtitle": "Det her er din æblebod. Her kan du tjene penge ved at samle æbler og lave æblejuice til hele Pengeby!"
   },
   "speak_b_monopolyAccess_helpTxt": {
     "contenttype": "sound",
     "content": "dk_tryk_paa_familiespillet.mp3",
-    "subtitle": "For at komme over broen skal du regne dig frem til det rigtige tal, der \u00e5bner bommen."
+    "subtitle": "Sa saad sillast üle minna nii, et leiad õige vastuse, mis tõkkepuu üles tõstab."
   },
   "speak_b_monopolyAccess_rightCode": {
     "contenttype": "sound",
@@ -127,7 +127,7 @@
   "speak_b_monopolyAccess_wrongCode": {
     "contenttype": "sound",
     "content": "dk_tryk_paa_familiespillet_forkert.mp3",
-    "subtitle": "Det var ikke rigtigt. Pr\u00f8v igen."
+    "subtitle": "See oli vale vastus. Proovi uuesti."
   },
   "pengeby_closeSubtitles": {
     "contenttype": "label",
@@ -136,7 +136,7 @@
   },
   "pengeby_subtitlesButtonOff": {
     "contenttype": "label",
-    "content": "N\u00e4ita subtiitreid",
+    "content": "Näita subtiitreid",
     "subtitle": ""
   },
   "pengeby_subtitlesButtonOn": {

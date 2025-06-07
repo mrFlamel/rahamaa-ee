@@ -1,17 +1,17 @@
 {
   "speak_intro_1": {
     "contenttype": "label",
-    "content": "Tere tulemast Rahamaale! Mina olen siin president ja ma tahaksin sulle natuke sellest maast r\u00e4\u00e4kida. ",
+    "content": "Tere tulemast Rahamaale! Mina olen siin president ja ma tahaksin sulle natuke sellest maast rääkida. ",
     "subtitle": ""
   },
   "speak_intro_2": {
     "contenttype": "label",
-    "content": "Rahamaal saad sa teenida h\u00f5bedast ja kullast m\u00fcnte ning kasutada neid k\u00f5ikv\u00f5imalike asjade ostmiseks.",
+    "content": "Rahamaal saad sa teenida hõbedast ja kullast münte ning kasutada neid kõikvõimalike asjade ostmiseks.",
     "subtitle": ""
   },
   "speak_intro_3": {
     "contenttype": "label",
-    "content": "Esmalt peaksid otsustama, milline sa tahad v\u00e4lja n\u00e4ha. ",
+    "content": "Esmalt peaksid otsustama, milline sa tahad välja näha. ",
     "subtitle": ""
   },
   "speak_intro_4": {
@@ -21,42 +21,42 @@
   },
   "speak_intro_5": {
     "contenttype": "label",
-    "content": "K\u00f5ik, mida vajad, leiad t\u00e4di Anni imelisest poest.",
+    "content": "Kõik, mida vajad, leiad tädi Anni imelisest poest.",
     "subtitle": ""
   },
   "speak_intro_6": {
     "contenttype": "label",
-    "content": "Sa v\u00f5id kasutada oma m\u00fcnte ka selleks, et reisida P\u00f6\u00f6rase Professori ajamasinas ning m\u00e4ngida mitut p\u00f5nevat m\u00e4ngu. ",
+    "content": "Sa võid kasutada oma münte ka selleks, et reisida Pöörase Professori ajamasinas ning mängida mitut põnevat mängu. ",
     "subtitle": ""
   },
   "speak_intro_7": {
     "contenttype": "label",
-    "content": "H\u00f5bedast ja kullast m\u00fcnte teenid n\u00e4iteks nii, et aitad Postit\u00e4dil pakke sorteerida.",
+    "content": "Hõbedast ja kullast münte teenid näiteks nii, et aitad Postitädil pakke sorteerida.",
     "subtitle": ""
   },
   "speak_intro_8": {
     "contenttype": "label",
-    "content": "V\u00f5i korjad \u00f5unu ja teed neist \u00f5unamahla ning m\u00fc\u00fcd seda k\u00f5igile inimestele, kes Rahamaal elavad.",
+    "content": "Või korjad õunu ja teed neist õunamahla ning müüd seda kõigile inimestele, kes Rahamaal elavad.",
     "subtitle": ""
   },
   "speak_intro_9": {
     "contenttype": "label",
-    "content": "Ning kui aitad mul Rahamaa peav\u00e4rava ilusa v\u00e4rske v\u00e4rviga \u00fcle v\u00e4rvida, saad \u00fche kuldm\u00fcndi.",
+    "content": "Ning kui aitad mul Rahamaa peavärava ilusa värske värviga üle värvida, saad ühe kuldmündi.",
     "subtitle": ""
   },
   "speak_intro_10": {
     "contenttype": "label",
-    "content": "Kui oskad natukene arvutada ja lugeda, siis saad ka perem\u00e4ngu k\u00fclastada! Siin saad punkte selle eest, et aitad perekonda k\u00f5iges, mis aasta jooksul juhtub.",
+    "content": "Kui oskad natukene arvutada ja lugeda, siis saad ka peremängu külastada! Siin saad punkte selle eest, et aitad perekonda kõiges, mis aasta jooksul juhtub.",
     "subtitle": ""
   },
   "speak_intro_11": {
     "contenttype": "label",
-    "content": "Rahamaal elab ka V\u00f5lur, kellel on \u00fcks p\u00f5nev saladus! Meie maal on kuhugi maetud suur varandus, kus on palju kuldm\u00fcnte. Kui sul veab, siis avaldab V\u00f5lur sulle varanduse peidukoha.",
+    "content": "Rahamaal elab ka Võlur, kellel on üks põnev saladus! Meie maal on kuhugi maetud suur varandus, kus on palju kuldmünte. Kui sul veab, siis avaldab Võlur sulle varanduse peidukoha.",
     "subtitle": ""
   },
   "speak_intro_farm": {
     "contenttype": "label",
-    "content": "Samuti v\u00f5id olla talus abiks loomade toitmisel. Ning kui aitad mul Rahamaa peav\u00e4rava ilusa v\u00e4rske v\u00e4rviga \u00fcle v\u00e4rvida, saad \u00fche kuldm\u00fcndi.",
+    "content": "Samuti võid olla talus abiks loomade toitmisel. Ning kui aitad mul Rahamaa peavärava ilusa värske värviga üle värvida, saad ühe kuldmündi.",
     "subtitle": ""
   },
   "pengeby_closeSubtitles": {
@@ -66,7 +66,7 @@
   },
   "pengeby_subtitlesButtonOff": {
     "contenttype": "label",
-    "content": "N\u00e4ita subtiitreid",
+    "content": "Näita subtiitreid",
     "subtitle": ""
   },
   "pengeby_subtitlesButtonOn": {

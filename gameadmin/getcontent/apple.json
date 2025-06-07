@@ -2,37 +2,37 @@
   "speak_b_apple_done": {
     "contenttype": "sound",
     "content": "dk_afslutning_game_over.mp3",
-    "subtitle": "Sikke en masse god juice du fik lavet! Men du tabte tre \u00e6bler p\u00e5 jorden. Du kan pr\u00f8ve igen, hvis du gerne vil tjene flere penge! Har du penge nok, kan du rejse en tur med Tidsmaskinen. Det kan ogs\u00e5 v\u00e6re, at der er kommet nogle flere ting i Karens butik, du kunne t\u00e6nke dig?"
+    "subtitle": "Sikke en masse god juice du fik lavet! Men du tabte tre æbler på jorden. Du kan prøve igen, hvis du gerne vil tjene flere penge! Har du penge nok, kan du rejse en tur med Tidsmaskinen. Det kan også være, at der er kommet nogle flere ting i Karens butik, du kunne tænke dig?"
   },
   "speak_b_apple_done_no_money": {
     "contenttype": "sound",
     "content": "dk_afslutning_game_over_no_apples.mp3",
-    "subtitle": "Du tabte tre \u00e6bler p\u00e5 jorden. Du kan pr\u00f8ve igen, hvis du gerne vil tjene flere penge! Har du penge nok, kan du rejse en tur med Tidsmaskinen. Det kan ogs\u00e5 v\u00e6re, at der er kommet nogle flere ting i Karens butik, du kunne t\u00e6nke dig?"
+    "subtitle": "Du tabte tre æbler på jorden. Du kan prøve igen, hvis du gerne vil tjene flere penge! Har du penge nok, kan du rejse en tur med Tidsmaskinen. Det kan også være, at der er kommet nogle flere ting i Karens butik, du kunne tænke dig?"
   },
   "speak_b_apple_nextlevel_1": {
     "contenttype": "sound",
     "content": "dk_naeste_niveau_1.mp3",
-    "subtitle": "Det var du god til! Nu g\u00e5r det lidt hurtigere."
+    "subtitle": "Sa olid selles töös väga tubli! Nüüd läheb see natuke kiiremaks."
   },
   "speak_b_apple_nextlevel_2": {
     "contenttype": "sound",
     "content": "dk_naeste_niveau_2.mp3",
-    "subtitle": "Godt g\u00e5et! Nu g\u00e5r det endnu hurtigere."
+    "subtitle": "Väga hea! Nüüd läheb see töö veel kiiremaks."
   },
   "speak_b_apple_nextlevel_3": {
     "contenttype": "sound",
     "content": "dk_naeste_niveau_3.mp3",
-    "subtitle": "Det var flot! Nu bliver det lidt sv\u00e6rere."
+    "subtitle": "Suurepärane! Nüüd läheb see veelgi raskemaks."
   },
   "speak_b_apple_nextlevel_4": {
     "contenttype": "sound",
     "content": "dk_naeste_niveau_4.mp3",
-    "subtitle": "Hvor er du skrap! Kan du ogs\u00e5 klare n\u00e6ste omgang?"
+    "subtitle": "Selles töös oled sa tõesti asjatundja! Mis sa arvad, kas saad ka järgmise ringiga hakkama?"
   },
   "speak_b_apple_welcome": {
     "contenttype": "sound",
     "content": "dk_velkomst_og_forklaring_aeblebod.mp3",
-    "subtitle": "Velkommen til din \u00e6blebod. Her kan du tjene penge ved at lave \u00e6blejuice til folkene i Pengeby. Du skal fange \u00e6blerne, der falder ned fra det store \u00e6bletr\u00e6, inden de rammer jorden. Du m\u00e5 ikke tabe mere end tre \u00e6bler p\u00e5 jorden. Du skal bruge piletasterne p\u00e5 computeren for at l\u00f8be frem og tilbage. Hver gang du har samlet 10 \u00e6bler, tjener du penge. Er du klar til at se, hvor mange \u00e6bler du kan samle? S\u00e5 tryk p\u00e5 den gr\u00f8nne knap."
+    "subtitle": "Velkommen til din æblebod. Her kan du tjene penge ved at lave æblejuice til folkene i Pengeby. Du skal fange æblerne, der falder ned fra det store æbletræ, inden de rammer jorden. Du må ikke tabe mere end tre æbler på jorden. Du skal bruge piletasterne på computeren for at løbe frem og tilbage. Hver gang du har samlet 10 æbler, tjener du penge. Er du klar til at se, hvor mange æbler du kan samle? Så tryk på den grønne knap."
   },
   "apple_apple_caught": {
     "contenttype": "sound",
