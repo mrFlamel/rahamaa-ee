@@ -2,22 +2,22 @@
   "monopoly_add_point0": {
     "contenttype": "sound",
     "content": "dk_diverse_speaks_3_0.mp3",
-    "subtitle": "Du har penge nok, så du får et point"
+    "subtitle": "Sa teenid punkti juurde selle eest, et oled pere rahaasju väga hästi korraldanud."
   },
   "monopoly_add_point1": {
     "contenttype": "sound",
     "content": "dk_diverse_speaks_4_0.mp3",
-    "subtitle": "Du får et point, fordi du har penge nok"
+    "subtitle": "Sa teenid punkti juurde selle eest, et oled pere rahaasju väga hästi korraldanud."
   },
   "monopoly_withdraw_point": {
     "contenttype": "sound",
     "content": "dk_diverse_speaks_2_0.mp3",
-    "subtitle": "Du har ikke penge nok, så du får trukket et point"
+    "subtitle": "Perel ei ole piisavalt raha, nii et sa kaotad ühe punkti."
   },
   "speak_b_monopoly_bank_move": {
     "contenttype": "sound",
     "content": "dk_roll_over_speak_paa_flytte_hus_ikon.mp3",
-    "subtitle": "Her kan du flytte til et andet hus og skifte familiens transportmiddel og kæledyr. Men det koster penge at gøre det!"
+    "subtitle": "Siin saad sa kolida teise majja, hankida perele uue sõiduvahendi või lemmiklooma. Aga pea meeles, et see  maksab raha!"
   },
   "speak_b_monopoly_budgetView": {
     "contenttype": "sound",
@@ -37,17 +37,17 @@
   "speak_b_monopoly_event_gotMoney0": {
     "contenttype": "sound",
     "content": "dk_diverse_speaks_3.mp3",
-    "subtitle": "Du har penge nok, så du får et point"
+    "subtitle": "Sa teenid punkti juurde selle eest, et oled pere rahaasju väga hästi korraldanud."
   },
   "speak_b_monopoly_event_gotMoney1": {
     "contenttype": "sound",
     "content": "dk_diverse_speaks_4.mp3",
-    "subtitle": "Du får et point, fordi du har penge nok"
+    "subtitle": "Sa teenid punkti juurde selle eest, et oled pere rahaasju väga hästi korraldanud."
   },
   "speak_b_monopoly_event_noMoney": {
     "contenttype": "sound",
     "content": "dk_diverse_speaks_2.mp3",
-    "subtitle": "Du har ikke penge nok, så du får trukket et point"
+    "subtitle": "Perel ei ole piisavalt raha, nii et sa kaotad ühe punkti."
   },
   "speak_b_monopoly_gameOver": {
     "contenttype": "sound",
@@ -62,12 +62,12 @@
   "speak_b_monopoly_newYearsEve_helptxt": {
     "contenttype": "sound",
     "content": "dk_aarsafslutning.mp3",
-    "subtitle": "Så er året gået - og dét skal fejres med en stor fest! Nu kan du bruge de sidste af de penge, du har sparet op. Klik på de ting, du gerne vil købe til festen!"
+    "subtitle": "Käes on aastalõpp ja seda tuleb tähistada suure peoga! Nüüd võid sa ära kulutada kogu raha, mis aasta jooksul kõrvale pandud. Lohista need asjad, mida sa peo jaoks osta tahad, laua peale."
   },
   "speak_b_monopoly_next_month1": {
     "contenttype": "sound",
     "content": "dk_maanedskift_1.mp3",
-    "subtitle": "Når du vil gå til næste måned, så klik på den grønne knap."
+    "subtitle": "Kui tahad järgmisse kuusse edasi minna, puuduta rohelist nuppu!"
   },
   "speak_b_monopoly_next_month2": {
     "contenttype": "sound",
@@ -87,17 +87,17 @@
   "speak_b_monopoly_saveUpMoney_noMoney": {
     "contenttype": "sound",
     "content": "dk_visning_af_opsparing_2.mp3",
-    "subtitle": "Der er ikke nogle penge. Derfor kan du ikke spare op lige nu."
+    "subtitle": "Sul ei ole raha alles. Sa ei saa praegu midagi kõrvale panna."
   },
   "speak_b_monopoly_summerHoliday_helpTxt": {
     "contenttype": "sound",
     "content": "dk_sommerferie.mp3",
-    "subtitle": "Nu skal familien rejse på sommerferie! Hvor synes du, at rejsen skal gå til? Klik på den grønne knap på det sted, hvor du vil hen. Husk at du skal have sparet nok penge op til rejsen."
+    "subtitle": "Perel on käes suvepuhkuse aeg! Mis sa arvad, kuhu nad peaksid reisima? Puuduta rohelist nuppu, et valida koht, kuhu pere sõidab. Pea meeles, et sul peab olema reisi jaoks piisavalt raha kogutud."
   },
   "speak_b_monopoly_summerHoliday_moveOn": {
     "contenttype": "sound",
     "content": "dk_diverse_speaks_5.mp3",
-    "subtitle": "Så er sommerferien slut. Hvordan klarede du dig? Klik på den grønne knap for at fortsætte spillet."
+    "subtitle": "Suvepuhkus on läbi. Kuidas perel läks? Mängu jätkamiseks puuduta rohelist nuppu."
   },
   "speak_b_monopoly_toolbar_point": {
     "contenttype": "sound",
@@ -156,7 +156,7 @@
   },
   "monopoly_bank_mechanic": {
     "contenttype": "label",
-    "content": "MEKANIKER Du vedligeholdte ikke transportmidlet",
+    "content": "Mehaanik Sa unustasid oma sõiduki eest hoolitseda",
     "subtitle": ""
   },
   "monopoly_bank_pet": {
@@ -166,12 +166,12 @@
   },
   "monopoly_bank_petdoctor": {
     "contenttype": "label",
-    "content": " Dyrlæge  Du glemte at give kæledyret mad",
+    "content": " Loomaarst  Sa unustasid oma lemmiklooma toita",
     "subtitle": ""
   },
   "monopoly_bank_savings": {
     "contenttype": "label",
-    "content": "SPAR OP TIL SOMMERFERIE OG NYTÅR!",
+    "content": "KORJA RAHA SUVEPUHKUSEKS JA AASTALÕPUPEOKS",
     "subtitle": ""
   },
   "monopoly_bank_transaction": {
@@ -206,7 +206,7 @@
   },
   "monopoly_highscore_small_header": {
     "contenttype": "label",
-    "content": "Din score =",
+    "content": "Sinu Punktisumma =",
     "subtitle": ""
   },
   "monopoly_highscore_veiw_highscore": {
@@ -221,7 +221,7 @@
   },
   "monopoly_highscore_your_best_score": {
     "contenttype": "label",
-    "content": "Din bedste score =",
+    "content": "Sinu parim tulemus =",
     "subtitle": ""
   },
   "monopoly_highscore_your_score": {
@@ -266,12 +266,12 @@
   },
   "monopoly_startup_enter_name": {
     "contenttype": "label",
-    "content": "skriv navn",
+    "content": "nimi",
     "subtitle": ""
   },
   "monopoly_startup_family_label_adults": {
     "contenttype": "label",
-    "content": "VOKSNE (Max 2)",
+    "content": "TÄISKASVANUD (MAX 2)",
     "subtitle": ""
   },
   "monopoly_startup_family_label_boys": {
@@ -281,7 +281,7 @@
   },
   "monopoly_startup_family_label_children": {
     "contenttype": "label",
-    "content": "BøRN (Max 6)",
+    "content": "LAPSED (MAX 6)",
     "subtitle": ""
   },
   "monopoly_startup_family_label_girls": {
@@ -326,7 +326,7 @@
   },
   "monopoly_startup_items_label_expences": {
     "contenttype": "label",
-    "content": "UDGIFTER",
+    "content": "KULUTUSED",
     "subtitle": ""
   },
   "monopoly_startup_items_label_farm": {
@@ -336,7 +336,7 @@
   },
   "monopoly_startup_items_label_fee": {
     "contenttype": "label",
-    "content": "GEBYR",
+    "content": "TEENUSTASU",
     "subtitle": ""
   },
   "monopoly_startup_items_label_house": {
@@ -351,27 +351,27 @@
   },
   "monopoly_startup_items_label_name": {
     "contenttype": "label",
-    "content": "NAVN",
+    "content": "NIMI",
     "subtitle": ""
   },
   "monopoly_startup_items_label_pet": {
     "contenttype": "label",
-    "content": "KæLEDYR",
+    "content": "LEMMIKLOOMAD",
     "subtitle": ""
   },
   "monopoly_startup_items_label_place": {
     "contenttype": "label",
-    "content": "STED",
+    "content": "ASUKOHT",
     "subtitle": ""
   },
   "monopoly_startup_items_label_residence": {
     "contenttype": "label",
-    "content": "BOLIG",
+    "content": "KODU",
     "subtitle": ""
   },
   "monopoly_startup_items_label_revenue": {
     "contenttype": "label",
-    "content": "TILBAGE",
+    "content": "ÜLEJÄÄK",
     "subtitle": ""
   },
   "monopoly_startup_items_label_rowhouse": {
@@ -381,17 +381,17 @@
   },
   "monopoly_startup_items_label_transport": {
     "contenttype": "label",
-    "content": "TRANSPORTmiddel",
+    "content": "TRANSPORT",
     "subtitle": ""
   },
   "monopoly_startup_toolbar_family": {
     "contenttype": "label",
-    "content": "LAV EN FAMILIE Din familie skal minimum bestå af én voksen og ét barn. Når du har valgt en figur, skal du give den et navn.",
+    "content": "LOO PEREKOND Peres peab olema vähemalt üks täiskasvanu ja üks laps. Kui oled mõne tegelase välja valinud, pead talle panema ka nime.",
     "subtitle": ""
   },
   "monopoly_startup_toolbar_items": {
     "contenttype": "label",
-    "content": "FAMILIENS UDGIFTER Her skal du vælge, hvor din familie skal bo, hvordan de skal komme rundt til familie og venner og hvilket kæledyr de skal have. Ovre til højre kan du se, hvor meget familien tjener, og hvad de forskellige ting koster.",
+    "content": "PEREKONNA KULUTUSED Siin tuleb sul valida oma perele kodu, samuti sõiduk, millega nad sugulasi ja sõpru külastavad, ning  lemmikloomad. Paremal pool näed sa seda, kui palju see pere raha teenib  ja kui palju erinevad asjad maksavad.",
     "subtitle": ""
   },
   "monopoly_summer_africa": {
@@ -401,7 +401,7 @@
   },
   "monopoly_summer_antarctic": {
     "contenttype": "label",
-    "content": "Antarktisk",
+    "content": "Antarktika",
     "subtitle": ""
   },
   "monopoly_summer_asia": {
@@ -868,7 +868,7 @@
     "person": "all",
     "facteventmoney": "",
     "facteventsatisfaction": "",
-    "consequence1title": "Få en glarmester til at sætte en ny vinduesrude i til 8 sølvmønter",
+    "consequence1title": "Palkad remondimehe, kes paneb ette uue akna, mis maksab 8 hõbemünti.",
     "consequence1text": "Glarmesteren skulle også have 1 guldmønt og 6 sølvmønter i løn og 4 sølvmønter for at køre ud til familien",
     "consequence1money": "-28",
     "consequence2title": "Købe en ny rude til 8 sølvmønter og selv reparere vinduet",
@@ -922,7 +922,7 @@
     "person": "all",
     "facteventmoney": "",
     "facteventsatisfaction": "",
-    "consequence1title": "Ringe efter en ambulance",
+    "consequence1title": "Kutsud kiirabi.",
     "consequence1text": "Ambulancen kom med det samme og kørte <name> på sygehuset. Der var heldigvis ikke sket noget alvorligt",
     "consequence1money": "",
     "consequence2title": "Give <name> nogle hovedpinepiller",
@@ -940,7 +940,7 @@
     "person": "all",
     "facteventmoney": "",
     "facteventsatisfaction": "",
-    "consequence1title": "Takke ja til invitationen og købe en fin gave til 1 guldmønt og 5 sølvmønter",
+    "consequence1title": "Võtad kutse vastu ning ostad kena kingituse, mis maksab 1 kuldmündi ja 5 hõbemünti.",
     "consequence1text": "Familien tog toget over til fødselsdagen. Turen kostede i alt 1 guldmønt",
     "consequence1money": "-25",
     "consequence2title": "Melde afbud for at kunne spare de 1 guldmønt og 5 sølvmønter til gaven",
@@ -976,7 +976,7 @@
     "person": "all",
     "facteventmoney": "",
     "facteventsatisfaction": "",
-    "consequence1title": "Holde op med at se fjernsyn",
+    "consequence1title": "Ei vaata enam telerit.",
     "consequence1text": "Familien skal ikke længere betale 1 guldmønt i tv-licens",
     "consequence1money": "10",
     "consequence2title": "Købe et andet fjernsyn til 2 guldmønter og få det bragt ud",
@@ -1030,7 +1030,7 @@
     "person": "all",
     "facteventmoney": "",
     "facteventsatisfaction": "",
-    "consequence1title": "Få <name> til tandlægen med det samme, så tænderne kan blive repareret. Det koster 1 guldmønt og 5 sølvmønter for hver tand",
+    "consequence1title": "<name> peab otsekohe hambaarsti juurde minema ja hambad ära parandada laskma. Kummagi hamba parandus läheb maksma 1 kuldmündi ja 5 hõbemünti.",
     "consequence1text": "Der var heldigvis julerabat på 5 sølvmønter for hver tand",
     "consequence1money": "-20",
     "consequence2title": "Få fortænderne lavet hos en billigere tandlæge i udlandet, hvor det kun koster 1 guldmønt for hver tand",
@@ -1066,7 +1066,7 @@
     "person": "all",
     "facteventmoney": "",
     "facteventsatisfaction": "",
-    "consequence1title": "Sætte 2 træplader op i stedet for. Hver træplade koster 5 sølvmønter",
+    "consequence1title": "Paned akende asemele kaks puuplaati, mis kumbki maksavad 5 hõbemünti.",
     "consequence1text": "Træpladerne var ikke så gode til at holde på varmen. Det kostede familien 2 guldmønter ekstra på varmeregningen",
     "consequence1money": "-20",
     "consequence2title": "Købe to nye ruder til 1 guldmønt pr. stk.",
@@ -1084,7 +1084,7 @@
     "person": "all",
     "facteventmoney": "",
     "facteventsatisfaction": "",
-    "consequence1title": "Smide gæsten ud",
+    "consequence1title": "Viskad külalise majast välja.",
     "consequence1text": "Gæsten blev så ked af det, at hun kom til at tabe et glas mere på gulvet. De to nye glas kostede i alt 2 guldmønter og 2 sølvmønter",
     "consequence1money": "-22",
     "consequence2title": "Bede gæsten om at købe et nyt glas",
@@ -1102,7 +1102,7 @@
     "person": "all",
     "facteventmoney": "",
     "facteventsatisfaction": "",
-    "consequence1title": "Ã…bne døren til badeværelset, så vandet kan løbe ud",
+    "consequence1title": "Avad vannitoa ukse, et vesi välja voolaks.",
     "consequence1text": "Vandet løb ud på et dyrt gulvtæppe, der derfor måtte sendes til rensning. Det kostede 4 guldmønter",
     "consequence1money": "-40",
     "consequence2title": "Ringe til en blikkenslager",
@@ -1120,7 +1120,7 @@
     "person": "all",
     "facteventmoney": "",
     "facteventsatisfaction": "",
-    "consequence1title": "Lade som ingenting. Det dukker vel nok op",
+    "consequence1title": "Mitte midagi. Küllap ilmub see varsti jälle välja.",
     "consequence1text": "Familien modtog flere rykkere fra biblioteket og en bøde på i alt 1 guldmønt og 2 sølvmønter",
     "consequence1money": "-12",
     "consequence2title": "Få afleveret bogen i en fart, selvom det stadig koster et rykkergebyr",
@@ -1138,7 +1138,7 @@
     "person": "all",
     "facteventmoney": "",
     "facteventsatisfaction": "",
-    "consequence1title": "Slå et vindue i stykker, så <name> kan kravle ind",
+    "consequence1title": "Teed akna katki, et <name> saaks sisse  pugeda.",
     "consequence1text": "<name> fandt det mindste vindue og kom ind, men det kostede 2 guldmønter og 4 sølvmønter at få en ny rude",
     "consequence1money": "-24",
     "consequence2title": "Ringe efter låsesmeden, så han kunne komme og låse døren op",
@@ -1156,7 +1156,7 @@
     "person": "all",
     "facteventmoney": "",
     "facteventsatisfaction": "",
-    "consequence1title": "Smide alle havemøblerne ud og købe nogle nye, der er lige så gode",
+    "consequence1title": "Viskad kogu aiamööbli välja ja ostad uue, sama hea mööbli.",
     "consequence1text": "De nye havemøbler kostede 2 guldmønter og 2 sølvmønter",
     "consequence1money": "-22",
     "consequence2title": "Købe nogle billigere havemøbler, der dog ikke er så stabile",
@@ -1174,7 +1174,7 @@
     "person": "all",
     "facteventmoney": "",
     "facteventsatisfaction": "",
-    "consequence1title": "Købe den mindste kabel-tv pakke, der ikke kan vise så mange kanaler. Til gengæld koster den kun 5 sølvmønter",
+    "consequence1title": "Ostad kõige väiksema kaabeltelevisiooni paketi, kus ei ole väga palju kanaleid. Teisest küljest maksab see ainult 5 hõbemünti.",
     "consequence1text": "Familien blev glade for de nye tv-kanaler",
     "consequence1money": "-5",
     "consequence2title": "Købe den allerstørste kabel-tv pakke, der kan vise flest kanaler. Den koster 2 guldmønter",
@@ -1210,7 +1210,7 @@
     "person": "all",
     "facteventmoney": "",
     "facteventsatisfaction": "",
-    "consequence1title": "Leje et klaver til 5 sølvmønter",
+    "consequence1title": "Rendid klaveri 5 hõbemündi eest kuus.",
     "consequence1text": "<name> skulle leje klaveret i mindst 6 måneder, men blev rigtig god til at spille på det",
     "consequence1money": "-30",
     "consequence2title": "Købe et klaver til 2 guldmønter",
@@ -1228,7 +1228,7 @@
     "person": "all",
     "facteventmoney": "",
     "facteventsatisfaction": "",
-    "consequence1title": "<name> må klare sig uden briller i fremtiden",
+    "consequence1title": "<name> peab nüüd ilma prillideta hakkama saama.",
     "consequence1text": "<name> kom til at slå ting i stykker for 1 guldmønt, fordi det var svært at se ordentligt Â ",
     "consequence1money": "-10",
     "consequence2title": "Få brilleglassene skiftet ud med nogle nye. Hvert glas koster 7 sølvmønter",
@@ -1264,7 +1264,7 @@
     "person": "all",
     "facteventmoney": "",
     "facteventsatisfaction": "",
-    "consequence1title": "Sende cyklen til reparation. Det kostede 1 guldmønt og 7 sølvmønter at få den til at køre igen",
+    "consequence1title": "Saadad jalgratta töökotta parandusse. Remont läheb maksma 1 kuldmündi ja 7 hõbemünti.",
     "consequence1text": "Cyklen blev så god som ny",
     "consequence1money": "-17",
     "consequence2title": "Få bilisten til at betale for, at cyklen bliver repareret",
@@ -1282,7 +1282,7 @@
     "person": "all",
     "facteventmoney": "",
     "facteventsatisfaction": "",
-    "consequence1title": "Forsøge at fange lopperne",
+    "consequence1title": "Proovid ise kirbud kätte saada.",
     "consequence1text": "Det var helt umuligt. I forsøget faldt <name> over en stor potteplante, så den gik i stykker. Den kostede 1 guldmønt og 5 sølvmønter",
     "consequence1money": "-15",
     "consequence2title": "Gå til dyrlægen for at få hjælp, selvom det koster 2 guldmønter og 3 sølvmønter",
@@ -1300,7 +1300,7 @@
     "person": "all",
     "facteventmoney": "",
     "facteventsatisfaction": "",
-    "consequence1title": "Lade som ingenting. Det dukker vel nok op",
+    "consequence1title": "Mitte midagi. Küllap ilmub see varsti jälle välja.",
     "consequence1text": "Familien opdagede, at hævekortet ikke bare var forsvundet. Det var blevet stjålet. Tyven havde brugt kortet, og det kom til at koste familien 1 guldmønt og 5 sølvmønter",
     "consequence1money": "-15",
     "consequence2title": "Bede alle i familien om at lede i hele huset, indtil hævekortet er fundet",
@@ -1318,7 +1318,7 @@
     "person": "all",
     "facteventmoney": "",
     "facteventsatisfaction": "",
-    "consequence1title": "Håbe at den løber over til naboen",
+    "consequence1title": "Loodad, et hiir kolib varsti naabermajja.",
     "consequence1text": "Det gjorde den faktisk. Så der var familien heldige",
     "consequence1money": "0",
     "consequence2title": "Købe en musefælde til 1 guldmønt",
@@ -1336,7 +1336,7 @@
     "person": "all",
     "facteventmoney": "",
     "facteventsatisfaction": "",
-    "consequence1title": "Købe en ny computer med det samme, så familien ikke skal undvære en computer for længe. Den koster dog 3 guldmønter",
+    "consequence1title": "Ostad otsekohe uue arvuti, et pere ei peaks liiga kaua ilma arvutita olema. Uus arvuti maksab 3 kuldmünti.",
     "consequence1text": "Computeren var dyr, men til gengæld sparede den strøm. Derfor faldt el-regningen med 1 guldmønt",
     "consequence1money": "-20",
     "consequence2title": "Leje en ny computer. Det koster 4 sølvmønter hver måned i 6 måneder",
@@ -1354,7 +1354,7 @@
     "person": "all",
     "facteventmoney": "",
     "facteventsatisfaction": "",
-    "consequence1title": "Give <name> plaster på. Et plaster koster 1 sølvmønt",
+    "consequence1title": "<name> saab plaastri, mis maksab 1 hõbemündi.",
     "consequence1text": "Plasteret skulle skiftes hver dag i en uge",
     "consequence1money": "-7",
     "consequence2title": "Sætte ny pære i lampen til 2 sølvmønter",
@@ -1390,7 +1390,7 @@
     "person": "all",
     "facteventmoney": "",
     "facteventsatisfaction": "",
-    "consequence1title": "Holde op med at printe derhjemme",
+    "consequence1title": "Ei prindi kodus enam midagi.",
     "consequence1text": "Fordi familien ikke selv kunne printe mere, måtte de gå på biblioteket, hver gang de skulle printe. Det kostede 1 sølvmønt pr. side. Hver måned printede familien 9 sider",
     "consequence1money": "-9",
     "consequence2title": "Få printeren sendt til reparation i en computerforretning. Det koster 4 sølvmønter for en reservedel og 2 sølvmønter til forretningen",
@@ -1408,7 +1408,7 @@
     "person": "all",
     "facteventmoney": "",
     "facteventsatisfaction": "",
-    "consequence1title": "Bede <name> om at spare sammen til rideudstyret",
+    "consequence1title": "Palud, et <name> koguks ratsutamisvarustuse jaoks raha.",
     "consequence1text": "<name> sparede 2 guldmønter op",
     "consequence1money": "20",
     "consequence2title": "Overtale <name> til at vælge en anden sport, der ikke er så dyr",
@@ -1426,7 +1426,7 @@
     "person": "all",
     "facteventmoney": "",
     "facteventsatisfaction": "",
-    "consequence1title": "Holde op med at kigge i spejlet",
+    "consequence1title": "Ei vaata enam peeglisse.",
     "consequence1text": "Det betød, at <name> gik på arbejde med uglet hår og tandpasta på kinden. <name> blev derfor sendt hjem igen i en taxa. Det kostede 8 sølvmønter",
     "consequence1money": "-8",
     "consequence2title": "Prøve at lime spejlet sammen igen med en stærk lim til 4 sølvmønter",
@@ -1444,7 +1444,7 @@
     "person": "all",
     "facteventmoney": "",
     "facteventsatisfaction": "",
-    "consequence1title": "Købe en helt ny dør til 3 guldmønter",
+    "consequence1title": "Ostad 3 kuldmündi eest terve uue ukse.",
     "consequence1text": "Den nye dør viste sig at være bedre end den gamle. Den var så god til at holde på varmen, at familien sparede 1 guldmønt på varmeregningen",
     "consequence1money": "-20",
     "consequence2title": "Sætte en plade på i stedet for en ny rude. Pladen koster 3 sølvmønter, og sømmene koster 1 sølvmønt",
@@ -1462,7 +1462,7 @@
     "person": "all",
     "facteventmoney": "",
     "facteventsatisfaction": "",
-    "consequence1title": "Invitere en masse gæster, så de kan spise al den optøede mad",
+    "consequence1title": "Kutsud külla hulga sõpru, et ülessulanud toit üheskoos ära süüa.",
     "consequence1text": "Familien måtte ud og købe drikkevarer til alle gæsterne for 1 guldmønt og 6 sølvmønter. Til gengæld havde de en festlig aften",
     "consequence1money": "-16",
     "consequence2title": "Fryse den optøede mad ned igen",
@@ -1480,7 +1480,7 @@
     "person": "all",
     "facteventmoney": "",
     "facteventsatisfaction": "",
-    "consequence1title": "Fiske mobilen op igen med det samme og tørre den godt med et håndklæde",
+    "consequence1title": "Püüad mobiiltelefoni WC-potist välja ja kuivatad selle rätikuga ära.",
     "consequence1text": "Mobilen kunne ikke tåle vand, og det hjalp ikke at tørre den. Mobilen var derfor ødelagt, og <name> måtte købe en ny til 2 guldmønter",
     "consequence1money": "-20",
     "consequence2title": "Bede <name> om at spare sammen til en ny",
@@ -1498,7 +1498,7 @@
     "person": "all",
     "facteventmoney": "",
     "facteventsatisfaction": "",
-    "consequence1title": "Lime tapetet op igen med en lim til 2 sølvmønter",
+    "consequence1title": "Liimid tapeedi seina tagasi. Kasutad selleks liimi, mis maksab 2 hõbemünti.",
     "consequence1text": "Det holdt heldigvis rigtig godt og længe",
     "consequence1money": "-2",
     "consequence2title": "Tage det ødelagte tapet ned og håbe på, at man stadigvæk kan købe mere af det samme tapet igen",
@@ -1516,7 +1516,7 @@
     "person": "all",
     "facteventmoney": "",
     "facteventsatisfaction": "",
-    "consequence1title": "Grave et hul i jorden",
+    "consequence1title": "Kaevad maa sisse augu.",
     "consequence1text": "Ingen i familien ville grave, så de måtte købe et nyt toilet til 2 guldmønter",
     "consequence1money": "-20",
     "consequence2title": "Lime toilettet sammen med lim til 6 sølvmønter",
@@ -1534,7 +1534,7 @@
     "person": "all",
     "facteventmoney": "",
     "facteventsatisfaction": "",
-    "consequence1title": "Tage chancen og prøve at komme med bussen alligevel",
+    "consequence1title": "Ta peaks proovima, äkki saab ta bussiga sõita ka ilma piletita.",
     "consequence1text": "Det gik ikke så godt. Buskontrolløren kom forbi og gav en bøde på 2 guldmønter",
     "consequence1money": "-20",
     "consequence2title": "Gå hjem, selvom der er lidt langt",
@@ -1552,7 +1552,7 @@
     "person": "all",
     "facteventmoney": "",
     "facteventsatisfaction": "",
-    "consequence1title": "Lave mad på bål i haven",
+    "consequence1title": "Teed süüa õues lõkke peal.",
     "consequence1text": "Det var forbudt at tænde bål, der hvor familien boede, så familien fik en bøde på 2 guldmønter",
     "consequence1money": "-20",
     "consequence2title": "Spise kold mad i lang tid",
@@ -1570,7 +1570,7 @@
     "person": "all",
     "facteventmoney": "",
     "facteventsatisfaction": "",
-    "consequence1title": "Hele familien må tage varmt tøj på. Der kan ikke gøres noget lige nu",
+    "consequence1title": "Kogu pere peab hästi soojad riided selga panema. Midagi muud ei saa praegu teha.",
     "consequence1text": "Det blev en lang vinter, hvor alle gik med meget tøj på. Familien sparede dog 3 guldmønter på varmeregningen",
     "consequence1money": "30",
     "consequence2title": "Prøve selv at reparere skaden",
@@ -1588,7 +1588,7 @@
     "person": "all",
     "facteventmoney": "",
     "facteventsatisfaction": "",
-    "consequence1title": "Stille computeren over på en radiator, så den kan tørre",
+    "consequence1title": "Paned arvuti radiaatori peale kuivama.",
     "consequence1text": "Det virkede desværre ikke. Computeren måtte sendes til reparation. Det kostede 2 guldmønter",
     "consequence1money": "-20",
     "consequence2title": "Lukke for vinduet og vente med at bruge computeren til den er helt tør",
@@ -1606,7 +1606,7 @@
     "person": "all",
     "facteventmoney": "",
     "facteventsatisfaction": "",
-    "consequence1title": "Få bukserne lappet og plaster på knæet",
+    "consequence1title": "Parandad püksid ära ja paned põlvele  plaastri.",
     "consequence1text": "Familien fandt en gratis lap og et plaster til 1 sølvmønt",
     "consequence1money": "-1",
     "consequence2title": "Købe et par nye bukser magen til dem, der gik i stykker. De kostede 1 guldmønt og 6 sølvmønter",
@@ -1624,7 +1624,7 @@
     "person": "all",
     "facteventmoney": "",
     "facteventsatisfaction": "",
-    "consequence1title": "Købe en brugt vaskemaskine til 2 guldmønter og 1 sølvmønt",
+    "consequence1title": "Ostad 2 kuldmündi ja 1 hõbemündi eest kasutatud pesumasina.",
     "consequence1text": "Den brugte vaskemaskine viste sig at være rigtig god og holde længe",
     "consequence1money": "-21",
     "consequence2title": "Købe en ny vaskemaskine til 3 guldmønter",

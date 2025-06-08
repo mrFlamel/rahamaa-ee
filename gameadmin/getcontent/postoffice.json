@@ -2,32 +2,32 @@
   "speak_b_postoffice_welcome": {
     "contenttype": "sound",
     "content": "dk_velkomst_og_forklaring_postkontoret.mp3",
-    "subtitle": "Velkommen til postkontoret. Her skal du hj\u00e6lpe Postmesteren med at sortere pakkerne, der skal leveres i Pengeby! De dyreste pakker skal ud f\u00f8rst, og de billigste pakker skal ud til sidst. Du skal bruge musen og tr\u00e6kke de rigtige pakker op i de rigtige bakker; de dyreste skal st\u00e5 til venstre og de billigste skal st\u00e5 til h\u00f8jre. N\u00e5r du er klar, s\u00e5 tryk p\u00e5 den gr\u00f8nne knap!"
+    "subtitle": "Tere tulemast postkontorisse! Siin saad aidata postitädil Rahamaa elanikele saadetud pakke sorteerida. Kõige kallimad pakid peavad kohale jõudma esimesena ja kõige odavamad viimasena. Lohista pakid õigetesse    kastikestesse - kõige kallimad tuleb asetada vasakule ja kõige odavamad paremale. Kui oled kõik ära jaganud, puuduta rohelist nuppu."
   },
   "speak_postoffice_correct_1": {
     "contenttype": "sound",
     "content": "pengeby_det_er_du_god_til.mp3",
-    "subtitle": "Det er du god til!"
+    "subtitle": "Seda oskad sa hästi!"
   },
   "speak_postoffice_correct_2": {
     "contenttype": "sound",
     "content": "pengeby_godt_gaaet.mp3",
-    "subtitle": "Godt g\u00e5et!"
+    "subtitle": "Väga hea!"
   },
   "speak_postoffice_correct_3": {
     "contenttype": "sound",
     "content": "pengeby_nu_bliver_det_lidt.mp3",
-    "subtitle": "Nu bliver det lidt sv\u00e6rere. Er du klar?"
+    "subtitle": "Nüüd läheb see töö pisut keerulisemaks - kas oled valmis?"
   },
   "speak_postoffice_correct_4": {
     "contenttype": "sound",
     "content": "dk_rigtig_loesning_naeste_bane_2.mp3",
-    "subtitle": "Det er du god til! Nu bliver det lidt sv\u00e6rere."
+    "subtitle": "Väga hea! Nüüd läheb see töö pisut keerulisemaks."
   },
   "speak_postoffice_done": {
     "contenttype": "sound",
     "content": "dk_afslutning_og_resultat.mp3",
-    "subtitle": "Tusind tak for hj\u00e6lpen - det var du god til! Som tak for hj\u00e6lpen f\u00e5r du her nogle penge, som du kan bruge i Karens butik eller Tidsmaskinen. Du kan ogs\u00e5 hj\u00e6lpe mig igen, hvis du har lyst?"
+    "subtitle": "Suur-suur tänu sulle abi eest - sa olid tõesti tubli! Tänuks töö eest annan sulle natuke raha, mida sa võid kulutada tädi Anni poes või ajamasinas. Kui soovid, võid mind ka uuesti aidata!"
   },
   "postoffice_error": {
     "contenttype": "sound",
