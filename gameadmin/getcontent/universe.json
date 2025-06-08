@@ -62,7 +62,7 @@
   "speak_b_wishlist_rollover": {
     "contenttype": "sound",
     "content": "SE Borgmester 2.mp3",
-    "subtitle": "Tekst mangler"
+    "subtitle": "Her kan du se de ting fra Karens butik, som du gerne vil spare op til."
   },
   "speak_universe_farm": {
     "contenttype": "sound",
@@ -136,7 +136,7 @@
   },
   "pengeby_subtitlesButtonOff": {
     "contenttype": "label",
-    "content": "Näita subtiitreid",
+    "content": "Subtiitrid",
     "subtitle": ""
   },
   "pengeby_subtitlesButtonOn": {
@@ -146,7 +146,7 @@
   },
   "pengeby_yourName": {
     "contenttype": "label",
-    "content": "Sisesta oma nimi",
+    "content": "Sinu nimi",
     "subtitle": ""
   },
   "pengeby_bank_addCash": {
