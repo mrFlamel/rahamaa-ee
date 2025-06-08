@@ -11,7 +11,7 @@
   },
   "monopoly_withdraw_point": {
     "contenttype": "sound",
-    "content": "dk_diverse_speaks_2_0.mp3",
+    "content": "estonian/fam29.mp3",
     "subtitle": "Perel ei ole piisavalt raha, nii et sa kaotad ühe punkti."
   },
   "speak_b_monopoly_bank_move": {
@@ -66,12 +66,12 @@
   },
   "speak_b_monopoly_next_month1": {
     "contenttype": "sound",
-    "content": "dk_maanedskift_1.mp3",
+    "content": "estonian/fam20.mp3",
     "subtitle": "Kui tahad järgmisse kuusse edasi minna, puuduta rohelist nuppu!"
   },
   "speak_b_monopoly_next_month2": {
     "contenttype": "sound",
-    "content": "dk_maanedskift_2.mp3",
+    "content": "estonian/fam21.mp3",
     "subtitle": "Kas oled järgmiseks kuuks valmis? Siis puuduta rohelist nuppu."
   },
   "speak_b_monopoly_rollOver_bank": {
@@ -112,7 +112,7 @@
   "speak_b_monopoly_velkomst_og_forklaring": {
     "contenttype": "sound",
     "content": "estonian/fam06.mp3",
-    "subtitle": "Tere tulemast Peremängu! Siin pead sa aitama ühel perel maksta kõigi asjade eest, mida nad aasta jooksul teevad. Sul peab meeles olema ka see, et tuleb hoolitseda   perekonna lemmiklooma ja sõiduki eest, et nad saaksid ringi sõita ning sugulasi ja sõpru külastada. Kui sa teed seda kõike hästi, teenid sa selle eest punkte! Aga pea meeles - oluline on ka raha kõrvale panna, et pere saaks minna suvel puhkusele ning pidada aasta lõpus ühe toreda peo. Alustamiseks puuduta rohelist nuppu."
+    "subtitle": "Tere tulemast Peremängu! Siin pead sa aitama ühel perel maksta kõigi asjade eest, mida nad aasta jooksul teevad. Sul peab meeles olema ka see, et tuleb hoolitseda perekonna lemmiklooma ja sõiduki eest, et nad saaksid ringi sõita ning sugulasi ja sõpru külastada. Kui sa teed seda kõike hästi, teenid sa selle eest punkte! Aga pea meeles - oluline on ka raha kõrvale panna, et pere saaks minna suvel puhkusele ning pidada aasta lõpus ühe toreda peo. Alustamiseks puuduta rohelist nuppu."
   },
   "speak_b_monopoly_velkomst_og_forklaring_hentSpil": {
     "contenttype": "sound",

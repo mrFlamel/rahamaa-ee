@@ -41,7 +41,7 @@
   },
   "speak_b_universe_monopolyAccess": {
     "contenttype": "sound",
-    "content": "dk_roll_over_paa_familiespillet_0.mp3",
+    "content": "estonian/fam02.mp3",
     "subtitle": "See on Peremäng, kus sa pead aitama ühte peret. Seda mängu saad sa mängida siis, kui oskad lugeda ja natuke ka arvutada."
   },
   "speak_b_universe_room": {
@@ -116,17 +116,17 @@
   },
   "speak_b_monopolyAccess_helpTxt": {
     "contenttype": "sound",
-    "content": "dk_tryk_paa_familiespillet.mp3",
+    "content": "estonian/fam03.mp3",
     "subtitle": "Sa saad sillast üle minna nii, et leiad õige vastuse, mis tõkkepuu üles tõstab."
   },
   "speak_b_monopolyAccess_rightCode": {
     "contenttype": "sound",
-    "content": "openGate_rightCode.mp3",
-    "subtitle": "See oli õige kood!"
+    "content": "estonian/fam04.mp3",
+    "subtitle": "See oli õige vastus!"
   },
   "speak_b_monopolyAccess_wrongCode": {
     "contenttype": "sound",
-    "content": "dk_tryk_paa_familiespillet_forkert.mp3",
+    "content": "estonian/fam05.mp3",
     "subtitle": "See oli vale vastus. Proovi uuesti."
   },
   "pengeby_closeSubtitles": {
