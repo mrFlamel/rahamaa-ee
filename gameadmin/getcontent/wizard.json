@@ -21,7 +21,7 @@
   },
   "wizard_completed_header": {
     "contenttype": "label",
-    "content": "Tillykke",
+    "content": "Väga hea!",
     "subtitle": ""
   },
   "wizard_completed_text": {
@@ -56,7 +56,7 @@
   },
   "wizard_wrong_text": {
     "contenttype": "label",
-    "content": "Du svarede ikke rigtigt på spørgsmålene. Måske du skulle besøge de forskellige steder i Pengeby igen?",
+    "content": "Sa ei vastanud kõigile küsimustele õigesti. Äkki peaksid mõnda Rahamaa paika uuesti külastama?",
     "subtitle": ""
   },
   "question 1": {

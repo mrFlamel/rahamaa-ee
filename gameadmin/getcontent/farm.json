@@ -32,7 +32,7 @@
   "speak_farm_feed_sheep": {
     "contenttype": "sound",
     "content": "farm_feed_sheep_81.mp3",
-    "subtitle": "Nu giver hver sæk mad til 3 får. Hvor mange sække skal du bruge? Tryk på den grønne knap når du har trukket det rigtige antal sække ind i cirklen"
+    "subtitle": "Seekord on igas kotis parasjagu toitu kolme lamba jaoks. Mitu kotti sul vaja läheb? Puuduta rohelist nuppu, kui oled õige arvu kotte ringi sisse lohistanud."
   },
   "speak_farm_feed_toomany": {
     "contenttype": "sound",
@@ -52,12 +52,12 @@
   "speak_farm_gather_horse": {
     "contenttype": "sound",
     "content": "farm_gather_horses_79.mp3",
-    "subtitle": "Det var du god til. Nu skal du finde 12 heste."
+    "subtitle": "See tuli sul väga hästi välja! Nüüd on sul vaja leida 12 hobust."
   },
   "speak_farm_gather_sheep": {
     "contenttype": "sound",
     "content": "farm_gather_sheep_81.mp3",
-    "subtitle": "Så er det fårnes tur til at få mad. Kan du finde 12 får?"
+    "subtitle": "Nüüd on lammaste kord süüa saada. Kas leiad 12 lammast?"
   },
   "speak_farm_gather_toomany": {
     "contenttype": "sound",
@@ -77,7 +77,7 @@
   "speak_farm_motivation_1": {
     "contenttype": "sound",
     "content": "farm_motivation_88.mp3",
-    "subtitle": "Jaja, nu er vi ved at være der"
+    "subtitle": "Tubli! Töö on peaaegu tehtud."
   },
   "speak_farm_motivation_2": {
     "contenttype": "sound",
@@ -87,7 +87,7 @@
   "speak_farm_motivation_3": {
     "contenttype": "sound",
     "content": "farm_motivation_87.mp3",
-    "subtitle": "Det går godt - du har snart samlet alle dyrene"
+    "subtitle": "See töö läheb sul kenasti – oled peaaegu kõik loomad kokku kogunud."
   },
   "farm_correct": {
     "contenttype": "sound",
