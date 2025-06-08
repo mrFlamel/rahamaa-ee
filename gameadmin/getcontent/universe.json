@@ -2,7 +2,7 @@
   "speak_b_createuser_dress": {
     "contenttype": "sound",
     "content": "estonian/row5.mp3",
-    "subtitle": "Nüüd pead valima oma välimuse. Puuduta rohelist nuppu,  kui oled lõpetanud."
+    "subtitle": "Nüüd pead valima oma välimuse. Puuduta rohelist nuppu, kui oled lõpetanud."
   },
   "speak_b_createuser_gender": {
     "contenttype": "sound",
@@ -46,7 +46,7 @@
   },
   "speak_b_universe_room": {
     "contenttype": "sound",
-    "content": "dk_roll_over_paa_eget_hus.mp3",
+    "content": "estonian/row18.mp3",
     "subtitle": "See on sinu maja. Siin on sinu kodu."
   },
   "speak_b_universe_welcome": {
@@ -61,13 +61,13 @@
   },
   "speak_b_wishlist_rollover": {
     "contenttype": "sound",
-    "content": "SE Borgmester 2.mp3",
-    "subtitle": "Her kan du se de ting fra Karens butik, som du gerne vil spare op til."
+    "content": "estonian/row20.mp3",
+    "subtitle": "Siin näed sa neid tädi Anni poe asju, mille jaoks sa tahaksid raha koguda."
   },
   "speak_universe_farm": {
     "contenttype": "sound",
-    "content": "universe_farm_76.mp3",
-    "subtitle": "Jeg har brug for din hjælp til at fodre mine dyr. Har du lyst til at hjælpe mig og tjene nogle penge?"
+    "content": "estonian/row76.mp3",
+    "subtitle": "Vajan su abi, et loomi toita. Kas aitaksid mind ja teeniksid sellega veidi raha?"
   },
   "speak_universe_karens": {
     "contenttype": "sound",
@@ -122,7 +122,7 @@
   "speak_b_monopolyAccess_rightCode": {
     "contenttype": "sound",
     "content": "openGate_rightCode.mp3",
-    "subtitle": "Det var den rigtige kode!"
+    "subtitle": "See oli õige kood!"
   },
   "speak_b_monopolyAccess_wrongCode": {
     "contenttype": "sound",

@@ -1,7 +1,7 @@
 {
   "speak_b_farm_feed_amount": {
     "contenttype": "sound",
-    "content": "farm_feed_amount_92.mp3",
+    "content": "estonian/row75.mp3",
     "subtitle": "Kas oled kindel, et see on õige arv?"
   },
   "speak_b_farm_intro": {
@@ -26,17 +26,17 @@
   },
   "speak_farm_feed_missing": {
     "contenttype": "sound",
-    "content": "farm_feed_missing91.mp3",
+    "content": "estonian/row74.mp3",
     "subtitle": "Kas oled kindel, et see on õige? Vaata ja loe."
   },
   "speak_farm_feed_sheep": {
     "contenttype": "sound",
-    "content": "farm_feed_sheep_81.mp3",
+    "content": "estonian/row65.mp3",
     "subtitle": "Seekord on igas kotis parasjagu toitu kolme lamba jaoks. Mitu kotti sul vaja läheb? Puuduta rohelist nuppu, kui oled õige arvu kotte ringi sisse lohistanud."
   },
   "speak_farm_feed_toomany": {
     "contenttype": "sound",
-    "content": "farm_feed_toomany90.mp3",
+    "content": "estonian/row73.mp3",
     "subtitle": "Nüüd on ringis liiga palju kotte. Mitu kotti oleks vaja välja lohistada?"
   },
   "speak_farm_gather_cow": {
@@ -51,17 +51,17 @@
   },
   "speak_farm_gather_horse": {
     "contenttype": "sound",
-    "content": "farm_gather_horses_79.mp3",
+    "content": "estonian/row62.mp3",
     "subtitle": "See tuli sul väga hästi välja! Nüüd on sul vaja leida 12 hobust."
   },
   "speak_farm_gather_sheep": {
     "contenttype": "sound",
-    "content": "farm_gather_sheep_81.mp3",
+    "content": "estonian/row64.mp3",
     "subtitle": "Nüüd on lammaste kord süüa saada. Kas leiad 12 lammast?"
   },
   "speak_farm_gather_toomany": {
     "contenttype": "sound",
-    "content": "farm_gather_toomany.mp3",
+    "content": "estonian/row72.mp3",
     "subtitle": "Nüüd on ringis liiga palju loomi. Mitu looma oleks vaja välja lohistada?"
   },
   "speak_farm_gold": {
@@ -76,17 +76,17 @@
   },
   "speak_farm_motivation_1": {
     "contenttype": "sound",
-    "content": "farm_motivation_88.mp3",
+    "content": "estonian/row71.mp3",
     "subtitle": "Tubli! Töö on peaaegu tehtud."
   },
   "speak_farm_motivation_2": {
     "contenttype": "sound",
-    "content": "farm_motivation_86.mp3",
+    "content": "estonian/row69.mp3",
     "subtitle": "Seda oskad sa hästi!"
   },
   "speak_farm_motivation_3": {
     "contenttype": "sound",
-    "content": "farm_motivation_87.mp3",
+    "content": "estonian/row70.mp3",
     "subtitle": "See töö läheb sul kenasti – oled peaaegu kõik loomad kokku kogunud."
   },
   "farm_correct": {

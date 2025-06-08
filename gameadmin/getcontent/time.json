@@ -6,7 +6,7 @@
   },
   "speak_timemachine_nocash": {
     "contenttype": "sound",
-    "content": "dk_ikke_raad.mp3",
+    "content": "estonian/row26.mp3",
     "subtitle": "Kahjuks ei saa sa praegu endale seda reisi lubada! Sa pead minema tagasi Rahamaale ja teenima natuke raha juurde."
   },
   "speak_timemachine_travel": {
@@ -16,7 +16,7 @@
   },
   "speak_timemachine_rome": {
     "contenttype": "sound",
-    "content": "dk_forklaring_paa_rom.mp3",
+    "content": "estonian/row24.mp3",
     "subtitle": "See reis viib sind ajas tagasi Vana-Roomasse. Sa saad aidata ehitada suuri ja ilusaid hooneid."
   },
   "speak_timemachine_dino": {
@@ -26,7 +26,7 @@
   },
   "speak_timemachine_ridder": {
     "contenttype": "sound",
-    "content": "dk_forklaringp_paa_riddertiden.mp3",
+    "content": "estonian/row23.mp3",
     "subtitle": "Siin saad sa reisida tagasi keskaegsete rüütlite juurde."
   },
   "speak_timemachine_egypt": {
