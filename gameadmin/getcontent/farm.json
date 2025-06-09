@@ -66,8 +66,8 @@
   },
   "speak_farm_gold": {
     "contenttype": "sound",
-    "content": "farm_gold_85.mp3",
-    "subtitle": "Det var du god til. Som tak for hjælpen får du her 1 guldmønt, som du kan bruge i Karens Butik eller i Tidsmakinen. Har du lyst til at hjælpe mig en gang til?"
+    "content": "estonian/ai1.mp3",
+    "subtitle": "Sa olid selles väga hea. Tänuks abi eest saad 1 kuldmündi, mida saad kasutada Anni poes või ajamasinas. Kas sa soovid mind uuesti aidata?"
   },
   "speak_farm_intro": {
     "contenttype": "sound",

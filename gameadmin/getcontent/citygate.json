@@ -16,8 +16,8 @@
   },
   "speak_b_citygate_welcome": {
     "contenttype": "sound",
-    "content": "dk_velkomst_og_forklaring_byport.mp3",
-    "subtitle": "Velkommen til byens port. Den kan du male, så den bliver rigtig fin og flot! Du skal klikke på bøtterne med maling for at vælge den farve, du gerne vil male med. Og når du har valgt en farve, kan du klikke forskellige steder på byporten for at male den. Når du er klar, så tryk på den grønne knap."
+    "content": "estonian/row6.mp3",
+    "subtitle": "Nüüd võid aidata mul Rahamaa väravat värvida. See on väga mustaks läinud ja vajab hädasti värsket värvi. Puuduta värvipotti, millega tahaksid värvida. Kui oled värvi välja valinud, võid valida, millist värava osa sellega värvida. Kui arvad, et said valmis, siis puuduta rohelist nuppu."
   },
   "speak_b_createuser_citygate": {
     "contenttype": "sound",
