@@ -31,7 +31,7 @@
   },
   "speak_b_apple_welcome": {
     "contenttype": "sound",
-    "content": "dk_velkomst_og_forklaring_aeblebod.mp3",
+    "content": "estonian/row48-AI.mp3",
     "subtitle": "Tere tulemast! See on sinu õunalett. Siin saad teha raha teenimiseks õunamahla ja seda Rahamaa elanikele müüa. Püüa suure õunapuu otsast kukkuvad õunad kinni, enne kui need maha potsatavad. Üle kolme õuna ei tohi maha kukkuda. Edasi-tagasi jooksmiseks vajuta nooleklahve. Teenid mündi iga 10 õuna eest, mille oled kinni püüdnud. Oled valmis proovima, mitu õuna suudad kinni püüda? Puuduta siis rohelist nuppu."
   },
   "apple_apple_caught": {

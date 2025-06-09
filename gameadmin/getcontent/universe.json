@@ -51,8 +51,8 @@
   },
   "speak_b_universe_welcome": {
     "contenttype": "sound",
-    "content": "dk_hjaelp_2.mp3",
-    "subtitle": "Her kan du se hele Pengeby. Klik på de steder, du gerne vil besøge. Hvis du gerne vil tilbage til dit værelse, skal du klikke på huset, hvor du bor."
+    "content": "estonian/row11-AI.mp3",
+    "subtitle": "Siin näed sa tervet Rahamaad. Klõpsa kohtadel, mida soovid külastada. Kui soovid oma tuppa naasta, siis klõpsa majal, kus elad."
   },
   "speak_b_wishlist_opens": {
     "contenttype": "sound",
