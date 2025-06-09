@@ -21,8 +21,8 @@
   },
   "speak_timemachine_dino": {
     "contenttype": "sound",
-    "content": "dk_forklaring_paa_dinosaur.mp3",
-    "subtitle": "Her kan du rejse tilbage til dengang, hvor der fandtes dinosaurusser og hjælpe med at finde dinosaurus æg."
+    "content": "estonian/ai2.mp3",
+    "subtitle": "Siin saad rännata aega, mil dinosaurused veel eksisteerisid ja aidata leida dinosauruste mune."
   },
   "speak_timemachine_ridder": {
     "contenttype": "sound",

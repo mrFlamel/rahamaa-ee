@@ -1,28 +1,28 @@
 {
   "speak_b_dino_loose1": {
     "contenttype": "sound",
-    "content": "dk_spil_slut_tapt_1.mp3",
-    "subtitle": "Ej, du nåede at miste alle dine liv, før du fik fat i æggene. Prøv igen."
+    "content": "estonian/ai4.mp3",
+    "subtitle": "Kahjuks kaotasid kõik oma elud enne munade kätte saamist. Proovi uuesti."
   },
   "speak_b_dino_loose2": {
     "contenttype": "sound",
-    "content": "dk_spil_slut_tapt_2.mp3",
-    "subtitle": "Det var ærgerligt - du har ikke flere forsøg til at finde æggene. Måske skal du passe lidt bedre på næste gang? Prøv igen for at se, om du kan gøre det bedre!"
+    "content": "estonian/ai5.mp3",
+    "subtitle": "Kahjuks sul ei ole enam katseid munade leidmiseks. Võib-olla peaksid järgmisel korral olema veidi ettevaatlikum? Proovi uuesti, et näha, kas saad paremini!"
   },
   "speak_b_dino_welcome": {
     "contenttype": "sound",
-    "content": "dk_velkomst_og_forklaring_dinosaurus.mp3",
-    "subtitle": "Nu har du rejst meget langt tilbage i tiden, nemlig til dengang, hvor der fandtes dinosaurusser. Dinosarus mor er blevet ked af det, fordi hun har mistet sine æg, og du skal derfor hjælpe med at finde dem. For at finde æggene skal du bruge pilene på tastaturet og grave dig ned igennem jorden. Du skal samle alle hjerterne, før du kan få fat i et æg. Men pas på de farlige ting undervejs - og skynd dig alt, hvad du kan! Tryk på den grønne knap, når du er klar."
+    "content": "estonian/ai3.mp3",
+    "subtitle": "Nüüd oled rännanud ajas väga kaugele tagasi, aega, mil dinosaurused veel eksisteerisid. Dinosauruse ema on ärritunud, sest ta on oma munad kaotanud ja sa pead aitama tal need üles leida. Munade leidmiseks kasuta klaviatuuril olevaid nooli ja kaeva end läbi maa. Enne muna saamist pead koguma kõik südamed. Kuid ole ettevaatlik teel olevate ohtlike asjade eest ja tee ruttu! Kui oled valmis, vajuta rohelist nuppu.
   },
   "speak_b_dino_won1": {
     "contenttype": "sound",
-    "content": "dk_spil_slut_gennemfoert_1.mp3",
-    "subtitle": "Du fandt alle æggene - godt gået! Prøv at se, om du kan gøre det endnu hurtigere!"
+    "content": "estonian/ai6.mp3",
+    "subtitle": "Leidsid kõik munad – hästi tehtud! Proovi, kas saad seda veelgi kiiremini teha!"
   },
   "speak_b_dino_won2": {
     "contenttype": "sound",
-    "content": "dk_spil_slut_gennemfoert_2.mp3",
-    "subtitle": "Det er du god til - du fandt alle æggene! Tror du, at du kan gøre det endnu hurtigere?"
+    "content": "estonian/ai7.mp3",
+    "subtitle": "Sa oled selles väga tubli – leidsid kõik munad üles! Kas arvad, et saad seda veelgi kiiremini teha?"
   },
   "dino_ambient": {
     "contenttype": "sound",
