@@ -156,7 +156,7 @@
   },
   "monopoly_bank_mechanic": {
     "contenttype": "label",
-    "content": "Mehaanik Sa unustasid oma sõiduki eest hoolitseda",
+    "content": "MEHAANIK  Sa unustasid oma sõiduki eest hoolitseda",
     "subtitle": ""
   },
   "monopoly_bank_pet": {
@@ -166,7 +166,7 @@
   },
   "monopoly_bank_petdoctor": {
     "contenttype": "label",
-    "content": " Loomaarst  Sa unustasid oma lemmiklooma toita",
+    "content": "LOOMAARST  Sa unustasid oma lemmiklooma toita",
     "subtitle": ""
   },
   "monopoly_bank_savings": {
@@ -211,7 +211,7 @@
   },
   "monopoly_highscore_veiw_highscore": {
     "contenttype": "label",
-    "content": "Se highscorelisten!",
+    "content": "Vaata edetabelit!",
     "subtitle": ""
   },
   "monopoly_highscore_you_are": {
@@ -226,7 +226,7 @@
   },
   "monopoly_highscore_your_score": {
     "contenttype": "label",
-    "content": "Din Score =",
+    "content": "Sinu Skoor =",
     "subtitle": ""
   },
   "monopoly_intro_new_game": {
@@ -241,12 +241,12 @@
   },
   "monopoly_occ_status_eco_neg_balance": {
     "contenttype": "label",
-    "content": "Du havde ikke nok penge på din konto",
+    "content": "Sinu kontol ei ole piisavalt raha",
     "subtitle": ""
   },
   "monopoly_occ_status_eco_pos_balance": {
     "contenttype": "label",
-    "content": "Du havde nok penge på din konto",
+    "content": "Sul on selleks piisavalt raha",
     "subtitle": ""
   },
   "monopoly_occ_status_label": {
@@ -256,7 +256,7 @@
   },
   "monopoly_print_score": {
     "contenttype": "label",
-    "content": "har opnået en score på:",
+    "content": "on saavutanud skoori:",
     "subtitle": ""
   },
   "monopoly_save_game": {
@@ -391,7 +391,7 @@
   },
   "monopoly_startup_toolbar_items": {
     "contenttype": "label",
-    "content": "PEREKONNA KULUTUSED Siin tuleb sul valida oma perele kodu, samuti sõiduk, millega nad sugulasi ja sõpru külastavad, ning  lemmikloomad. Paremal pool näed sa seda, kui palju see pere raha teenib  ja kui palju erinevad asjad maksavad.",
+    "content": "PEREKONNA KULUTUSED Siin tuleb sul valida oma perele kodu, samuti sõiduk ning lemmik- loomad. Paremal pool näed sa, kui palju su pere raha teenib ja kui palju erinevad asjad maksavad.",
     "subtitle": ""
   },
   "monopoly_summer_africa": {
@@ -457,17 +457,17 @@
     "option2": "Eesti",
     "option3": "Saksamaa",
     "correctoption": "1",
-    "correcttext": "Eiffeltårnet ligger Frankrig. Faktisk ligger det i Paris, som er hovedstanden i Frankrig."
+    "correcttext": "Eiffeli torn asub Prantsusmaal. Täpsemalt asub see Pariisis, mis on Prantsusmaa pealinn."
   },
   "q2": {
     "contenttype": "question",
-    "content": "Hvilket land ligger ikke i Europa?",
+    "content": "Milline riik ei asu Euroopas?",
     "subtitle": "europe",
     "option1": "Jaapan",
-    "option2": "østrig",
-    "option3": "Finland",
+    "option2": "Austria",
+    "option3": "Soome",
     "correctoption": "1",
-    "correcttext": "Japan ligger ikke i Europa. Det ligger i Asien."
+    "correcttext": "Jaapan ei asu Euroopas. See asub Aasias."
   },
   "q3": {
     "contenttype": "question",
@@ -477,7 +477,7 @@
     "option2": "Mark",
     "option3": "Euro",
     "correctoption": "3",
-    "correcttext": "Mange af landene i Europa har Euro. Det har de blandt andet i Tyskland, Spanien, Holland og Grækenland."
+    "correcttext": "Paljudes Euroopa riikides on kasutusel euro. See hõlmab Saksamaad, Hispaaniat, Hollandit ja Kreekat."
   },
   "q4": {
     "contenttype": "question",
@@ -487,7 +487,7 @@
     "option2": "Elevant",
     "option3": "Karu",
     "correctoption": "2",
-    "correcttext": "Elefanter lever ikke i Europa. De lever kun i Afrika og i Indien."
+    "correcttext": "Elevandid ei ela Euroopas. Nad elavad ainult Aafrikas ja Indias."
   },
   "q5": {
     "contenttype": "question",
@@ -497,7 +497,7 @@
     "option2": "Hispaania",
     "option3": "Itaalia",
     "correctoption": "3",
-    "correcttext": "Hvis du står i Rom, er du i Italien. Rom er nemlig hovedstaden i Italien."
+    "correcttext": "Kui viibid linnas nimega Roomas, oled Itaalias. Rooma on Itaalia pealinn."
   },
   "q6": {
     "contenttype": "question",
@@ -507,17 +507,17 @@
     "option2": "Dollar",
     "option3": "Mark",
     "correctoption": "2",
-    "correcttext": "De hedder Dollars. Dem har de blandt andet i USA og Canada."
+    "correcttext": "Seda valuutat nimetatakse dollariteks. Dollarid on käibel muuhulgas USA-s ja Kanadas."
   },
   "q7": {
     "contenttype": "question",
-    "content": "Milliselt maalt on pärit reggaemuusika?",
+    "content": "Milliselt maalt on pärit reggae-muusika?",
     "subtitle": "northamerica",
     "option1": "Kuuba",
     "option2": "USA",
     "option3": "Jamaica",
     "correctoption": "3",
-    "correcttext": "Reggae stammer fra landet Jamaica."
+    "correcttext": "Reggae pärineb Jamaicalt."
   },
   "q8": {
     "contenttype": "question",
@@ -527,17 +527,17 @@
     "option2": "Kanada",
     "option3": "Mehhiko",
     "correctoption": "1",
-    "correcttext": "Argentina ligger ikke i Nordamerika. Det ligger i Sydamerika."
+    "correcttext": "Argentina ei asu Põhja-Ameerikas. See asub Lõuna-Ameerikas."
   },
   "q9": {
     "contenttype": "question",
-    "content": "Hvad hedder præsidenten i USA?",
+    "content": "Mis on Ameerika Ühendriikide presidendi nimi?",
     "subtitle": "northamerica",
     "option1": "George Bush",
     "option2": "Bill Clinton",
     "option3": "Donald Trump",
     "correctoption": "3",
-    "correcttext": "Præsidenten i USA hedder Donald Trump. De andre var præsidenter før ham."
+    "correcttext": "USA presidenti kutsutakse Donald Trumpiks. Teised nimed olid presidendid enne teda."
   },
   "q10": {
     "contenttype": "question",
@@ -547,17 +547,17 @@
     "option2": "Lammas",
     "option3": "Hobune",
     "correctoption": "1",
-    "correcttext": "Kænguroer lever ikke i Nordamerika. De lever i Australien."
+    "correcttext": "Kängurud ei ela Põhja-Ameerikas. Nad elavad Austraalias."
   },
   "q11": {
     "contenttype": "question",
-    "content": "Hvad hedder den største og mest kendte flod i Syd Amerika?",
+    "content": "Mis on Lõuna-Ameerika suurima ja kuulsaima jõe nimi?",
     "subtitle": "southamerica",
     "option1": "Amazonas",
     "option2": "Niilus",
     "option3": "Doonau",
     "correctoption": "1",
-    "correcttext": "Den største og mest kendte flod hedder Amazonfloden. Den løber hovedsageligt igennem Brasilien."
+    "correcttext": "Lõuna-Ameerika suurimat ja tuntuimat jõge nimetatakse Amazonase jõeks. See jookseb peamiselt läbi Brasiilia."
   },
   "q12": {
     "contenttype": "question",
@@ -567,7 +567,7 @@
     "option2": "Argentiina",
     "option3": "Brasiilia",
     "correctoption": "3",
-    "correcttext": "Det gør man i Brasilien. Der er hvert år et karneval i byen Rio de Janeiro, hvor de danser meget samba!"
+    "correcttext": "Seda karnevali peetakse Brasiilias. Rio de Janeiro linnas on igal aastal karneval, kus tantsitakse palju sambat!"
   },
   "q13": {
     "contenttype": "question",
@@ -577,7 +577,7 @@
     "option2": "Etioopia",
     "option3": "Uruguay",
     "correctoption": "2",
-    "correcttext": "Etiopien ligger ikke i Sydamerika. Det ligger i Afrika."
+    "correcttext": "Etioopia ei asu Lõuna-Ameerikas. See on Aafrikas."
   },
   "q14": {
     "contenttype": "question",
@@ -587,7 +587,7 @@
     "option2": "Laama",
     "option3": "Jääkaru",
     "correctoption": "2",
-    "correcttext": "Lamaer lever i Sydamerika. De er kendt for at spytte, når de føler sig truet."
+    "correcttext": "Laamad elavad Lõuna-Ameerikas. Nad teatavasti sülitavad, kui tunnevad end ohustatuna."
   },
   "q15": {
     "contenttype": "question",
@@ -597,7 +597,7 @@
     "option2": "Beduiinid",
     "option3": "Inkad",
     "correctoption": "3",
-    "correcttext": "Inkaerne stammer fra Sydamerika. De var engang et af verdens største samfund."
+    "correcttext": "Inkade tsivilatsioon sai alguse Lõuna-Ameerikast. Kunagi olid nad üks maailma suurimaid ühiskondi."
   },
   "q16": {
     "contenttype": "question",
@@ -607,7 +607,7 @@
     "option2": "Sahara",
     "option3": "Ohara",
     "correctoption": "2",
-    "correcttext": "ørkenen hedder Sahara, og det er verdens største ørken. Der kan blive over 55 grader varmt!"
+    "correcttext": "Seda kõrbe nimetatakse Saharaks ja see on maailma suurim kõrb. Temperatuur võib tõusta üle 55 kraadi!"
   },
   "q17": {
     "contenttype": "question",
@@ -617,7 +617,7 @@
     "option2": "Amazonas",
     "option3": "Niilus",
     "correctoption": "3",
-    "correcttext": "Nilen ligger i Afrika. Den er meget lang, nemlig over 6.500 kilometer."
+    "correcttext": "Aafrikas asub Niilus. See on väga pikk, üle 6500 kilomeetri."
   },
   "q18": {
     "contenttype": "question",
@@ -627,17 +627,17 @@
     "option2": "Tiiger",
     "option3": "Laama",
     "correctoption": "1",
-    "correcttext": "Elefanten lever i Afrika - men også i Indien. Forskellen på dem er, at de afrikanske elefanter har meget store ører, og de indiske har meget små ører."
+    "correcttext": "Elevant elab Aafrikas – aga ka Indias. Nende erinevus seisneb selles, et Aafrika elevantidel on väga suured kõrvad, India omadel aga väga väikesed kõrvad."
   },
   "q19": {
     "contenttype": "question",
-    "content": "Hvilket land ligger ikke i Afrika?",
+    "content": "Mis riik neist ei asu Aafrikas?",
     "subtitle": "africa",
     "option1": "Uruguay",
     "option2": "Madagaskar",
     "option3": "Ghana",
     "correctoption": "1",
-    "correcttext": "Uruguay ligger ikke i Afrika. Det ligger i Syd Amerika."
+    "correcttext": "Uruguay ei asu Aafrikas. See asub Lõuna-Ameerikas."
   },
   "q20": {
     "contenttype": "question",
@@ -647,7 +647,7 @@
     "option2": "Kilimanjaro",
     "option3": "Mount Everest",
     "correctoption": "2",
-    "correcttext": "Kilimanjaro er det højeste bjerg i Afrika. Det er over 5.800 meter!"
+    "correcttext": "Kilimanjaro on Aafrika kõrgeim mägi. See on üle 5800 meetri kõrgune!"
   },
   "q21": {
     "contenttype": "question",
@@ -657,7 +657,7 @@
     "option2": "Aborigeenid",
     "option3": "Beduiinid",
     "correctoption": "2",
-    "correcttext": "Aboriginies er Australiens indfødte befolkning. De har levet der i over 30.000 år!"
+    "correcttext": "Aborigeenid on Austraalia põlisrahvas. Nad on seal elanud üle 30 000 aasta!"
   },
   "q22": {
     "contenttype": "question",
@@ -667,7 +667,7 @@
     "option2": "Saabel",
     "option3": "Bumerang",
     "correctoption": "3",
-    "correcttext": "Boomerangen kommer fra Australien. Den kommer tilbage, når man kaster den."
+    "correcttext": "Bumerang on pärit Austraaliast. See tuleb visates tagasi."
   },
   "q23": {
     "contenttype": "question",
@@ -677,7 +677,7 @@
     "option2": "Ayers Rock",
     "option3": "Hard Rock",
     "correctoption": "2",
-    "correcttext": "Verdens største sten hedder Ayers Rock. Man kan genkende den på sin røde farve."
+    "correcttext": "Maailma suurim kivi kannab nime Ayers Rock. Selle tunneb ära punase värvi järgi."
   },
   "q24": {
     "contenttype": "question",
@@ -687,7 +687,7 @@
     "option2": "Trumm",
     "option3": "Tuuba",
     "correctoption": "1",
-    "correcttext": "Digeridooen kommer fra Australien. Det er nærmest et langt rør af træ, og siger en helt specielt lyd!"
+    "correcttext": "Didžeriduu on pärit Austraaliast. See on peaaegu nagu pikk puutoru ja teeb väga erilist häält!"
   },
   "q25": {
     "contenttype": "question",
@@ -697,7 +697,7 @@
     "option2": "Teised loomad",
     "option3": "Eukalüptilehed",
     "correctoption": "3",
-    "correcttext": "Koalabjørnen spiser eukalyptus blade!"
+    "correcttext": "Koaalakaru sööb eukalüpti lehti!"
   },
   "q26": {
     "contenttype": "question",
@@ -707,7 +707,7 @@
     "option2": "Hiina",
     "option3": "Hindi",
     "correctoption": "1",
-    "correcttext": "Man taler ikke græsk i Asien. Det gør man nemlig i Grækenland."
+    "correcttext": "Aasias ei räägita kreeka keelt. Kreekas räägite."
   },
   "q27": {
     "contenttype": "question",
@@ -717,7 +717,7 @@
     "option2": "Filipiinid",
     "option3": "Hiina",
     "correctoption": "2",
-    "correcttext": "Ris stammer fra Kina, men man spiser det også i de andre lande."
+    "correcttext": "Riis on pärit Hiinast, aga seda süüakse ka teistes riikides."
   },
   "q28": {
     "contenttype": "question",
@@ -727,17 +727,17 @@
     "option2": "Vietnam",
     "option3": "Peruu",
     "correctoption": "3",
-    "correcttext": "Peru ligger ikke i Asien. Det ligger i Sydamerika."
+    "correcttext": "Peruu ei asu Aasias. See asub Lõuna-Ameerikas."
   },
   "q29": {
     "contenttype": "question",
-    "content": "Millises nendest riikidest elab kõige rohkem inimesi?",
+    "content": "Millises riigis elab maailma kõige rohkem inimesi?",
     "subtitle": "asia",
     "option1": "Vietnam",
-    "option2": "Hiina",
+    "option2": "India",
     "option3": "Taiwan",
     "correctoption": "2",
-    "correcttext": "Det gør der i Kina. Faktisk bor der over 1,3 milliard mennesker!"
+    "correcttext": "Indias. Tegelikult elab seal üle 1,4 miljardi inimese!"
   },
   "q30": {
     "contenttype": "question",
@@ -747,7 +747,7 @@
     "option2": "Peking",
     "option3": "Berliin",
     "correctoption": "1",
-    "correcttext": "Hovedstaden i Japan hedder Tokyo. Beijing ligger i Kina, og Berlin ligger i Tyskland."
+    "correcttext": "Jaapani pealinna nimi on Tokyo. Peking asub Hiinas, Berliin aga Saksamaal."
   },
   "monopoly_occurence_button_show": {
     "contenttype": "sound",
@@ -1527,21 +1527,21 @@
     "consequence3money": "-16"
   },
   "Uden buskort": {
-    "shortname": "Uden buskort",
+    "shortname": "Sõidukaart ununenud",
     "contenttype": "event",
     "month": "december",
-    "eventtext": "<name> vil tage bussen hjem, men har glemt sit buskort. Hvad synes du, <name> skal gøre?",
+    "eventtext": "<name> tahab bussiga koju sõita, kuid on oma sõidukaardi maha unustanud. Mis sa arvad, mida peaks <name> tegema?",
     "person": "all",
     "facteventmoney": "",
     "facteventsatisfaction": "",
     "consequence1title": "Ta peaks proovima, äkki saab ta bussiga sõita ka ilma piletita.",
-    "consequence1text": "Det gik ikke så godt. Buskontrolløren kom forbi og gav en bøde på 2 guldmønter",
+    "consequence1text": "See ei läinud kuigi hästi. Bussi tuli piletikontroll, kes tegi talle trahvi. Ta pidi maksma 2 kuldmünti.",
     "consequence1money": "-20",
-    "consequence2title": "Gå hjem, selvom der er lidt langt",
-    "consequence2text": "Det tog over en time, men gåturen var gratis",
+    "consequence2title": "Ta peaks jala koju minema, kuigi tee on päris pikk.",
+    "consequence2text": "Jalgsi koju minemine võttis üle tunni aega, aga  see ei maksnud midagi.",
     "consequence2money": "0",
-    "consequence3title": "Købe en billet til bussen",
-    "consequence3text": "Billetten kostede 2 sølvmønter",
+    "consequence3title": "Ta peaks ostma bussipileti.",
+    "consequence3text": "Pilet maksis 2 hõbemünti.",
     "consequence3money": "-2"
   },
   "Uden komfur": {
