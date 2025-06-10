@@ -5,6 +5,13 @@ Mängust on olemas uuem versioon "Moneyville", kus endine Rahamaa sai põhjaliku
 
 
 
+## Kuidas mängida?
+Siin: https://mrflamel.github.io/rahamaa-ee/
+
+Mäng töötab ka nutitelefonides.
+
+
+
 ## Kuidas panustada?
 Selles mängu versioonis on hetkel suurimad puudused:
 1. AI helifailid, mis ei ole väga sarnased originaalile. Sarnasemad on väga oodatud.
