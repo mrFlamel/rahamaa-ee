@@ -14924,7 +14924,7 @@ function showNewYearsParty() {
     gameConfig.nyBtnArray = new Array();
     gameConfig.nyItemArray = new Array();
 
-    gameConfig.saved = 600;
+    //gameConfig.saved = 600;
     monoUpdateSidebar();
 
     for (var i = 0; i < 13; i++) {

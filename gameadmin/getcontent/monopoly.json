@@ -112,12 +112,12 @@
   "speak_b_monopoly_velkomst_og_forklaring": {
     "contenttype": "sound",
     "content": "estonian/fam06.mp3",
-    "subtitle": "Tere tulemast Peremängu! Siin pead sa aitama ühel perel maksta kõigi asjade eest, mida nad aasta jooksul teevad. Sul peab meeles olema ka see, et tuleb hoolitseda perekonna lemmiklooma ja sõiduki eest, et nad saaksid ringi sõita ning sugulasi ja sõpru külastada. Kui sa teed seda kõike hästi, teenid sa selle eest punkte! Aga pea meeles - oluline on ka raha kõrvale panna, et pere saaks minna suvel puhkusele ning pidada aasta lõpus ühe toreda peo. Alustamiseks puuduta rohelist nuppu."
+    "subtitle": "Tere tulemast Peremängu! Siin pead sa aitama ühel perel maksta kõigi asjade eest, mida nad aasta jooksul teevad. Sul peab meeles olema ka see, et tuleb hoolitseda perekonna lemmiklooma ja sõiduki eest. Kui sa teed seda kõike hästi, teenid sa selle eest punkte! Aga pea meeles - oluline on ka raha kõrvale panna, et pere saaks minna suvel puhkusele ning pidada aasta lõpus ühe toreda peo. Alustamiseks puuduta rohelist nuppu."
   },
   "speak_b_monopoly_velkomst_og_forklaring_hentSpil": {
     "contenttype": "sound",
     "content": "estonian/fam07.mp3",
-    "subtitle": "Tere tulemast Peremängu! Siin pead sa aitama ühel perel maksta kõigi asjade eest, mida nad aasta jooksul teevad. Sul peab meeles olema ka see, et tuleb hoolitseda perekonna lemmiklooma ja sõiduki eest, et nad saaksid ringi sõita ning sugulasi ja sõpru külastada. Kui sa teed seda kõike hästi, teenid sa selle eest punkte! Aga pea meeles - oluline on ka raha kõrvale panna, et pere saaks minna suvel puhkusele ning pidada aasta lõpus ühe toreda peo. Alustamiseks puuduta rohelist nuppu!"
+    "subtitle": "Tere tulemast Peremängu! Siin pead sa aitama ühel perel maksta kõigi asjade eest, mida nad aasta jooksul teevad. Sul peab meeles olema ka see, et tuleb hoolitseda perekonna lemmiklooma ja sõiduki eest. Kui sa teed seda kõike hästi, teenid sa selle eest punkte! Aga pea meeles - oluline on ka raha kõrvale panna, et pere saaks minna suvel puhkusele ning pidada aasta lõpus ühe toreda peo. Alustamiseks puuduta rohelist nuppu!"
   },
   "monopoly_bank_change_items": {
     "contenttype": "label",
@@ -874,7 +874,7 @@
     "consequence2title": "Ostad 8 hõbemündi eest uue akna ja paned selle ise ette.",
     "consequence2text": "Kõik läks hästi, nii et mingeid lisakulusid ei tulnud.",
     "consequence2money": "-8",
-    "consequence3title": "Jätad akna nii, nagu see on. Praegu on suvi  ja väljas on soe.",
+    "consequence3title": "Jätad akna nii, nagu see on. Praegu on suvi ja väljas on soe.",
     "consequence3text": "Lind lendas läbi katkise akna sisse ja ajas ühe uhke vaasi põrandale puruks. Vaas maksis 1 kuldmündi.",
     "consequence3money": "-10"
   },
@@ -1033,7 +1033,7 @@
     "consequence1title": "<name> peab otsekohe hambaarsti juurde minema ja hambad ära parandada laskma. Kummagi hamba parandus läheb maksma 1 kuldmündi ja 5 hõbemünti.",
     "consequence1text": "Õnneks oli hambaarsti juures jõulude puhul allahindlus, 5 hõbemünti iga hamba pealt.",
     "consequence1money": "-20",
-    "consequence2title": "Sõidad teise linna, kus hambaravi on  odavam. Seal maksab ühe hamba kordategemine ainult 1 kuldmündi.",
+    "consequence2title": "Sõidad teise linna, kus hambaravi on odavam. Seal maksab ühe hamba kordategemine ainult 1 kuldmündi.",
     "consequence2text": "Teise linna sõit läheb maksma 5 hõbemünti.",
     "consequence2money": "-25",
     "consequence3title": "Otsid kõige kiirema ja odavama parandusvõimaluse, mis maksab 5 hõbemünti hamba kohta.",
@@ -1138,7 +1138,7 @@
     "person": "all",
     "facteventmoney": "",
     "facteventsatisfaction": "",
-    "consequence1title": "Teed akna katki, et <name> saaks sisse  pugeda.",
+    "consequence1title": "Teed akna katki, et <name> saaks sisse pugeda.",
     "consequence1text": "<name> leidis kõige väiksema akna ja puges sisse, aga akna vahetus läks maksma 2 kuldmünti ja 4 hõbemünti.",
     "consequence1money": "-24",
     "consequence2title": "Helistad lukksepale, et ta tuleks ja ukse lahti teeks.",
@@ -1372,7 +1372,7 @@
     "person": "all",
     "facteventmoney": "",
     "facteventsatisfaction": "",
-    "consequence1title": "Ostad uued lihavõttemunad, aga ainult  lastele. Munad maksavad 4 hõbemünti.",
+    "consequence1title": "Ostad uued lihavõttemunad, aga ainult lastele. Munad maksavad 4 hõbemünti.",
     "consequence1text": "Lapsed olid suurte lihavõttemunade üle väga rõõmsad.",
     "consequence1money": "-4",
     "consequence2title": "Pere saab lihtsalt katkised lihavõttemunad ja #name# annab lastele 2 hõbemünti taskuraha lisaks. ",
@@ -1394,7 +1394,7 @@
     "consequence1text": "Kuna pere ei saanud enam kodus printida, pidid nad minema raamatukokku iga kord, kui neil midagi printida oli vaja. Seal maksis ühe lehe printimine 1 hõbemündi ja pere pidi kuu jooksul printima 9 lehekülge.",
     "consequence1money": "-9",
     "consequence2title": "Saadad printeri arvutitöökotta parandusse. Varuosad maksavad 4 hõbemünti ja parandamine ise 2 hõbemünti.",
-    "consequence2text": "Kahjuks küsis töökoda veel 2 hõbemünti selle  eest, et nad parandatud printeri perele koju ära saatsid.",
+    "consequence2text": "Kahjuks küsis töökoda veel 2 hõbemünti selle eest, et nad parandatud printeri perele koju ära saatsid.",
     "consequence2money": "-8",
     "consequence3title": "Ostad oma naabri käest kasutatud printeri. Naaber tahtis printeri eest küll 2 kuldmünti, aga oli nõus tegema perele 4 hõbemünti allahindlust.",
     "consequence3text": "Naabri kasutatud printeril oli palju rohkem võimalusi kui perekonna vanal printeril.",
@@ -1538,7 +1538,7 @@
     "consequence1text": "See ei läinud kuigi hästi. Bussi tuli piletikontroll, kes tegi talle trahvi. Ta pidi maksma 2 kuldmünti.",
     "consequence1money": "-20",
     "consequence2title": "Ta peaks jala koju minema, kuigi tee on päris pikk.",
-    "consequence2text": "Jalgsi koju minemine võttis üle tunni aega, aga  see ei maksnud midagi.",
+    "consequence2text": "Jalgsi koju minemine võttis üle tunni aega, aga see ei maksnud midagi.",
     "consequence2money": "0",
     "consequence3title": "Ta peaks ostma bussipileti.",
     "consequence3text": "Pilet maksis 2 hõbemünti.",
@@ -1606,10 +1606,10 @@
     "person": "all",
     "facteventmoney": "",
     "facteventsatisfaction": "",
-    "consequence1title": "Parandad püksid ära ja paned põlvele  plaastri.",
+    "consequence1title": "Parandad püksid ära ja paned põlvele plaastri.",
     "consequence1text": "Püksipõlvele õmmeldud lapp ei maksnud midagi, aga plaaster maksis 1 hõbemündi.",
     "consequence1money": "-1",
-    "consequence2title": "Ostad täpselt samasugused püksid nagu  need, mis katki läksid. Vanad püksid maksid 1 kuldmündi ja 6 hõbemünti.",
+    "consequence2title": "Ostad täpselt samasugused püksid nagu need, mis katki läksid. Vanad püksid maksid 1 kuldmündi ja 6 hõbemünti.",
     "consequence2text": "Kahjuks olid püksid vahepeal kallimaks läinud. Nüüd maksid need 2 kuldmünti ja 2 hõbemünti.",
     "consequence2money": "-22",
     "consequence3title": "Viskad püksid minema ja lähed poodi uusi otsima.",
