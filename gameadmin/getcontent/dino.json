@@ -12,7 +12,7 @@
   "speak_b_dino_welcome": {
     "contenttype": "sound",
     "content": "estonian/ai3.mp3",
-    "subtitle": "Nüüd oled rännanud ajas väga kaugele tagasi, aega, mil dinosaurused veel eksisteerisid. Dinosauruse ema on ärritunud, sest ta on oma munad kaotanud ja sa pead aitama tal need üles leida. Munade leidmiseks kasuta klaviatuuril olevaid nooli ja kaeva end läbi maa. Enne muna saamist pead koguma kõik südamed. Kuid ole ettevaatlik teel olevate ohtlike asjade eest ja tee ruttu! Kui oled valmis, vajuta rohelist nuppu.
+    "subtitle": "Nüüd oled rännanud ajas väga kaugele tagasi, aega, mil dinosaurused veel eksisteerisid. Dinosauruse ema on ärritunud, sest ta on oma munad kaotanud ja sa pead aitama tal need üles leida. Munade leidmiseks kasuta klaviatuuril olevaid nooli ja kaeva end läbi maa. Enne muna saamist pead koguma kõik südamed. Kuid ole ettevaatlik teel olevate ohtlike asjade eest ja tee ruttu! Kui oled valmis, vajuta rohelist nuppu."
   },
   "speak_b_dino_won1": {
     "contenttype": "sound",
