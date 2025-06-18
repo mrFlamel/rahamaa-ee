@@ -13945,6 +13945,9 @@ function doExitMono() {
 
     updateUserCookie();
 
+    loadPreloaderAssets(); // That somehow fixed this error, when graphics broke after exiting monopoly, though a lot of warnings comes
+                           // There's surely some prettier way, but right now I think it just works and that's good
+
     backToUniverse();
 }
 

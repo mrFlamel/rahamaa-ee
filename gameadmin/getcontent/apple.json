@@ -6,7 +6,7 @@
   },
   "speak_b_apple_done_no_money": {
     "contenttype": "sound",
-    "content": "dk_afslutning_game_over_no_apples.mp3",
+    "content": "estonian/row53-cut.mp3",
     "subtitle": "Sa pillasid kolm õuna maha. Kui soovid veel raha teenida, siis proovi uuesti. Kui sul on piisavalt raha, võid minna  reisile ajamasinas. Aga äkki on tädi Anni poodi saabunud mingeid uusi asju, mida sa tahaksid osta."
   },
   "speak_b_apple_nextlevel_1": {
