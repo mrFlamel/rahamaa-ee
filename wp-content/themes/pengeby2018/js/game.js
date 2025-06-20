@@ -3167,7 +3167,6 @@ function initRoom(loader, resources) {
                 itemX = 600;
             }
         }
-
         for (var i = 0; i < roomItems.length; i++) {
             if (itemName == roomItems[i][0]) {
                 addRoomItem(roomItems[i], itemX, itemY);
@@ -6589,7 +6588,7 @@ function removeFromTunnelArray(xPos, yPos) {
 function showDinoEggPopup() {
     gameConfig.gameActive = false;
 
-    if (gameConfig.level >= 5) {
+    if (gameConfig.level >= 1) {
         dinoGameOverWin();
     } else {
         gamePopup = new PIXI.Container();
