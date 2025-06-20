@@ -6588,7 +6588,7 @@ function removeFromTunnelArray(xPos, yPos) {
 function showDinoEggPopup() {
     gameConfig.gameActive = false;
 
-    if (gameConfig.level >= 1) {
+    if (gameConfig.level >= 5) {
         dinoGameOverWin();
     } else {
         gamePopup = new PIXI.Container();
