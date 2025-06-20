@@ -16519,7 +16519,12 @@ function playSound(soundID, loader) {
         soundInstance = loader.resources[soundID].sound.play();
     }
     */
-    var soundInstance = PIXI.sound.play(soundID);
+
+    if (PIXI.sound._sounds[soundID].isPlaying){
+        var soundInstance = "no double sound for you";
+    } else {
+        var soundInstance = PIXI.sound.play(soundID);
+    }
 
     if (subtitleArray[soundID] == undefined) {
 
