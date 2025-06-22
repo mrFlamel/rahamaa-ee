@@ -13944,9 +13944,6 @@ function doExitMono() {
 
     updateUserCookie();
 
-    loadPreloaderAssets(); // That somehow fixed this error, when graphics broke after exiting monopoly, though a lot of warnings comes
-                           // There's surely some prettier way, but right now I think it just works and that's good
-
     backToUniverse();
 }
 
@@ -16521,6 +16518,7 @@ function playSound(soundID, loader) {
 
     if (PIXI.sound._sounds[soundID].isPlaying){
         var soundInstance = "no double sound for you";
+        console.log("Double sound blocked.")
     } else {
         var soundInstance = PIXI.sound.play(soundID);
     }
