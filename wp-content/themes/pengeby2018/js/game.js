@@ -16516,9 +16516,9 @@ function playSound(soundID, loader) {
     }
     */
 
-    if (PIXI.sound._sounds[soundID].isPlaying){
+    if (PIXI.sound._sounds[soundID].isPlaying && soundID.startsWith("item_")){
         var soundInstance = "no double sound for you";
-        console.log("Double sound blocked.")
+        console.log('Double sound "' + soundID + '" blocked.');
     } else {
         var soundInstance = PIXI.sound.play(soundID);
     }
