@@ -16296,7 +16296,9 @@ function cleanup() { //only for sprites
 
     for (var i = cleanUpArray.length - 1; i >= 0; i--) {
         //console.log(i);
-        cleanUpArray[i].destroy(true);
+        if (cleanUpArray[i].texture){
+            cleanUpArray[i].destroy(true);
+        }
     }
 
     cleanUpArray = new Array();
@@ -16306,7 +16308,7 @@ function cleanup() { //only for sprites
         // console.log(cleanUpRemoveArray[i]);
         // console.log(cleanUpRemoveArray[i].texture);
 
-        if (cleanUpRemoveArray[i].texture == null) {} else {
+        if (cleanUpRemoveArray[i].texture){
             cleanUpRemoveArray[i].destroy();
         }
     }
