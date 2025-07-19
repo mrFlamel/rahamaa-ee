@@ -28,7 +28,7 @@ Kõik parandused ja soovitused (vt Issues) on väga tervitatud!
 "Rahamaa" looja ja autoriõiguste omanik on Danske Bank Group. Siiski ei teinud nad seda mängu ise. 
 
 
-Mängu loojatena tuleks veel ära tuua [Zupa Recommended](https://web.archive.org/web/20130311125235/http://zuparecommended.dk/category/news/), kellele viitab üks vana uudis internetiarhiivis, kus nad mainivad end ühe koostööpartnerina. Säilinud on vähe materjali, kuid suure tõenäosusega ostis 2014. aasta lõpus Zupa Recommended'i ära Spring Family, kes nimetas Zupa Recommended'i ümber lihtsalt [Zupa-ks](zupa.dk).
+Mängu loojatena tuleks veel ära tuua [Zupa Recommended](https://web.archive.org/web/20130311125235/http://zuparecommended.dk/category/news/), kellele viitab üks vana uudis internetiarhiivis, kus nad mainivad end ühe koostööpartnerina. Säilinud on vähe materjali, kuid suure tõenäosusega ostis 2014. aasta lõpus Zupa Recommended'i ära Spring Family, kes nimetas Zupa Recommended'i ümber lihtsalt [Zupa-ks](https://zupa.dk).
 
 
 Mängu koodi on kirjutanud (või vähemalt seda hooldanud) tekstur.dk, kelle kommentaare võib praegugi mängukoodist leida. Lisaks leiab nende veebilehe arhiveeritud versioonist alates 2015 aastast veidra kommentaari, et [töötasid firma Zupa Recommended heaks](https://web.archive.org/web/20150511124317/http://tekstur.dk/?page_id=6). 2022. aastal pandi tekstur.dk kinni ja selle omanik Jens Gertsen töötab nüüd firmas januar.com.
