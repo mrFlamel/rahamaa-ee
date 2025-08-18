@@ -34,5 +34,8 @@ Mängu loojatena tuleks veel ära tuua [Zupa Recommended](https://web.archive.or
 Mängu koodi on kirjutanud (või vähemalt seda hooldanud) tekstur.dk, kelle kommentaare võib praegugi mängukoodist leida. Lisaks leiab nende veebilehe arhiveeritud versioonist alates 2015 aastast veidra kommentaari, et [töötasid firma Zupa Recommended heaks](https://web.archive.org/web/20150511124317/http://tekstur.dk/?page_id=6). 2022. aastal pandi tekstur.dk kinni ja selle omanik Jens Gertsen töötab nüüd firmas januar.com.
 
 
+Mängu andmebaasid ja süsteemid põhinesid ["amfphp" teenuse peal](https://amfphp.org/), mis asetses aadressil <nt pengeby.dk>/?services/amfphp. Tänu Flash koodist leitud veebisaidile võib olla üsna kindel, et neid andmebaase haldas mingi periood [pil.dk](https://pil.dk).
+
+
 Mängu uut versiooni arendab hetkel PortaPlay, kes mainis seda ka enda [Facebook'i lehel](https://www.facebook.com/photo.php?fbid=797534492382348&id=100063774121556&set=a.474892844646516). Peale selle asub mängu uus versioon domeenil prtpl.com, mis on registreeritud PortaPlay nimele.
 
